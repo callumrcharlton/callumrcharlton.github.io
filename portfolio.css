@@ -18,7 +18,7 @@ body{
 
 /* Choose the appearance of the tags, h1, h3 and p: */
 h1, h3, p{
-    color: whitesmoke;
+    color: rgb(165, 172, 175);
     background-color: black;
     font-family: 'Roboto', sans-serif;
     text-align: center;
@@ -39,15 +39,15 @@ h1, h3, p{
 
 /* Set the apperance of the class, chart */
 .chart{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border-style: solid;
-    border-color: white;
+    border-color: rgb(165, 172, 175);
     border-width: 3px;
     border-radius: 25px;
     text-align: center;
     padding: 20px;
     transition: border-radius 400ms, flex-grow 1000ms;
-    width: 45%;
+    width: auto;
     min-width: 350px;
     transition: transform 1000ms;
 
