@@ -11,10 +11,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Title for the page -->
-    <title>Document</title>
+    <title>Callum Charlton - Portfolio</title>
 
     <!-- Link to my style sheet -->
-    <link rel="stylesheet" href="indexCSS_exampleWk2.css">
+    <link rel="stylesheet" href="portfolio.css">
 
     <!--The next three lines allow the Vega embed-->
     <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
@@ -32,14 +32,18 @@
         <h3> Week 1</h3>
         <h3>Premier League Football</h3>
         <p>The first chart tracks the cumulative goals scored for home and away teams in the Premier League.</p>
-        <div class="chart" id="Chart1"> 
-            <div class="h-center2"></div>
-        </div>
+        <div class="chart" id="Chart1"> </div>
         
 
         <h3>Bank of England</h3>
         <p>My second chart looks at the balance sheet for the Bank of England</p>
         <div class="chart" id="Chart2"> </div>
+
+        <h3> Week 2</h3>
+        <p> The first chart below display the IMF lending outstanding. The second has been modified by myself.</p>
+        <div class="chart" id="Chart3"></div>
+        <div class="chart" id="Chart4"></div>
+        <p> The second chart suggests that 1984 was the riskiest year for lending since it is the highest proportion of GDP.</p>
     </div> 
 </body>
 
@@ -48,10 +52,14 @@
     //Define charts:
     var myChart1 = "chart1_Football.json";
     var myChart2 = "chart2_BoELiabilities.json";
+    var myChart3 = "imflending.json"
+    var myChart4 = "imflending2.json"
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
     vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chart3', myChart3);
+    vegaEmbed('#Chart4', myChart4);
 </script>
 
 </html>
