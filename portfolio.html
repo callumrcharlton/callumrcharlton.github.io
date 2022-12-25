@@ -40,10 +40,16 @@
         <div class="chart" id="Chart2"> </div>
 
         <h3> Week 2</h3>
-        <p> The first chart below display the IMF lending outstanding. The second has been modified by myself.</p>
+        <p> The first chart below displays the IMF lending outstanding. The second has been modified by myself.</p>
         <div class="chart" id="Chart3"></div>
         <div class="chart" id="Chart4"></div>
         <p> The second chart suggests that 1984 was the riskiest year for lending since it is the highest proportion of GDP.</p>
+
+        <h3> Week 3</h3>
+        <p> The charts below display the same dataset in two different ways.</p>
+        <div class="chart" id="Chart5"></div>
+        <div class="chart" id="Chart6"></div>
+        <p> DP.</p>
     </div> 
 </body>
 
@@ -52,14 +58,19 @@
     //Define charts:
     var myChart1 = "chart1_Football.json";
     var myChart2 = "chart2_BoELiabilities.json";
-    var myChart3 = "imflending.json"
-    var myChart4 = "imflending2.json"
+    var myChart3 = "imflending.json";
+    var myChart4 = "imflending2.json";
+    var myChart5 = "NFCEPF1.json";
+    var myChart6 = "NFCEPF2.json";
+
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
     vegaEmbed('#Chart2', myChart2);
     vegaEmbed('#Chart3', myChart3);
     vegaEmbed('#Chart4', myChart4);
+    vegaEmbed('#Chart5', myChart5);
+    vegaEmbed('#Chart6', myChart6);
 </script>
 
 </html>

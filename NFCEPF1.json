@@ -1,0 +1,42 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "values": [{"Year": 2022, "Team": "Philadelphia Eagles", "PF": 411}, {"Year": 2021, "Team": "Philadelphia Eagles", "PF": 444}, {"Year": 2020, "Team": "Philadelphia Eagles", "PF": 334}, {"Year": 2019, "Team": "Philadelphia Eagles", "PF": 385}, {"Year": 2018, "Team": "Philadelphia Eagles", "PF": 367}, {"Year": 2017, "Team": "Philadelphia Eagles", "PF": 457}, {"Year": 2016, "Team": "Philadelphia Eagles", "PF": 367}, {"Year": 2015, "Team": "Philadelphia Eagles", "PF": 377}, {"Year": 2014, "Team": "Philadelphia Eagles", "PF": 474}, {"Year": 2013, "Team": "Philadelphia Eagles", "PF": 442}, {"Year": 2012, "Team": "Philadelphia Eagles", "PF": 280}, {"Year": 2011, "Team": "Philadelphia Eagles", "PF": 396}, {"Year": 2010, "Team": "Philadelphia Eagles", "PF": 439}, {"Year": 2009, "Team": "Philadelphia Eagles", "PF": 429}, {"Year": 2008, "Team": "Philadelphia Eagles", "PF": 416}, {"Year": 2007, "Team": "Philadelphia Eagles", "PF": 336}, {"Year": 2006, "Team": "Philadelphia Eagles", "PF": 398}, {"Year": 2005, "Team": "Philadelphia Eagles", "PF": 310}, {"Year": 2004, "Team": "Philadelphia Eagles", "PF": 386}, {"Year": 2003, "Team": "Philadelphia Eagles", "PF": 374}, {"Year": 2002, "Team": "Philadelphia Eagles", "PF": 415}, {"Year": 2001, "Team": "Philadelphia Eagles", "PF": 343}, {"Year": 2000, "Team": "Philadelphia Eagles", "PF": 351}, {"Year": 1999, "Team": "Philadelphia Eagles", "PF": 272}, {"Year": 1998, "Team": "Philadelphia Eagles", "PF": 161}, {"Year": 1997, "Team": "Philadelphia Eagles", "PF": 317}, {"Year": 1996, "Team": "Philadelphia Eagles", "PF": 363}, {"Year": 1995, "Team": "Philadelphia Eagles", "PF": 318}, {"Year": 1994, "Team": "Philadelphia Eagles", "PF": 308}, {"Year": 1993, "Team": "Philadelphia Eagles", "PF": 293}, {"Year": 1992, "Team": "Philadelphia Eagles", "PF": 354}, {"Year": 2022, "Team": "Dallas Cowboys", "PF": 394}, {"Year": 2021, "Team": "Dallas Cowboys", "PF": 530}, {"Year": 2020, "Team": "Dallas Cowboys", "PF": 395}, {"Year": 2019, "Team": "Dallas Cowboys", "PF": 434}, {"Year": 2018, "Team": "Dallas Cowboys", "PF": 339}, {"Year": 2017, "Team": "Dallas Cowboys", "PF": 354}, {"Year": 2016, "Team": "Dallas Cowboys", "PF": 421}, {"Year": 2015, "Team": "Dallas Cowboys", "PF": 275}, {"Year": 2014, "Team": "Dallas Cowboys", "PF": 467}, {"Year": 2013, "Team": "Dallas Cowboys", "PF": 439}, {"Year": 2012, "Team": "Dallas Cowboys", "PF": 376}, {"Year": 2011, "Team": "Dallas Cowboys", "PF": 369}, {"Year": 2010, "Team": "Dallas Cowboys", "PF": 394}, {"Year": 2009, "Team": "Dallas Cowboys", "PF": 361}, {"Year": 2008, "Team": "Dallas Cowboys", "PF": 362}, {"Year": 2007, "Team": "Dallas Cowboys", "PF": 455}, {"Year": 2006, "Team": "Dallas Cowboys", "PF": 425}, {"Year": 2005, "Team": "Dallas Cowboys", "PF": 325}, {"Year": 2004, "Team": "Dallas Cowboys", "PF": 293}, {"Year": 2003, "Team": "Dallas Cowboys", "PF": 289}, {"Year": 2002, "Team": "Dallas Cowboys", "PF": 217}, {"Year": 2001, "Team": "Dallas Cowboys", "PF": 246}, {"Year": 2000, "Team": "Dallas Cowboys", "PF": 294}, {"Year": 1999, "Team": "Dallas Cowboys", "PF": 352}, {"Year": 1998, "Team": "Dallas Cowboys", "PF": 381}, {"Year": 1997, "Team": "Dallas Cowboys", "PF": 304}, {"Year": 1996, "Team": "Dallas Cowboys", "PF": 286}, {"Year": 1995, "Team": "Dallas Cowboys", "PF": 435}, {"Year": 1994, "Team": "Dallas Cowboys", "PF": 414}, {"Year": 1993, "Team": "Dallas Cowboys", "PF": 376}, {"Year": 1992, "Team": "Dallas Cowboys", "PF": 409}, {"Year": 2022, "Team": "New York Giants", "PF": 287}, {"Year": 2021, "Team": "New York Giants", "PF": 258}, {"Year": 2020, "Team": "New York Giants", "PF": 280}, {"Year": 2019, "Team": "New York Giants", "PF": 341}, {"Year": 2018, "Team": "New York Giants", "PF": 369}, {"Year": 2017, "Team": "New York Giants", "PF": 246}, {"Year": 2016, "Team": "New York Giants", "PF": 310}, {"Year": 2015, "Team": "New York Giants", "PF": 420}, {"Year": 2014, "Team": "New York Giants", "PF": 380}, {"Year": 2013, "Team": "New York Giants", "PF": 294}, {"Year": 2012, "Team": "New York Giants", "PF": 429}, {"Year": 2011, "Team": "New York Giants", "PF": 394}, {"Year": 2010, "Team": "New York Giants", "PF": 394}, {"Year": 2009, "Team": "New York Giants", "PF": 402}, {"Year": 2008, "Team": "New York Giants", "PF": 427}, {"Year": 2007, "Team": "New York Giants", "PF": 373}, {"Year": 2006, "Team": "New York Giants", "PF": 355}, {"Year": 2005, "Team": "New York Giants", "PF": 422}, {"Year": 2004, "Team": "New York Giants", "PF": 303}, {"Year": 2003, "Team": "New York Giants", "PF": 243}, {"Year": 2002, "Team": "New York Giants", "PF": 320}, {"Year": 2001, "Team": "New York Giants", "PF": 294}, {"Year": 2000, "Team": "New York Giants", "PF": 328}, {"Year": 1999, "Team": "New York Giants", "PF": 299}, {"Year": 1998, "Team": "New York Giants", "PF": 287}, {"Year": 1997, "Team": "New York Giants", "PF": 307}, {"Year": 1996, "Team": "New York Giants", "PF": 242}, {"Year": 1995, "Team": "New York Giants", "PF": 290}, {"Year": 1994, "Team": "New York Giants", "PF": 279}, {"Year": 1993, "Team": "New York Giants", "PF": 288}, {"Year": 1992, "Team": "New York Giants", "PF": 306}, {"Year": 2022, "Team": "Washington Commanders", "PF": 265}, {"Year": 2021, "Team": "Washington Commanders", "PF": 335}, {"Year": 2020, "Team": "Washington Commanders", "PF": 335}, {"Year": 2019, "Team": "Washington Commanders", "PF": 266}, {"Year": 2018, "Team": "Washington Commanders", "PF": 281}, {"Year": 2017, "Team": "Washington Commanders", "PF": 342}, {"Year": 2016, "Team": "Washington Commanders", "PF": 396}, {"Year": 2015, "Team": "Washington Commanders", "PF": 388}, {"Year": 2014, "Team": "Washington Commanders", "PF": 301}, {"Year": 2013, "Team": "Washington Commanders", "PF": 334}, {"Year": 2012, "Team": "Washington Commanders", "PF": 436}, {"Year": 2011, "Team": "Washington Commanders", "PF": 288}, {"Year": 2010, "Team": "Washington Commanders", "PF": 302}, {"Year": 2009, "Team": "Washington Commanders", "PF": 266}, {"Year": 2008, "Team": "Washington Commanders", "PF": 265}, {"Year": 2007, "Team": "Washington Commanders", "PF": 334}, {"Year": 2006, "Team": "Washington Commanders", "PF": 307}, {"Year": 2005, "Team": "Washington Commanders", "PF": 359}, {"Year": 2004, "Team": "Washington Commanders", "PF": 240}, {"Year": 2003, "Team": "Washington Commanders", "PF": 287}, {"Year": 2002, "Team": "Washington Commanders", "PF": 307}, {"Year": 2001, "Team": "Washington Commanders", "PF": 256}, {"Year": 2000, "Team": "Washington Commanders", "PF": 281}, {"Year": 1999, "Team": "Washington Commanders", "PF": 443}, {"Year": 1998, "Team": "Washington Commanders", "PF": 319}, {"Year": 1997, "Team": "Washington Commanders", "PF": 327}, {"Year": 1996, "Team": "Washington Commanders", "PF": 364}, {"Year": 1995, "Team": "Washington Commanders", "PF": 326}, {"Year": 1994, "Team": "Washington Commanders", "PF": 320}, {"Year": 1993, "Team": "Washington Commanders", "PF": 230}, {"Year": 1992, "Team": "Washington Commanders", "PF": 300}]
+    },
+    "mark": "bar",
+    "width": 550,
+    "height": 500,
+    "title": {
+      "text": "Points Scored by NFC East Teams",
+      "subtitle": "Total season points scored by each NFC East team in the NFL since 1992, Source: Pro Football Reference",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "encoding": {
+      "x": {"field": "Year", "type": "nominal"},
+      "y": {"field": "PF", "type": "quantitative", "title": "Points Scored" 
+      },
+      "tooltip": [
+        {"field": "Year", "type": "nominal", "title": "Year"},
+        {"field": "PF", "type": "quantitative", "title": "Points Scored"},
+        {"field": "Team", "type": "ordinal", "title": "Team"}
+      ],
+      "color": {
+        "field": "Team",
+        "type": "nominal",
+        "legend": {"orient": "top-left"},
+        "scale": {
+          "domain": [
+            "Philadelphia Eagles",
+            "Dallas Cowboys",
+            "Washington Commanders",
+            "New York Giants"
+          ],
+          "range": ["#004953", "#041E42", "#FFB612", "#A71930"]
+        },
+        "title": "Team:"
+      }
+    }
+  }
