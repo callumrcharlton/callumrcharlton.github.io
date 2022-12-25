@@ -1,0 +1,50 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "SAS litter",
+    "title": {
+  
+      "text": "Career NFL Passing Yard Leaders",
+  
+      "subtitle": "Top 50 NFL Quarterbacks Ranked by Career Passing Yards, Source: Wikipedia",
+  
+      "subtitleFontStyle":"italic",
+  
+      "subtitleFontSize":10,
+  
+      "anchor": "start",
+  
+      "color": "black"
+   },
+  
+    "data": {"url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/PassingYards.csv"},
+    "mark":{
+  
+   
+  
+        "type": "bar",
+  
+        "color": "#5752B4",
+  
+        "strokeWidth":10,
+  
+        "opacity":1
+  
+   
+  
+      },
+    "height": 500,
+    "width": 350,
+  
+    "encoding": {
+      "y": {"field": "Player", "type": "ordinal", "sort":[], "title": "Player"},
+  
+  
+  
+  
+      "x": {"field": "Yards", "type": "quantitative", "title": "Passing Yards", "scale": {"domain": [0, 90000]}}
+   
+  
+      }
+  
+  
+  }
