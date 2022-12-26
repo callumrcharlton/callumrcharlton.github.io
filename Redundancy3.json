@@ -2,15 +2,15 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
     "data": {
-       "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/data_ONS_BEAO.json",
+       "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/data_ONS_BEJA.json",
        "format": {
            "type":"json",
            "property": "years"}},
 
 
     "title": {
-        "text": "Redundancy Levels UK",
-        "subtitle": "ILO redundancy level (thousands), UK, 1995-2022 Souce: ONS",
+        "text": "Female Redundancy Levels UK",
+        "subtitle": "ILO redundancy level (thousands) for women, UK, 1995-2022 Souce: ONS",
         "subtitleFontStyle":"italic",
         "subtitleFontSize":10,
         "anchor": "start",
