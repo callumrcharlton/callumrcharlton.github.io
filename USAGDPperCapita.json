@@ -1,0 +1,45 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "width":600,
+    "height":300,
+
+    "data": {
+       "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/USstateoutline.json",
+       "format":{
+          "property": "features"}},
+          "projection": {
+            "type": "albersUsa"
+          },
+
+          "transform": [
+            {
+              "lookup": "properties.NAME",
+              "from":{
+                "data":{
+                  "url":"https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/USAdata.csv"},
+                "key": "State",
+                "fields": ["GDPcapita", "Population"]
+                }
+              }
+            
+          ],
+
+          "mark":{
+            "type": "geoshape",
+            "stroke":"black",
+            "strokeWidth":0.3
+          },
+        "encoding": {
+          "color":{
+            "field":"GDPcapita",
+            "type": "quantitative"},
+            
+          
+          
+          "tooltip":[
+            {"field":"properties.NAME", "type":"nominal", "title":"State"},
+            {"field":"GDPcapita", "title":"GDP per Capita ($)"},
+            {"field":"Population", "title":"Population"}]
+        }
+  }
