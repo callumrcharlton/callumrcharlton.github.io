@@ -41,5 +41,11 @@
             {"field":"properties.NAME", "type":"nominal", "title":"State"},
             {"field":"GDPcapita", "title":"GDP per Capita ($)"},
             {"field":"Population", "title":"Population"}]
-        }
+        },
+            "title": {
+      "text": "GDP per Capita by US State",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"}
   }
