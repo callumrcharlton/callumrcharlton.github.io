@@ -2,15 +2,15 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
     "data": {
-       "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/data_ONS_JWW2.json",
+       "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/data_ONS_LF4R.json",
        "format": {
            "type":"json",
            "property": "years"}},
 
 
     "title": {
-        "text": "Finance, Insurance, and Real Estate Redundancy Levels",
-        "subtitle": "Industry redundancy level (thousands), UK, 1995-2018 Souce: ONS",
+        "text": "Economically Inactive Population, Age 16-64",
+        "subtitle": "Total economic inactivity (thousands), UK, 1995-2022 Souce: ONS",
         "subtitleFontStyle":"italic",
         "subtitleFontSize":10,
         "anchor": "start",
@@ -36,7 +36,7 @@
       "y": {
           "field": "value",
           "type": "quantitative",
-          "title": "Redundancy Level"}
+          "title": "Economic Inactivity"}
     },
     "resolve": {
       "scale": {

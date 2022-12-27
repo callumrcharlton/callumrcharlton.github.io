@@ -10,7 +10,7 @@
 
     "title": {
         "text": "Female Redundancy Levels UK",
-        "subtitle": "ILO redundancy level (thousands) for women, UK, 1995-2022 Souce: ONS",
+        "subtitle": "Redundancy level (thousands) Women, UK, 1995-2022 Souce: ONS",
         "subtitleFontStyle":"italic",
         "subtitleFontSize":10,
         "anchor": "start",
