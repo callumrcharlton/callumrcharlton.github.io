@@ -1,0 +1,37 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "title": {
+     "text": "UK Distribution of Wealth",
+     "subtitle":"Total wealth and net property value by age, Source: ONS",
+     "subtitleFontStyle":"italic",
+     "subtitleFontSize":10,
+     "anchor": "start"},
+  
+    "data": {
+      "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKWealthDistribution.csv"
+    },
+    "width": {"step": 30},
+    "height": 270,
+    "mark": "bar",
+    "encoding": {
+      "column": {"field": "Wealth", "type": "nominal", "spacing": 20, "title": null},
+      "y": {
+        "aggregate": "sum",
+        "field": "Value",
+        "title": "Wealth Value (£)"
+      },
+      "x": {
+        "field": "Age",
+        "type": "ordinal",
+        "axis": {"title": "", "labelColor": "white", "ticks": false},
+        "sort": "y"
+      },
+      "color": {
+        "field": "Age",
+        "scale": {"scheme": "inferno"},
+        "legend": {"orient": "top-left"}
+      }
+    },
+    "config": {"view": {"stroke": "transparent"}, "axis": {"domainWidth": 1}}
+  }
