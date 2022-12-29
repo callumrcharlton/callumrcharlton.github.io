@@ -32,8 +32,9 @@
           },
         "encoding": {
           "color":{
-            "field":"GDPcapita",
-            "type": "quantitative"},
+            "field":"GDPcapita", "title":"GDP per Capita",
+            "type": "quantitative",
+            "scale":{"scheme": "lightgreyred"}},
             
           
           
