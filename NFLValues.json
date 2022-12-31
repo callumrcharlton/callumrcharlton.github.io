@@ -1,0 +1,59 @@
+{ "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "title": {
+      "text": "NFL Teams Performance vs Franchise Value",
+      "subtitle":["NFL teams' Wins (x), Franchise value, billions (y). 2021 data","Size of points based on operating income, millions", ""],
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"
+    },
+
+  "config": {
+    "background":"white",
+    "view": {
+      "stroke": "transparent"}},
+  
+    "data": {
+      "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/NFLFranchiseValue.csv",
+      "format":{"type":"csv"}},
+  
+    "mark": {
+      "type":"circle",
+      "color":"green",
+      "opacity":0.7},
+    
+    "height": 300,
+    "width": 300,
+  
+    "encoding": {
+      "x": {
+        "field": "W", 
+        "type": "quantitative",
+        "scale": {"domain": [0, 16]},
+        "axis":{"grid": true},
+        "title":"Wins"},
+  
+      "y": {
+        "field": "FranchiseValue", 
+        "type": "quantitative",
+        "scale": {"domain": [2, 7]},
+        "axis":{"grid": true},
+        "title":"Franchise Value, billions $"},
+  
+      "size": {
+        "field": "OperatingIncome", 
+        "type": "quantitative",
+        "title":"Franchise Value",
+        "scale": { "range": [30, 400]},
+        "legend":null},
+
+      "tooltip":[
+        {"field":"Tm", "type": "ordinal", "title":"Team"},
+        {"field":"OperatingIncome", "type": "quantitative", "title":"Income (millions, $)", "format":".0f"},
+        {"field":"W", "type": "quantitative", "title":"Wins", "format":".0f"},
+        {"field":"FranchiseValue", "type": "quantitative", "title":"Franchise Value (billions, $)", "format":","}
+
+      ]
+     }
+  }
