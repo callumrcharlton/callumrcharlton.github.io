@@ -1,0 +1,55 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+   
+     "data": {"url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/PremSpend.csv"},
+  
+    "title": {
+    "text": "Premier League Points vs Expenditure",
+    "subtitle": ["Distribution of points scored in a season against the teams' transfer spending. Source: TransferMarkt, ToffeeWeb","Last 10 years"],
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "start",
+    "color": "black"
+  },
+  
+  
+    "mark": "rect",
+    "width": 400,
+    "height": 300,
+  
+  
+  
+    
+    "encoding": {
+     
+      "x": {
+        "bin": {"maxbins":35},
+        "field": "Values",
+        "type": "quantitative",
+        "scale":{"domain":[0, 350]},
+        "title":"Transfer Expenditure, € Millions",
+        "axis":{"format":2}
+  
+      },
+  
+      "y": {
+        "bin": {"maxbins": 35},
+        "field": "Pts",
+        "type": "quantitative",
+        "scale":{"domain":[18, 110]},
+        "title":"Season Points Scored",
+        "axis":{"format":""}
+      },
+     
+      "color": {
+        "aggregate": "count",
+        "type": "quantitative",
+        "legend":null
+      }
+    },
+    "config": {
+      "view": {
+        "stroke": "transparent"
+      }
+    }
+  }

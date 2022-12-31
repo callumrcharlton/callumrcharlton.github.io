@@ -83,9 +83,11 @@
         <p> Both charts support the argument made as house prices are increasing faster and the older population have a greater proportion of property value </p>
 
         <h3> Week 9</h3>
-        <p> The first map is a simple map of the USA, while second breaks down USA's GDP per capita by state on a choropleth map.</p>
+        <p> NFL franchises and Prem Spending</p>
+        <p> <a class=""textlink href="https://colab.research.google.com/drive/1wMPSnNM33-L699iOB_2BV1le1WX81dK_?usp=sharing"> Code used to collect and clean data for NFL chart </a>. </p>
+        <p> <a class=""textlink href="https://colab.research.google.com/drive/1jjNiaXQsk8zQ4OjXLiphWUxhKhYl8Dkf?usp=sharing"> Code used to collect and clean data for Prem Spend chart </a>. </p>
         <div class="chart" id="Chart21"></div>
-        <div class="chart" id="ChartX"></div>
+        <div class="chart" id="Chart22"></div>
 
     </div> 
 </body>
@@ -114,6 +116,7 @@
     var myChart19 = "HousePriceWages.json";
     var myChart20 = "UKWealth.json";
     var myChart21 = "NFLValues.json";
+    var myChart22 = "PremSpend.json";
 
 
     // Embed charts:
@@ -138,6 +141,7 @@
     vegaEmbed('#Chart19', myChart19);
     vegaEmbed('#Chart20', myChart20);
     vegaEmbed('#Chart21', myChart21);
+    vegaEmbed('#Chart22', myChart22);
 </script>
 
 </html>
