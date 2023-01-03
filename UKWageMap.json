@@ -12,11 +12,11 @@
     "background":"white",
     "view": {"stroke": "transparent"}},
   
-"width": 600,
-"height": 600,
+"width": 350,
+"height": 350,
   
 "data": {
-  "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKWeeklyPayClean.csv"},
+  "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKWeeklyPayClean2.csv"},
 
 "projection": {"type": "mercator"},
 
@@ -36,7 +36,7 @@
   {"lookup": "location",
     "from":{
       "data":{
-        "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKDistrictOutline.json", "format": {"property": "features"}}, 
+        "url": "https://raw.githubusercontent.com/martinjc/UK-GeoJSON/master/json/administrative/gb/lad.json", "format": {"property": "features"}}, 
       
       
         
