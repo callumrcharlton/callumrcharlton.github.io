@@ -1,0 +1,65 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+"title": {
+  "text": "Great Britain Map",
+  "subtitle":["Electoral Wards, Mercator Projection",""],
+  "subtitleFontStyle":"italic",
+  "subtitleFontSize":10,
+  "anchor": "middle",
+  "color": "black"},
+
+"config": {
+    "background":"white",
+    "view": {"stroke": "transparent"}},
+  
+"width": 600,
+"height": 600,
+  
+"data": {
+  "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKWeeklyPayClean.csv"},
+
+"projection": {"type": "mercator"},
+
+
+
+"encoding": {
+  "tooltip":[
+    {"field":"properties.LAD13NM", "type":"nominal",     "title":"District"},
+    {"field":"weeklywage", "type":"nominal", "title":"weeklywage"}],
+  "color":{
+    "field": "weeklywage", "title":"Weekly Pay", "type": "quantitative", "scale":{"scheme":"lightgreyred", "domain":[400,750]}
+  }
+        },
+
+"transform": [
+  {"filter": "datum.year==AnnualYear"},
+  {"lookup": "location",
+    "from":{
+      "data":{
+        "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKDistrictOutline.json", "format": {"property": "features"}}, 
+      
+      
+        
+        "key": "properties.LAD13NM",
+        "fields": ["properties","type","geometry"]
+    }}  
+  ],
+  
+
+"params": [    
+  {"name":"AnnualYear", "value":2021,
+    "bind":{
+      "input": "range",
+        "min": 2012, 
+        "max": 2022, 
+        "step": 1,
+        "name": "Select Year"}
+      }
+    ],
+
+
+"mark": {
+   "type": "geoshape",
+   "stroke": "black",
+    "strokeWidth":0.1}
+}
