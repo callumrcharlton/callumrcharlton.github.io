@@ -1,8 +1,8 @@
 {"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
 "title": {
-  "text": "Figure 1 - Great Britain Heat Map - Wages",
-  "subtitle":["Median weekly income by district, Source: ONS",""],
+  "text": "Figure 2 - Great Britain Heat Map - House Prices",
+  "subtitle":["Median residential house prices by district, Source: ROS, ONS",""],
   "subtitleFontStyle":"italic",
   "subtitleFontSize":10,
   "anchor": "middle",
@@ -16,7 +16,7 @@
 "height": 350,
   
 "data": {
-  "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKWeeklyPayClean2.csv"},
+  "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKHousePricesClean2.csv"},
 
 "projection": {"type": "mercator"},
 
@@ -25,9 +25,9 @@
 "encoding": {
   "tooltip":[
     {"field":"properties.LAD13NM", "type":"nominal",     "title":"District"},
-    {"field":"weeklywage", "type":"nominal", "title":"weeklywage"}],
+    {"field":"houseprice", "type":"nominal", "title":"House Price"}],
   "color":{
-    "field": "weeklywage", "title":"Weekly Pay (£)", "type": "quantitative", "scale":{"scheme":"plasma", "domain":[300,750]}
+    "field": "houseprice", "title":"House Price (£)", "type": "quantitative", "scale":{"scheme":"plasma","domain":[-100000,600000]}
   }
         },
 

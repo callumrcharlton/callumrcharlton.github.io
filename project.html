@@ -26,9 +26,21 @@
             
             <h3> Introduction</h3>
             <p>An economic problem faced by many people today is the cost-of-living crisis. The rising energy prices have garnered lots of media attention and there is concern the high rate of inflation is not being accompanied by an appropriate rise in wages. This project looks to investigate the extent at which house prices are increasing disproportionately more than wages and I will then look to discuss the significance of these effects on different age demographics in the United Kingdom.</p>
-            <p>The first chart tracks the cumulative goals scored for home and away teams in the Premier League.</p>
-            <div class="chart" id="Chart1"> </div>
             
+            <div class="chart" id="Chart1"></div>
+            <div class="chart" id="Chart2"> </div>
+            <p>Figures 1 and 2 visualise the change in wages and house prices, respectively, over time. The country has been divided into local districts and offer a comparison of the relative changes among regions. From this data, it is clear that both variables increase over time. However, it isn't clear that house prices are rising significantly quicker than  the population's income. Therefore to gain insight on how price rises affect the younger population, I will go into further detail across age groups.</p>
+            
+            <h3> references</h3>
+            <p>Figure 1: Great Britain Heat Map - Wages 
+                | Original data source: <a href="https://www.nomisweb.co.uk/query/construct/summary.asp?reset=yes&mode=construct&dataset=30&version=0&anal=1&initsel=">ONS (NOMIS)</a> 
+                | My Google Colab: <a href="https://colab.research.google.com/drive/1_rsu7VMXWTBkoyMQjRZHkGLORoMD36oR#scrollTo=BPtalZIEAPoF">UKWeeklyWageCleaner.ipynb</a> 
+                | CSV file: <a href="https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKWeeklyPayClean2.csv">UKWeeklyPayClean2.csv</a> </p>
+            <p>Figure 2: Great Britain Heat Map - House Prices 
+                | Original data source: <a href="https://www.ros.gov.uk/data-and-statistics/house-price-statistics/property-market-report-2021-22">ROS</a> & <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/medianhousepricefornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset09">ONS</a> 
+                | My Google Colab: <a href="https://colab.research.google.com/drive/1RTFLwFeESJ0NzFN4XalSO3npvJniuOC1#scrollTo=dLV6F-zy8NYl">UKHousePriceCleaner.ipynb</a> 
+                | CSV file: <a href="https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKHousePricesClean2.csv">UKHousePricesClean2.csv</a></p>
+
     
 
     
@@ -39,11 +51,15 @@
     <script>
         //Define charts:
         var myChart1 = "UKWageMap.json";
+        var myChart2 = "UKHouseMap.json";
+
+
 
     
     
         // Embed charts:
         vegaEmbed('#Chart1', myChart1);
+        vegaEmbed('#Chart2', myChart2);
 
     </script>
 
