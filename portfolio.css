@@ -1,13 +1,8 @@
-/* Richard Davies, Data Science for Economists */
 
-/* This is my first proper css file */
-
-
-/* Import a font */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 
-/* Set the background color for my page: */
+
 body{
     background-color: #004953;
     text-align: center;
@@ -16,7 +11,6 @@ body{
 }
 
 
-/* Choose the appearance of the tags, h1, h3 and p: */
 h1, h3, p{
     color: rgb(165, 172, 175);
     background-color: black;
@@ -54,3 +48,94 @@ h1, h3, p{
     
 }
 
+a{
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    -ms-transform: translateX(50%);
+    transform: translateX(50%);
+    text-align: center;
+
+    margin:20px
+}
+
+
+#link3{
+    background-color: rgba(28, 88, 45, 0.5);
+
+    padding:10px;
+    
+    border:2px;
+    border-color:rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 10px;
+
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:700;
+    color:rgb(165, 172, 175);
+    
+    text-decoration: none;
+    text-align: center;
+    
+}
+
+#link3:hover{
+
+    background-color: rgba(36, 185, 91, 0.8);
+
+    border:2px;
+    border-color:rgb(255, 255, 255);
+    border-style: solid;
+    text-align: center;
+    
+}
+.buttons {
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+  
+.buttons button {
+    cursor: pointer;
+    position: relative;
+    padding:
+      calc(var(--space) / 1.125)
+      var(--space)
+      var(--space);
+    border: var(--border-size) solid var(--border-color);
+    color: var(--color-text);
+    background-color: var(--color-primary);
+    font-size: 1.5rem;
+    font-family: var(--font-family);
+    text-transform: lowercase;
+    transition: flex-grow var(--duration) var(--ease);
+}
+.hcontainer {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    border: 3px solid rgb(165, 172, 175);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: #004953;
+}
+
+.h-center1 {
+    margin: 0;
+    text-align: center;
+    position: relative;
+    -ms-transform: translateX(50%);
+    transform: translateX(50%);
+    background-color: #004953;
+}
+
+.h-center2 {
+    margin: 0;
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    -ms-transform: translateX(50%);
+    transform: translateX(50%);
+}
