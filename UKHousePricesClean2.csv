@@ -1,0 +1,4138 @@
+location,year,houseprice
+Hartlepool,2012,108000
+Hartlepool,2013,115748
+Hartlepool,2014,120000
+Hartlepool,2015,124000
+Hartlepool,2016,119950
+Hartlepool,2017,124950
+Hartlepool,2018,125000
+Hartlepool,2019,129950
+Hartlepool,2020,131375
+Hartlepool,2021,132000
+Hartlepool,2022,126000
+Middlesbrough,2012,107000
+Middlesbrough,2013,110000
+Middlesbrough,2014,120000
+Middlesbrough,2015,129500
+Middlesbrough,2016,130000
+Middlesbrough,2017,125750
+Middlesbrough,2018,133500
+Middlesbrough,2019,135995
+Middlesbrough,2020,133250
+Middlesbrough,2021,136000
+Middlesbrough,2022,130000
+Redcar and Cleveland,2012,115000
+Redcar and Cleveland,2013,120000
+Redcar and Cleveland,2014,123000
+Redcar and Cleveland,2015,127500
+Redcar and Cleveland,2016,130000
+Redcar and Cleveland,2017,130000
+Redcar and Cleveland,2018,132000
+Redcar and Cleveland,2019,131000
+Redcar and Cleveland,2020,135000
+Redcar and Cleveland,2021,142500
+Redcar and Cleveland,2022,140000
+Stockton-on-Tees,2012,125000
+Stockton-on-Tees,2013,129995
+Stockton-on-Tees,2014,134950
+Stockton-on-Tees,2015,135000
+Stockton-on-Tees,2016,137500
+Stockton-on-Tees,2017,144000
+Stockton-on-Tees,2018,145000
+Stockton-on-Tees,2019,149950
+Stockton-on-Tees,2020,154950
+Stockton-on-Tees,2021,152500
+Stockton-on-Tees,2022,149000
+Darlington,2012,119000
+Darlington,2013,120000
+Darlington,2014,125000
+Darlington,2015,131000
+Darlington,2016,132500
+Darlington,2017,138000
+Darlington,2018,141000
+Darlington,2019,143000
+Darlington,2020,152000
+Darlington,2021,150000
+Darlington,2022,140000
+County Durham,2012,100000
+County Durham,2013,105000
+County Durham,2014,110000
+County Durham,2015,110000
+County Durham,2016,112000
+County Durham,2017,114950
+County Durham,2018,118000
+County Durham,2019,120000
+County Durham,2020,124000
+County Durham,2021,125000
+County Durham,2022,120000
+Northumberland,2012,137000
+Northumberland,2013,140000
+Northumberland,2014,149000
+Northumberland,2015,155000
+Northumberland,2016,158000
+Northumberland,2017,160000
+Northumberland,2018,167250
+Northumberland,2019,167000
+Northumberland,2020,180000
+Northumberland,2021,180000
+Northumberland,2022,165000
+Newcastle upon Tyne,2012,136000
+Newcastle upon Tyne,2013,136000
+Newcastle upon Tyne,2014,143000
+Newcastle upon Tyne,2015,151730
+Newcastle upon Tyne,2016,157000
+Newcastle upon Tyne,2017,155000
+Newcastle upon Tyne,2018,161995
+Newcastle upon Tyne,2019,164995
+Newcastle upon Tyne,2020,174000
+Newcastle upon Tyne,2021,180000
+Newcastle upon Tyne,2022,170000
+North Tyneside,2012,135000
+North Tyneside,2013,137000
+North Tyneside,2014,146000
+North Tyneside,2015,155000
+North Tyneside,2016,157000
+North Tyneside,2017,168000
+North Tyneside,2018,169950
+North Tyneside,2019,173000
+North Tyneside,2020,178000
+North Tyneside,2021,179000
+North Tyneside,2022,170000
+South Tyneside,2012,110000
+South Tyneside,2013,115000
+South Tyneside,2014,124973
+South Tyneside,2015,129950
+South Tyneside,2016,132000
+South Tyneside,2017,134000
+South Tyneside,2018,138000
+South Tyneside,2019,135100
+South Tyneside,2020,140000
+South Tyneside,2021,144748
+South Tyneside,2022,138000
+Sunderland,2012,110000
+Sunderland,2013,110000
+Sunderland,2014,116500
+Sunderland,2015,120000
+Sunderland,2016,120000
+Sunderland,2017,124995
+Sunderland,2018,128000
+Sunderland,2019,130000
+Sunderland,2020,129975
+Sunderland,2021,136950
+Sunderland,2022,130000
+Gateshead,2012,118000
+Gateshead,2013,124950
+Gateshead,2014,125000
+Gateshead,2015,129975
+Gateshead,2016,129500
+Gateshead,2017,132000
+Gateshead,2018,139950
+Gateshead,2019,138000
+Gateshead,2020,145375
+Gateshead,2021,145000
+Gateshead,2022,137500
+Halton,2012,113250
+Halton,2013,124000
+Halton,2014,124950
+Halton,2015,128000
+Halton,2016,135000
+Halton,2017,140000
+Halton,2018,139950
+Halton,2019,150000
+Halton,2020,155000
+Halton,2021,158000
+Halton,2022,155000
+Warrington,2012,147000
+Warrington,2013,152000
+Warrington,2014,157500
+Warrington,2015,165000
+Warrington,2016,169950
+Warrington,2017,178000
+Warrington,2018,184500
+Warrington,2019,192000
+Warrington,2020,210000
+Warrington,2021,230000
+Warrington,2022,220000
+Blackburn with Darwen,2012,96000
+Blackburn with Darwen,2013,98950
+Blackburn with Darwen,2014,102995
+Blackburn with Darwen,2015,103000
+Blackburn with Darwen,2016,105000
+Blackburn with Darwen,2017,110250
+Blackburn with Darwen,2018,120000
+Blackburn with Darwen,2019,123000
+Blackburn with Darwen,2020,128000
+Blackburn with Darwen,2021,130000
+Blackburn with Darwen,2022,125750
+Blackpool,2012,92500
+Blackpool,2013,95000
+Blackpool,2014,100000
+Blackpool,2015,103000
+Blackpool,2016,106000
+Blackpool,2017,112250
+Blackpool,2018,110000
+Blackpool,2019,115000
+Blackpool,2020,119000
+Blackpool,2021,125250
+Blackpool,2022,128000
+Cheshire East,2012,170000
+Cheshire East,2013,177000
+Cheshire East,2014,185000
+Cheshire East,2015,193750
+Cheshire East,2016,205000
+Cheshire East,2017,220000
+Cheshire East,2018,235000
+Cheshire East,2019,240000
+Cheshire East,2020,249950
+Cheshire East,2021,260000
+Cheshire East,2022,241500
+Cheshire West and Chester,2012,160000
+Cheshire West and Chester,2013,165000
+Cheshire West and Chester,2014,172500
+Cheshire West and Chester,2015,182500
+Cheshire West and Chester,2016,188000
+Cheshire West and Chester,2017,199995
+Cheshire West and Chester,2018,195995
+Cheshire West and Chester,2019,204995
+Cheshire West and Chester,2020,220000
+Cheshire West and Chester,2021,232000
+Cheshire West and Chester,2022,223800
+Allerdale,2012,140000
+Allerdale,2013,145000
+Allerdale,2014,148250
+Allerdale,2015,145000
+Allerdale,2016,145000
+Allerdale,2017,160000
+Allerdale,2018,165000
+Allerdale,2019,164000
+Allerdale,2020,171000
+Allerdale,2021,162000
+Allerdale,2022,150000
+Barrow-in-Furness,2012,96000
+Barrow-in-Furness,2013,99725
+Barrow-in-Furness,2014,105250
+Barrow-in-Furness,2015,110000
+Barrow-in-Furness,2016,116250
+Barrow-in-Furness,2017,119975
+Barrow-in-Furness,2018,125000
+Barrow-in-Furness,2019,126250
+Barrow-in-Furness,2020,130000
+Barrow-in-Furness,2021,140000
+Barrow-in-Furness,2022,136000
+Carlisle,2012,124000
+Carlisle,2013,124000
+Carlisle,2014,124950
+Carlisle,2015,130000
+Carlisle,2016,132000
+Carlisle,2017,139725
+Carlisle,2018,140000
+Carlisle,2019,145000
+Carlisle,2020,152500
+Carlisle,2021,150100
+Carlisle,2022,140000
+Copeland,2012,112000
+Copeland,2013,115000
+Copeland,2014,116000
+Copeland,2015,120000
+Copeland,2016,121000
+Copeland,2017,125500
+Copeland,2018,125000
+Copeland,2019,127500
+Copeland,2020,130000
+Copeland,2021,135000
+Copeland,2022,127000
+Eden,2012,168000
+Eden,2013,172500
+Eden,2014,175000
+Eden,2015,185000
+Eden,2016,185000
+Eden,2017,186950
+Eden,2018,209975
+Eden,2019,205000
+Eden,2020,218775
+Eden,2021,225000
+Eden,2022,220000
+South Lakeland,2012,193875
+South Lakeland,2013,193450
+South Lakeland,2014,205000
+South Lakeland,2015,211000
+South Lakeland,2016,218000
+South Lakeland,2017,229950
+South Lakeland,2018,225000
+South Lakeland,2019,245000
+South Lakeland,2020,252500
+South Lakeland,2021,260000
+South Lakeland,2022,245750
+Burnley,2012,77500
+Burnley,2013,73000
+Burnley,2014,85000
+Burnley,2015,78250
+Burnley,2016,86000
+Burnley,2017,91000
+Burnley,2018,90000
+Burnley,2019,94000
+Burnley,2020,103500
+Burnley,2021,117500
+Burnley,2022,118000
+Chorley,2012,150000
+Chorley,2013,148000
+Chorley,2014,154995
+Chorley,2015,162950
+Chorley,2016,165000
+Chorley,2017,170000
+Chorley,2018,166000
+Chorley,2019,175000
+Chorley,2020,181995
+Chorley,2021,189000
+Chorley,2022,182000
+Fylde,2012,160000
+Fylde,2013,165000
+Fylde,2014,173000
+Fylde,2015,184950
+Fylde,2016,191995
+Fylde,2017,197000
+Fylde,2018,195998
+Fylde,2019,199475
+Fylde,2020,215000
+Fylde,2021,218000
+Fylde,2022,200000
+Hyndburn,2012,88000
+Hyndburn,2013,89000
+Hyndburn,2014,86000
+Hyndburn,2015,92000
+Hyndburn,2016,100000
+Hyndburn,2017,102500
+Hyndburn,2018,100000
+Hyndburn,2019,109998
+Hyndburn,2020,109500
+Hyndburn,2021,119950
+Hyndburn,2022,120000
+Lancaster,2012,130000
+Lancaster,2013,132000
+Lancaster,2014,138500
+Lancaster,2015,144500
+Lancaster,2016,152500
+Lancaster,2017,150000
+Lancaster,2018,153000
+Lancaster,2019,158000
+Lancaster,2020,168500
+Lancaster,2021,179950
+Lancaster,2022,175000
+Pendle,2012,85000
+Pendle,2013,85000
+Pendle,2014,92000
+Pendle,2015,90000
+Pendle,2016,98500
+Pendle,2017,105000
+Pendle,2018,105000
+Pendle,2019,110000
+Pendle,2020,120000
+Pendle,2021,130000
+Pendle,2022,125000
+Preston,2012,125000
+Preston,2013,124000
+Preston,2014,124000
+Preston,2015,125750
+Preston,2016,132500
+Preston,2017,140000
+Preston,2018,145000
+Preston,2019,150000
+Preston,2020,153000
+Preston,2021,160250
+Preston,2022,155433
+Ribble Valley,2012,172125
+Ribble Valley,2013,182000
+Ribble Valley,2014,193500
+Ribble Valley,2015,203250
+Ribble Valley,2016,209500
+Ribble Valley,2017,219475
+Ribble Valley,2018,217500
+Ribble Valley,2019,238000
+Ribble Valley,2020,243995
+Ribble Valley,2021,249995
+Ribble Valley,2022,235000
+Rossendale,2012,105000
+Rossendale,2013,115750
+Rossendale,2014,120000
+Rossendale,2015,122850
+Rossendale,2016,125000
+Rossendale,2017,133000
+Rossendale,2018,130000
+Rossendale,2019,135000
+Rossendale,2020,150000
+Rossendale,2021,165585
+Rossendale,2022,162500
+South Ribble,2012,135000
+South Ribble,2013,144000
+South Ribble,2014,150000
+South Ribble,2015,151000
+South Ribble,2016,155000
+South Ribble,2017,158000
+South Ribble,2018,165000
+South Ribble,2019,165000
+South Ribble,2020,176000
+South Ribble,2021,182500
+South Ribble,2022,180000
+West Lancashire,2012,160000
+West Lancashire,2013,161250
+West Lancashire,2014,168000
+West Lancashire,2015,169973
+West Lancashire,2016,181000
+West Lancashire,2017,180000
+West Lancashire,2018,190000
+West Lancashire,2019,190000
+West Lancashire,2020,195000
+West Lancashire,2021,203925
+West Lancashire,2022,195000
+Wyre,2012,135000
+Wyre,2013,134500
+Wyre,2014,137500
+Wyre,2015,140000
+Wyre,2016,148000
+Wyre,2017,152000
+Wyre,2018,155000
+Wyre,2019,158000
+Wyre,2020,171000
+Wyre,2021,175000
+Wyre,2022,170000
+Bolton,2012,106000
+Bolton,2013,110000
+Bolton,2014,115000
+Bolton,2015,120000
+Bolton,2016,125000
+Bolton,2017,128000
+Bolton,2018,135000
+Bolton,2019,138000
+Bolton,2020,148796
+Bolton,2021,162500
+Bolton,2022,163750
+Bury,2012,123000
+Bury,2013,124500
+Bury,2014,135000
+Bury,2015,146995
+Bury,2016,150995
+Bury,2017,159950
+Bury,2018,167950
+Bury,2019,175000
+Bury,2020,188000
+Bury,2021,212500
+Bury,2022,212000
+Manchester,2012,125000
+Manchester,2013,128500
+Manchester,2014,134923
+Manchester,2015,143000
+Manchester,2016,150000
+Manchester,2017,163998
+Manchester,2018,173000
+Manchester,2019,181000
+Manchester,2020,208000
+Manchester,2021,220000
+Manchester,2022,216000
+Oldham,2012,107500
+Oldham,2013,110000
+Oldham,2014,116375
+Oldham,2015,119500
+Oldham,2016,123000
+Oldham,2017,127500
+Oldham,2018,130000
+Oldham,2019,137000
+Oldham,2020,150000
+Oldham,2021,170000
+Oldham,2022,172000
+Rochdale,2012,114995
+Rochdale,2013,115000
+Rochdale,2014,120000
+Rochdale,2015,124950
+Rochdale,2016,125000
+Rochdale,2017,129995
+Rochdale,2018,132500
+Rochdale,2019,140500
+Rochdale,2020,150000
+Rochdale,2021,168000
+Rochdale,2022,165000
+Salford,2012,115000
+Salford,2013,114000
+Salford,2014,120000
+Salford,2015,129995
+Salford,2016,145000
+Salford,2017,157495
+Salford,2018,160000
+Salford,2019,170500
+Salford,2020,192000
+Salford,2021,205000
+Salford,2022,205000
+Stockport,2012,162000
+Stockport,2013,165000
+Stockport,2014,175000
+Stockport,2015,183000
+Stockport,2016,199950
+Stockport,2017,205000
+Stockport,2018,225000
+Stockport,2019,227000
+Stockport,2020,248000
+Stockport,2021,270000
+Stockport,2022,258000
+Tameside,2012,107500
+Tameside,2013,113500
+Tameside,2014,118000
+Tameside,2015,125000
+Tameside,2016,128000
+Tameside,2017,137995
+Tameside,2018,140000
+Tameside,2019,152000
+Tameside,2020,160000
+Tameside,2021,175000
+Tameside,2022,180000
+Trafford,2012,185000
+Trafford,2013,195000
+Trafford,2014,200000
+Trafford,2015,220000
+Trafford,2016,237725
+Trafford,2017,250000
+Trafford,2018,262500
+Trafford,2019,271000
+Trafford,2020,295267
+Trafford,2021,320000
+Trafford,2022,325000
+Wigan,2012,110000
+Wigan,2013,114000
+Wigan,2014,119000
+Wigan,2015,125000
+Wigan,2016,125000
+Wigan,2017,132500
+Wigan,2018,138000
+Wigan,2019,146995
+Wigan,2020,151998
+Wigan,2021,160000
+Wigan,2022,160000
+Knowsley,2012,106000
+Knowsley,2013,110000
+Knowsley,2014,112500
+Knowsley,2015,119000
+Knowsley,2016,120000
+Knowsley,2017,129995
+Knowsley,2018,139475
+Knowsley,2019,152000
+Knowsley,2020,159995
+Knowsley,2021,161750
+Knowsley,2022,160000
+Liverpool,2012,110000
+Liverpool,2013,111000
+Liverpool,2014,118000
+Liverpool,2015,120000
+Liverpool,2016,120000
+Liverpool,2017,125000
+Liverpool,2018,125000
+Liverpool,2019,128000
+Liverpool,2020,139995
+Liverpool,2021,155000
+Liverpool,2022,150000
+St. Helens,2012,110000
+St. Helens,2013,114000
+St. Helens,2014,122500
+St. Helens,2015,123750
+St. Helens,2016,130000
+St. Helens,2017,132000
+St. Helens,2018,133500
+St. Helens,2019,138000
+St. Helens,2020,146000
+St. Helens,2021,155000
+St. Helens,2022,155000
+Sefton,2012,138600
+Sefton,2013,139998
+Sefton,2014,147000
+Sefton,2015,151000
+Sefton,2016,158500
+Sefton,2017,164000
+Sefton,2018,169950
+Sefton,2019,175000
+Sefton,2020,185000
+Sefton,2021,195250
+Sefton,2022,192000
+Wirral,2012,135000
+Wirral,2013,135000
+Wirral,2014,140000
+Wirral,2015,145000
+Wirral,2016,150000
+Wirral,2017,157000
+Wirral,2018,160000
+Wirral,2019,166000
+Wirral,2020,170000
+Wirral,2021,195000
+Wirral,2022,186125
+"Kingston upon Hull, City of",2012,89995
+"Kingston upon Hull, City of",2013,92000
+"Kingston upon Hull, City of",2014,99250
+"Kingston upon Hull, City of",2015,100000
+"Kingston upon Hull, City of",2016,108000
+"Kingston upon Hull, City of",2017,111000
+"Kingston upon Hull, City of",2018,115000
+"Kingston upon Hull, City of",2019,120000
+"Kingston upon Hull, City of",2020,120000
+"Kingston upon Hull, City of",2021,126000
+"Kingston upon Hull, City of",2022,125000
+East Riding of Yorkshire,2012,140748
+East Riding of Yorkshire,2013,142750
+East Riding of Yorkshire,2014,150000
+East Riding of Yorkshire,2015,155000
+East Riding of Yorkshire,2016,163000
+East Riding of Yorkshire,2017,172500
+East Riding of Yorkshire,2018,179825
+East Riding of Yorkshire,2019,185000
+East Riding of Yorkshire,2020,197625
+East Riding of Yorkshire,2021,205875
+East Riding of Yorkshire,2022,199950
+North East Lincolnshire,2012,110000
+North East Lincolnshire,2013,110000
+North East Lincolnshire,2014,119000
+North East Lincolnshire,2015,120000
+North East Lincolnshire,2016,125000
+North East Lincolnshire,2017,129000
+North East Lincolnshire,2018,130000
+North East Lincolnshire,2019,133000
+North East Lincolnshire,2020,144000
+North East Lincolnshire,2021,145000
+North East Lincolnshire,2022,143500
+North Lincolnshire,2012,114950
+North Lincolnshire,2013,118000
+North Lincolnshire,2014,122225
+North Lincolnshire,2015,125000
+North Lincolnshire,2016,127500
+North Lincolnshire,2017,134000
+North Lincolnshire,2018,140000
+North Lincolnshire,2019,142500
+North Lincolnshire,2020,151000
+North Lincolnshire,2021,161000
+North Lincolnshire,2022,160000
+York,2012,179725
+York,2013,182000
+York,2014,194347
+York,2015,213000
+York,2016,220000
+York,2017,229000
+York,2018,237000
+York,2019,245000
+York,2020,257000
+York,2021,275000
+York,2022,270000
+Craven,2012,175500
+Craven,2013,169000
+Craven,2014,176000
+Craven,2015,185000
+Craven,2016,190000
+Craven,2017,199950
+Craven,2018,199020
+Craven,2019,220000
+Craven,2020,239973
+Craven,2021,233000
+Craven,2022,230000
+Hambleton,2012,200000
+Hambleton,2013,200000
+Hambleton,2014,210000
+Hambleton,2015,215000
+Hambleton,2016,223250
+Hambleton,2017,227750
+Hambleton,2018,228500
+Hambleton,2019,235000
+Hambleton,2020,250000
+Hambleton,2021,265000
+Hambleton,2022,245000
+Harrogate,2012,210000
+Harrogate,2013,219475
+Harrogate,2014,225000
+Harrogate,2015,248250
+Harrogate,2016,258000
+Harrogate,2017,267998
+Harrogate,2018,271000
+Harrogate,2019,293750
+Harrogate,2020,300000
+Harrogate,2021,315000
+Harrogate,2022,287998
+Richmondshire,2012,185000
+Richmondshire,2013,187500
+Richmondshire,2014,184000
+Richmondshire,2015,190500
+Richmondshire,2016,195000
+Richmondshire,2017,194950
+Richmondshire,2018,212000
+Richmondshire,2019,210000
+Richmondshire,2020,225000
+Richmondshire,2021,240000
+Richmondshire,2022,230000
+Ryedale,2012,178750
+Ryedale,2013,184999
+Ryedale,2014,185000
+Ryedale,2015,197500
+Ryedale,2016,212250
+Ryedale,2017,215000
+Ryedale,2018,225000
+Ryedale,2019,222000
+Ryedale,2020,248500
+Ryedale,2021,247000
+Ryedale,2022,245000
+Scarborough,2012,142000
+Scarborough,2013,140000
+Scarborough,2014,145000
+Scarborough,2015,150000
+Scarborough,2016,149995
+Scarborough,2017,157500
+Scarborough,2018,158000
+Scarborough,2019,162500
+Scarborough,2020,175000
+Scarborough,2021,182500
+Scarborough,2022,181430
+Selby,2012,160000
+Selby,2013,159995
+Selby,2014,163250
+Selby,2015,171998
+Selby,2016,183000
+Selby,2017,190500
+Selby,2018,205000
+Selby,2019,210000
+Selby,2020,220000
+Selby,2021,222875
+Selby,2022,225000
+Barnsley,2012,105000
+Barnsley,2013,105000
+Barnsley,2014,115000
+Barnsley,2015,115000
+Barnsley,2016,118000
+Barnsley,2017,125000
+Barnsley,2018,130000
+Barnsley,2019,137000
+Barnsley,2020,138000
+Barnsley,2021,145000
+Barnsley,2022,144000
+Doncaster,2012,110000
+Doncaster,2013,112000
+Doncaster,2014,119500
+Doncaster,2015,125000
+Doncaster,2016,127500
+Doncaster,2017,129995
+Doncaster,2018,130000
+Doncaster,2019,133000
+Doncaster,2020,140000
+Doncaster,2021,152000
+Doncaster,2022,150000
+Rotherham,2012,119000
+Rotherham,2013,125000
+Rotherham,2014,125000
+Rotherham,2015,131000
+Rotherham,2016,132995
+Rotherham,2017,134950
+Rotherham,2018,140000
+Rotherham,2019,140000
+Rotherham,2020,152000
+Rotherham,2021,165000
+Rotherham,2022,160000
+Sheffield,2012,125000
+Sheffield,2013,125000
+Sheffield,2014,133500
+Sheffield,2015,138000
+Sheffield,2016,142500
+Sheffield,2017,150000
+Sheffield,2018,159995
+Sheffield,2019,162000
+Sheffield,2020,169000
+Sheffield,2021,185000
+Sheffield,2022,180750
+Bradford,2012,115000
+Bradford,2013,120000
+Bradford,2014,120000
+Bradford,2015,126000
+Bradford,2016,130000
+Bradford,2017,132000
+Bradford,2018,136125
+Bradford,2019,139950
+Bradford,2020,147000
+Bradford,2021,152000
+Bradford,2022,150000
+Calderdale,2012,118000
+Calderdale,2013,120000
+Calderdale,2014,125000
+Calderdale,2015,130000
+Calderdale,2016,135000
+Calderdale,2017,135000
+Calderdale,2018,142500
+Calderdale,2019,147500
+Calderdale,2020,152000
+Calderdale,2021,162000
+Calderdale,2022,160000
+Kirklees,2012,124500
+Kirklees,2013,125000
+Kirklees,2014,126000
+Kirklees,2015,135000
+Kirklees,2016,139973
+Kirklees,2017,145000
+Kirklees,2018,150000
+Kirklees,2019,157000
+Kirklees,2020,165000
+Kirklees,2021,175000
+Kirklees,2022,170000
+Leeds,2012,142495
+Leeds,2013,145000
+Leeds,2014,150000
+Leeds,2015,157000
+Leeds,2016,165000
+Leeds,2017,170000
+Leeds,2018,177000
+Leeds,2019,184973
+Leeds,2020,200000
+Leeds,2021,218000
+Leeds,2022,210000
+Wakefield,2012,120000
+Wakefield,2013,121000
+Wakefield,2014,125000
+Wakefield,2015,130000
+Wakefield,2016,139995
+Wakefield,2017,146000
+Wakefield,2018,153995
+Wakefield,2019,158000
+Wakefield,2020,160000
+Wakefield,2021,175000
+Wakefield,2022,170000
+Derby,2012,124000
+Derby,2013,129950
+Derby,2014,134950
+Derby,2015,138000
+Derby,2016,143500
+Derby,2017,147500
+Derby,2018,156000
+Derby,2019,170000
+Derby,2020,172500
+Derby,2021,185000
+Derby,2022,182998
+Leicester,2012,120000
+Leicester,2013,123000
+Leicester,2014,125000
+Leicester,2015,135000
+Leicester,2016,144000
+Leicester,2017,157000
+Leicester,2018,172000
+Leicester,2019,177000
+Leicester,2020,190000
+Leicester,2021,215000
+Leicester,2022,217000
+Rutland,2012,210000
+Rutland,2013,209000
+Rutland,2014,220000
+Rutland,2015,240000
+Rutland,2016,244495
+Rutland,2017,249995
+Rutland,2018,264975
+Rutland,2019,275000
+Rutland,2020,315000
+Rutland,2021,305000
+Rutland,2022,275000
+Nottingham,2012,99500
+Nottingham,2013,99995
+Nottingham,2014,110000
+Nottingham,2015,115000
+Nottingham,2016,124100
+Nottingham,2017,130000
+Nottingham,2018,138000
+Nottingham,2019,140000
+Nottingham,2020,153250
+Nottingham,2021,166000
+Nottingham,2022,170000
+Amber Valley,2012,129261
+Amber Valley,2013,131500
+Amber Valley,2014,136000
+Amber Valley,2015,153500
+Amber Valley,2016,156725
+Amber Valley,2017,163000
+Amber Valley,2018,174000
+Amber Valley,2019,176498
+Amber Valley,2020,182475
+Amber Valley,2021,205000
+Amber Valley,2022,195000
+Bolsover,2012,96000
+Bolsover,2013,98000
+Bolsover,2014,110000
+Bolsover,2015,114998
+Bolsover,2016,121000
+Bolsover,2017,125000
+Bolsover,2018,132000
+Bolsover,2019,135000
+Bolsover,2020,145000
+Bolsover,2021,155000
+Bolsover,2022,152500
+Chesterfield,2012,120000
+Chesterfield,2013,125000
+Chesterfield,2014,130000
+Chesterfield,2015,134500
+Chesterfield,2016,135000
+Chesterfield,2017,147750
+Chesterfield,2018,150000
+Chesterfield,2019,155000
+Chesterfield,2020,172000
+Chesterfield,2021,180000
+Chesterfield,2022,175000
+Derbyshire Dales,2012,199500
+Derbyshire Dales,2013,219000
+Derbyshire Dales,2014,220500
+Derbyshire Dales,2015,225250
+Derbyshire Dales,2016,235000
+Derbyshire Dales,2017,245000
+Derbyshire Dales,2018,264800
+Derbyshire Dales,2019,265000
+Derbyshire Dales,2020,275000
+Derbyshire Dales,2021,290000
+Derbyshire Dales,2022,288000
+Erewash,2012,120000
+Erewash,2013,122500
+Erewash,2014,128000
+Erewash,2015,135000
+Erewash,2016,138000
+Erewash,2017,145000
+Erewash,2018,157500
+Erewash,2019,160000
+Erewash,2020,172500
+Erewash,2021,187000
+Erewash,2022,190000
+High Peak,2012,150000
+High Peak,2013,148500
+High Peak,2014,151375
+High Peak,2015,163000
+High Peak,2016,170000
+High Peak,2017,185000
+High Peak,2018,189950
+High Peak,2019,190000
+High Peak,2020,200000
+High Peak,2021,219975
+High Peak,2022,219745
+North East Derbyshire,2012,140000
+North East Derbyshire,2013,145000
+North East Derbyshire,2014,150000
+North East Derbyshire,2015,165000
+North East Derbyshire,2016,168000
+North East Derbyshire,2017,175000
+North East Derbyshire,2018,182000
+North East Derbyshire,2019,190000
+North East Derbyshire,2020,210000
+North East Derbyshire,2021,210000
+North East Derbyshire,2022,205000
+South Derbyshire,2012,149950
+South Derbyshire,2013,148998
+South Derbyshire,2014,163500
+South Derbyshire,2015,170000
+South Derbyshire,2016,178000
+South Derbyshire,2017,197250
+South Derbyshire,2018,210000
+South Derbyshire,2019,218000
+South Derbyshire,2020,220000
+South Derbyshire,2021,226950
+South Derbyshire,2022,225000
+Blaby,2012,152500
+Blaby,2013,158000
+Blaby,2014,170000
+Blaby,2015,176000
+Blaby,2016,198000
+Blaby,2017,207975
+Blaby,2018,220000
+Blaby,2019,218000
+Blaby,2020,233000
+Blaby,2021,250000
+Blaby,2022,253500
+Charnwood,2012,158250
+Charnwood,2013,160000
+Charnwood,2014,170000
+Charnwood,2015,179950
+Charnwood,2016,190000
+Charnwood,2017,204950
+Charnwood,2018,215000
+Charnwood,2019,223000
+Charnwood,2020,230000
+Charnwood,2021,245000
+Charnwood,2022,240000
+Harborough,2012,190000
+Harborough,2013,195000
+Harborough,2014,221995
+Harborough,2015,233000
+Harborough,2016,242000
+Harborough,2017,260000
+Harborough,2018,277995
+Harborough,2019,294995
+Harborough,2020,309950
+Harborough,2021,315000
+Harborough,2022,295000
+Hinckley and Bosworth,2012,145000
+Hinckley and Bosworth,2013,150000
+Hinckley and Bosworth,2014,165000
+Hinckley and Bosworth,2015,172000
+Hinckley and Bosworth,2016,175000
+Hinckley and Bosworth,2017,193975
+Hinckley and Bosworth,2018,200000
+Hinckley and Bosworth,2019,204500
+Hinckley and Bosworth,2020,215000
+Hinckley and Bosworth,2021,235100
+Hinckley and Bosworth,2022,240000
+Melton,2012,164000
+Melton,2013,160000
+Melton,2014,170000
+Melton,2015,172500
+Melton,2016,192250
+Melton,2017,192250
+Melton,2018,210000
+Melton,2019,224475
+Melton,2020,232750
+Melton,2021,250000
+Melton,2022,238000
+North West Leicestershire,2012,138500
+North West Leicestershire,2013,159000
+North West Leicestershire,2014,167500
+North West Leicestershire,2015,172995
+North West Leicestershire,2016,182000
+North West Leicestershire,2017,197495
+North West Leicestershire,2018,210000
+North West Leicestershire,2019,215000
+North West Leicestershire,2020,230000
+North West Leicestershire,2021,240000
+North West Leicestershire,2022,230000
+Oadby and Wigston,2012,144500
+Oadby and Wigston,2013,145000
+Oadby and Wigston,2014,156500
+Oadby and Wigston,2015,167000
+Oadby and Wigston,2016,180000
+Oadby and Wigston,2017,189250
+Oadby and Wigston,2018,205000
+Oadby and Wigston,2019,225000
+Oadby and Wigston,2020,235000
+Oadby and Wigston,2021,252500
+Oadby and Wigston,2022,250250
+Boston,2012,122000
+Boston,2013,124000
+Boston,2014,130000
+Boston,2015,138000
+Boston,2016,140000
+Boston,2017,150000
+Boston,2018,158000
+Boston,2019,168000
+Boston,2020,169000
+Boston,2021,185000
+Boston,2022,182750
+East Lindsey,2012,129000
+East Lindsey,2013,132500
+East Lindsey,2014,139000
+East Lindsey,2015,147500
+East Lindsey,2016,150000
+East Lindsey,2017,160000
+East Lindsey,2018,167000
+East Lindsey,2019,175000
+East Lindsey,2020,180000
+East Lindsey,2021,197000
+East Lindsey,2022,199950
+Lincoln,2012,120000
+Lincoln,2013,120000
+Lincoln,2014,125000
+Lincoln,2015,130000
+Lincoln,2016,140000
+Lincoln,2017,143950
+Lincoln,2018,149000
+Lincoln,2019,155000
+Lincoln,2020,160000
+Lincoln,2021,172500
+Lincoln,2022,175000
+North Kesteven,2012,145000
+North Kesteven,2013,145000
+North Kesteven,2014,157500
+North Kesteven,2015,168000
+North Kesteven,2016,176000
+North Kesteven,2017,188000
+North Kesteven,2018,193000
+North Kesteven,2019,200000
+North Kesteven,2020,212000
+North Kesteven,2021,225000
+North Kesteven,2022,226000
+South Holland,2012,135000
+South Holland,2013,137500
+South Holland,2014,148500
+South Holland,2015,155000
+South Holland,2016,164995
+South Holland,2017,175000
+South Holland,2018,185000
+South Holland,2019,187000
+South Holland,2020,197995
+South Holland,2021,220000
+South Holland,2022,220000
+South Kesteven,2012,155000
+South Kesteven,2013,155000
+South Kesteven,2014,169000
+South Kesteven,2015,178000
+South Kesteven,2016,186725
+South Kesteven,2017,199000
+South Kesteven,2018,217500
+South Kesteven,2019,215000
+South Kesteven,2020,226000
+South Kesteven,2021,240000
+South Kesteven,2022,235000
+West Lindsey,2012,129950
+West Lindsey,2013,142500
+West Lindsey,2014,150300
+West Lindsey,2015,150000
+West Lindsey,2016,155000
+West Lindsey,2017,169975
+West Lindsey,2018,175000
+West Lindsey,2019,179000
+West Lindsey,2020,200000
+West Lindsey,2021,215000
+West Lindsey,2022,205000
+Daventry,2012,163000
+Daventry,2013,169250
+Daventry,2014,184500
+Daventry,2015,200000
+Daventry,2016,219000
+Daventry,2017,239995
+Daventry,2018,249000
+Daventry,2019,245500
+Daventry,2020,252845
+Daventry,2021,272950
+Daventry,2022,265000
+Northampton,2012,163000
+Northampton,2013,169250
+Northampton,2014,184500
+Northampton,2015,200000
+Northampton,2016,219000
+Northampton,2017,239995
+Northampton,2018,249000
+Northampton,2019,245500
+Northampton,2020,252845
+Northampton,2021,272950
+Northampton,2022,265000
+South Northamptonshire,2012,163000
+South Northamptonshire,2013,169250
+South Northamptonshire,2014,184500
+South Northamptonshire,2015,200000
+South Northamptonshire,2016,219000
+South Northamptonshire,2017,239995
+South Northamptonshire,2018,249000
+South Northamptonshire,2019,245500
+South Northamptonshire,2020,252845
+South Northamptonshire,2021,272950
+South Northamptonshire,2022,265000
+Kettering,2012,135000
+Kettering,2013,140000
+Kettering,2014,150000
+Kettering,2015,165000
+Kettering,2016,175000
+Kettering,2017,195000
+Kettering,2018,207000
+Kettering,2019,212500
+Kettering,2020,220000
+Kettering,2021,232950
+Kettering,2022,232500
+Corby,2012,135000
+Corby,2013,140000
+Corby,2014,150000
+Corby,2015,165000
+Corby,2016,175000
+Corby,2017,195000
+Corby,2018,207000
+Corby,2019,212500
+Corby,2020,220000
+Corby,2021,232950
+Corby,2022,232500
+Wellingborough,2012,135000
+Wellingborough,2013,140000
+Wellingborough,2014,150000
+Wellingborough,2015,165000
+Wellingborough,2016,175000
+Wellingborough,2017,195000
+Wellingborough,2018,207000
+Wellingborough,2019,212500
+Wellingborough,2020,220000
+Wellingborough,2021,232950
+Wellingborough,2022,232500
+East Northamptonshire,2012,135000
+East Northamptonshire,2013,140000
+East Northamptonshire,2014,150000
+East Northamptonshire,2015,165000
+East Northamptonshire,2016,175000
+East Northamptonshire,2017,195000
+East Northamptonshire,2018,207000
+East Northamptonshire,2019,212500
+East Northamptonshire,2020,220000
+East Northamptonshire,2021,232950
+East Northamptonshire,2022,232500
+West Northamptonshire,2012,163000
+West Northamptonshire,2013,169250
+West Northamptonshire,2014,184500
+West Northamptonshire,2015,200000
+West Northamptonshire,2016,219000
+West Northamptonshire,2017,239995
+West Northamptonshire,2018,249000
+West Northamptonshire,2019,245500
+West Northamptonshire,2020,252845
+West Northamptonshire,2021,272950
+West Northamptonshire,2022,265000
+Ashfield,2012,110000
+Ashfield,2013,113000
+Ashfield,2014,122000
+Ashfield,2015,125000
+Ashfield,2016,135000
+Ashfield,2017,137500
+Ashfield,2018,145000
+Ashfield,2019,144500
+Ashfield,2020,154000
+Ashfield,2021,170000
+Ashfield,2022,170000
+Bassetlaw,2012,120000
+Bassetlaw,2013,123995
+Bassetlaw,2014,125000
+Bassetlaw,2015,134995
+Bassetlaw,2016,140000
+Bassetlaw,2017,148000
+Bassetlaw,2018,157000
+Bassetlaw,2019,163000
+Bassetlaw,2020,175000
+Bassetlaw,2021,185000
+Bassetlaw,2022,175750
+Broxtowe,2012,133000
+Broxtowe,2013,135999
+Broxtowe,2014,140000
+Broxtowe,2015,149000
+Broxtowe,2016,160000
+Broxtowe,2017,165000
+Broxtowe,2018,177000
+Broxtowe,2019,186000
+Broxtowe,2020,200000
+Broxtowe,2021,215000
+Broxtowe,2022,215000
+Gedling,2012,127000
+Gedling,2013,133000
+Gedling,2014,144000
+Gedling,2015,150000
+Gedling,2016,154950
+Gedling,2017,168500
+Gedling,2018,178000
+Gedling,2019,185000
+Gedling,2020,199000
+Gedling,2021,215000
+Gedling,2022,210000
+Mansfield,2012,105000
+Mansfield,2013,110000
+Mansfield,2014,115000
+Mansfield,2015,122000
+Mansfield,2016,127500
+Mansfield,2017,130000
+Mansfield,2018,137000
+Mansfield,2019,150000
+Mansfield,2020,150000
+Mansfield,2021,165000
+Mansfield,2022,161550
+Newark and Sherwood,2012,139600
+Newark and Sherwood,2013,147000
+Newark and Sherwood,2014,147998
+Newark and Sherwood,2015,155000
+Newark and Sherwood,2016,162248
+Newark and Sherwood,2017,170000
+Newark and Sherwood,2018,180000
+Newark and Sherwood,2019,189995
+Newark and Sherwood,2020,195000
+Newark and Sherwood,2021,220000
+Newark and Sherwood,2022,210000
+Rushcliffe,2012,193000
+Rushcliffe,2013,200000
+Rushcliffe,2014,210500
+Rushcliffe,2015,235750
+Rushcliffe,2016,251000
+Rushcliffe,2017,265000
+Rushcliffe,2018,273250
+Rushcliffe,2019,280050
+Rushcliffe,2020,299973
+Rushcliffe,2021,300000
+Rushcliffe,2022,287500
+"Herefordshire, County of",2012,182500
+"Herefordshire, County of",2013,185000
+"Herefordshire, County of",2014,190000
+"Herefordshire, County of",2015,205000
+"Herefordshire, County of",2016,205000
+"Herefordshire, County of",2017,220000
+"Herefordshire, County of",2018,235000
+"Herefordshire, County of",2019,237000
+"Herefordshire, County of",2020,258500
+"Herefordshire, County of",2021,270000
+"Herefordshire, County of",2022,255000
+Telford and Wrekin,2012,139995
+Telford and Wrekin,2013,142500
+Telford and Wrekin,2014,146000
+Telford and Wrekin,2015,152000
+Telford and Wrekin,2016,159995
+Telford and Wrekin,2017,163000
+Telford and Wrekin,2018,167500
+Telford and Wrekin,2019,175975
+Telford and Wrekin,2020,187000
+Telford and Wrekin,2021,201500
+Telford and Wrekin,2022,195000
+Stoke-on-Trent,2012,87500
+Stoke-on-Trent,2013,90000
+Stoke-on-Trent,2014,95555
+Stoke-on-Trent,2015,100000
+Stoke-on-Trent,2016,105000
+Stoke-on-Trent,2017,110000
+Stoke-on-Trent,2018,116000
+Stoke-on-Trent,2019,120000
+Stoke-on-Trent,2020,125500
+Stoke-on-Trent,2021,135000
+Stoke-on-Trent,2022,135000
+Shropshire,2012,169000
+Shropshire,2013,172000
+Shropshire,2014,178500
+Shropshire,2015,185000
+Shropshire,2016,199950
+Shropshire,2017,210000
+Shropshire,2018,218000
+Shropshire,2019,220000
+Shropshire,2020,237000
+Shropshire,2021,255000
+Shropshire,2022,239950
+Cannock Chase,2012,125000
+Cannock Chase,2013,125000
+Cannock Chase,2014,132000
+Cannock Chase,2015,138000
+Cannock Chase,2016,149950
+Cannock Chase,2017,161000
+Cannock Chase,2018,165000
+Cannock Chase,2019,172750
+Cannock Chase,2020,187000
+Cannock Chase,2021,190000
+Cannock Chase,2022,190526
+East Staffordshire,2012,135000
+East Staffordshire,2013,140000
+East Staffordshire,2014,149950
+East Staffordshire,2015,160000
+East Staffordshire,2016,160000
+East Staffordshire,2017,174998
+East Staffordshire,2018,179973
+East Staffordshire,2019,190750
+East Staffordshire,2020,210000
+East Staffordshire,2021,215000
+East Staffordshire,2022,200000
+Lichfield,2012,180000
+Lichfield,2013,180000
+Lichfield,2014,192000
+Lichfield,2015,200000
+Lichfield,2016,210498
+Lichfield,2017,229000
+Lichfield,2018,242500
+Lichfield,2019,252350
+Lichfield,2020,266000
+Lichfield,2021,275000
+Lichfield,2022,265408
+Newcastle-under-Lyme,2012,124995
+Newcastle-under-Lyme,2013,128000
+Newcastle-under-Lyme,2014,130000
+Newcastle-under-Lyme,2015,134000
+Newcastle-under-Lyme,2016,136250
+Newcastle-under-Lyme,2017,134975
+Newcastle-under-Lyme,2018,145000
+Newcastle-under-Lyme,2019,148000
+Newcastle-under-Lyme,2020,160000
+Newcastle-under-Lyme,2021,167000
+Newcastle-under-Lyme,2022,170000
+South Staffordshire,2012,176995
+South Staffordshire,2013,173000
+South Staffordshire,2014,179998
+South Staffordshire,2015,190000
+South Staffordshire,2016,199000
+South Staffordshire,2017,217500
+South Staffordshire,2018,215000
+South Staffordshire,2019,229950
+South Staffordshire,2020,245000
+South Staffordshire,2021,260500
+South Staffordshire,2022,250000
+Stafford,2012,157000
+Stafford,2013,160000
+Stafford,2014,166995
+Stafford,2015,179000
+Stafford,2016,187000
+Stafford,2017,196500
+Stafford,2018,202500
+Stafford,2019,217500
+Stafford,2020,217725
+Stafford,2021,225000
+Stafford,2022,220000
+Staffordshire Moorlands,2012,135000
+Staffordshire Moorlands,2013,135000
+Staffordshire Moorlands,2014,143000
+Staffordshire Moorlands,2015,154000
+Staffordshire Moorlands,2016,153000
+Staffordshire Moorlands,2017,162000
+Staffordshire Moorlands,2018,164050
+Staffordshire Moorlands,2019,170000
+Staffordshire Moorlands,2020,185000
+Staffordshire Moorlands,2021,195000
+Staffordshire Moorlands,2022,190000
+Tamworth,2012,134000
+Tamworth,2013,138000
+Tamworth,2014,145000
+Tamworth,2015,150000
+Tamworth,2016,166000
+Tamworth,2017,175250
+Tamworth,2018,192750
+Tamworth,2019,209750
+Tamworth,2020,215995
+Tamworth,2021,220000
+Tamworth,2022,217500
+North Warwickshire,2012,147250
+North Warwickshire,2013,150000
+North Warwickshire,2014,156000
+North Warwickshire,2015,173000
+North Warwickshire,2016,180000
+North Warwickshire,2017,191000
+North Warwickshire,2018,205000
+North Warwickshire,2019,210000
+North Warwickshire,2020,230000
+North Warwickshire,2021,245000
+North Warwickshire,2022,240500
+Nuneaton and Bedworth,2012,127995
+Nuneaton and Bedworth,2013,129000
+Nuneaton and Bedworth,2014,135000
+Nuneaton and Bedworth,2015,145000
+Nuneaton and Bedworth,2016,153000
+Nuneaton and Bedworth,2017,162250
+Nuneaton and Bedworth,2018,179950
+Nuneaton and Bedworth,2019,184995
+Nuneaton and Bedworth,2020,194000
+Nuneaton and Bedworth,2021,205000
+Nuneaton and Bedworth,2022,207500
+Rugby,2012,159475
+Rugby,2013,165000
+Rugby,2014,184950
+Rugby,2015,187500
+Rugby,2016,201450
+Rugby,2017,218250
+Rugby,2018,245000
+Rugby,2019,249998
+Rugby,2020,250000
+Rugby,2021,260000
+Rugby,2022,246000
+Stratford-on-Avon,2012,245000
+Stratford-on-Avon,2013,245000
+Stratford-on-Avon,2014,250000
+Stratford-on-Avon,2015,275000
+Stratford-on-Avon,2016,290000
+Stratford-on-Avon,2017,300000
+Stratford-on-Avon,2018,315000
+Stratford-on-Avon,2019,315000
+Stratford-on-Avon,2020,325000
+Stratford-on-Avon,2021,345000
+Stratford-on-Avon,2022,325000
+Warwick,2012,210000
+Warwick,2013,220000
+Warwick,2014,239000
+Warwick,2015,260000
+Warwick,2016,280000
+Warwick,2017,290000
+Warwick,2018,305000
+Warwick,2019,305000
+Warwick,2020,324950
+Warwick,2021,326525
+Warwick,2022,315000
+Bromsgrove,2012,205000
+Bromsgrove,2013,206000
+Bromsgrove,2014,225000
+Bromsgrove,2015,245000
+Bromsgrove,2016,259950
+Bromsgrove,2017,269475
+Bromsgrove,2018,285000
+Bromsgrove,2019,285000
+Bromsgrove,2020,300000
+Bromsgrove,2021,320000
+Bromsgrove,2022,310625
+Malvern Hills,2012,200000
+Malvern Hills,2013,207000
+Malvern Hills,2014,218000
+Malvern Hills,2015,226000
+Malvern Hills,2016,247000
+Malvern Hills,2017,257500
+Malvern Hills,2018,274200
+Malvern Hills,2019,285000
+Malvern Hills,2020,295000
+Malvern Hills,2021,310000
+Malvern Hills,2022,295000
+Redditch,2012,145000
+Redditch,2013,154000
+Redditch,2014,165000
+Redditch,2015,170000
+Redditch,2016,176250
+Redditch,2017,195000
+Redditch,2018,207500
+Redditch,2019,217000
+Redditch,2020,225000
+Redditch,2021,235000
+Redditch,2022,227000
+Worcester,2012,162750
+Worcester,2013,163000
+Worcester,2014,170000
+Worcester,2015,181000
+Worcester,2016,180975
+Worcester,2017,188250
+Worcester,2018,197500
+Worcester,2019,205000
+Worcester,2020,215000
+Worcester,2021,227500
+Worcester,2022,220000
+Wychavon,2012,195000
+Wychavon,2013,197000
+Wychavon,2014,218000
+Wychavon,2015,232995
+Wychavon,2016,246750
+Wychavon,2017,262500
+Wychavon,2018,271000
+Wychavon,2019,272000
+Wychavon,2020,294950
+Wychavon,2021,300000
+Wychavon,2022,285000
+Wyre Forest,2012,146578
+Wyre Forest,2013,150000
+Wyre Forest,2014,155000
+Wyre Forest,2015,156725
+Wyre Forest,2016,165000
+Wyre Forest,2017,174500
+Wyre Forest,2018,185000
+Wyre Forest,2019,185000
+Wyre Forest,2020,202500
+Wyre Forest,2021,220000
+Wyre Forest,2022,220000
+Birmingham,2012,128000
+Birmingham,2013,132500
+Birmingham,2014,138000
+Birmingham,2015,145000
+Birmingham,2016,153504
+Birmingham,2017,164973
+Birmingham,2018,175000
+Birmingham,2019,180000
+Birmingham,2020,193000
+Birmingham,2021,210000
+Birmingham,2022,205000
+Coventry,2012,122500
+Coventry,2013,126500
+Coventry,2014,135000
+Coventry,2015,145000
+Coventry,2016,155000
+Coventry,2017,167000
+Coventry,2018,179950
+Coventry,2019,181995
+Coventry,2020,186995
+Coventry,2021,205000
+Coventry,2022,209000
+Dudley,2012,129995
+Dudley,2013,132000
+Dudley,2014,140000
+Dudley,2015,147500
+Dudley,2016,150000
+Dudley,2017,158000
+Dudley,2018,164000
+Dudley,2019,173000
+Dudley,2020,185000
+Dudley,2021,200000
+Dudley,2022,199950
+Sandwell,2012,110000
+Sandwell,2013,110000
+Sandwell,2014,118500
+Sandwell,2015,124950
+Sandwell,2016,128000
+Sandwell,2017,138000
+Sandwell,2018,148973
+Sandwell,2019,154950
+Sandwell,2020,160000
+Sandwell,2021,175000
+Sandwell,2022,183600
+Solihull,2012,200000
+Solihull,2013,210000
+Solihull,2014,220000
+Solihull,2015,240000
+Solihull,2016,246000
+Solihull,2017,265000
+Solihull,2018,273000
+Solihull,2019,277975
+Solihull,2020,300000
+Solihull,2021,320000
+Solihull,2022,297250
+Walsall,2012,123000
+Walsall,2013,125000
+Walsall,2014,135000
+Walsall,2015,135000
+Walsall,2016,140003
+Walsall,2017,149950
+Walsall,2018,156500
+Walsall,2019,157000
+Walsall,2020,164950
+Walsall,2021,185000
+Walsall,2022,185000
+Wolverhampton,2012,117000
+Wolverhampton,2013,118250
+Wolverhampton,2014,124995
+Wolverhampton,2015,128000
+Wolverhampton,2016,134500
+Wolverhampton,2017,140000
+Wolverhampton,2018,149995
+Wolverhampton,2019,153250
+Wolverhampton,2020,167500
+Wolverhampton,2021,179250
+Wolverhampton,2022,180000
+Peterborough,2012,132000
+Peterborough,2013,140000
+Peterborough,2014,150000
+Peterborough,2015,155000
+Peterborough,2016,165000
+Peterborough,2017,174250
+Peterborough,2018,187000
+Peterborough,2019,202000
+Peterborough,2020,210375
+Peterborough,2021,220000
+Peterborough,2022,215000
+Luton,2012,150000
+Luton,2013,155000
+Luton,2014,168000
+Luton,2015,193000
+Luton,2016,221000
+Luton,2017,240000
+Luton,2018,245000
+Luton,2019,245000
+Luton,2020,260000
+Luton,2021,275000
+Luton,2022,280000
+Southend-on-Sea,2012,183000
+Southend-on-Sea,2013,185000
+Southend-on-Sea,2014,203000
+Southend-on-Sea,2015,221000
+Southend-on-Sea,2016,242000
+Southend-on-Sea,2017,267000
+Southend-on-Sea,2018,280000
+Southend-on-Sea,2019,285000
+Southend-on-Sea,2020,300000
+Southend-on-Sea,2021,325000
+Southend-on-Sea,2022,320000
+Thurrock,2012,167748
+Thurrock,2013,175000
+Thurrock,2014,192500
+Thurrock,2015,225000
+Thurrock,2016,260000
+Thurrock,2017,275000
+Thurrock,2018,285000
+Thurrock,2019,282000
+Thurrock,2020,303000
+Thurrock,2021,320000
+Thurrock,2022,323000
+Bedford,2012,184000
+Bedford,2013,187500
+Bedford,2014,205000
+Bedford,2015,229995
+Bedford,2016,245000
+Bedford,2017,270000
+Bedford,2018,282000
+Bedford,2019,280000
+Bedford,2020,290000
+Bedford,2021,305000
+Bedford,2022,298500
+Central Bedfordshire,2012,196500
+Central Bedfordshire,2013,205000
+Central Bedfordshire,2014,225000
+Central Bedfordshire,2015,246000
+Central Bedfordshire,2016,272000
+Central Bedfordshire,2017,300000
+Central Bedfordshire,2018,315000
+Central Bedfordshire,2019,315000
+Central Bedfordshire,2020,324995
+Central Bedfordshire,2021,333000
+Central Bedfordshire,2022,325000
+Cambridge,2012,275000
+Cambridge,2013,308500
+Cambridge,2014,350000
+Cambridge,2015,405000
+Cambridge,2016,420000
+Cambridge,2017,430000
+Cambridge,2018,429998
+Cambridge,2019,435000
+Cambridge,2020,440000
+Cambridge,2021,450000
+Cambridge,2022,460000
+East Cambridgeshire,2012,186000
+East Cambridgeshire,2013,195000
+East Cambridgeshire,2014,214950
+East Cambridgeshire,2015,240000
+East Cambridgeshire,2016,260000
+East Cambridgeshire,2017,275000
+East Cambridgeshire,2018,280000
+East Cambridgeshire,2019,295000
+East Cambridgeshire,2020,310000
+East Cambridgeshire,2021,320000
+East Cambridgeshire,2022,297750
+Fenland,2012,128000
+Fenland,2013,132750
+Fenland,2014,141000
+Fenland,2015,150000
+Fenland,2016,163000
+Fenland,2017,179000
+Fenland,2018,185000
+Fenland,2019,190000
+Fenland,2020,202500
+Fenland,2021,215000
+Fenland,2022,215000
+Huntingdonshire,2012,180000
+Huntingdonshire,2013,185000
+Huntingdonshire,2014,198500
+Huntingdonshire,2015,215000
+Huntingdonshire,2016,230000
+Huntingdonshire,2017,260000
+Huntingdonshire,2018,270000
+Huntingdonshire,2019,280000
+Huntingdonshire,2020,290000
+Huntingdonshire,2021,295000
+Huntingdonshire,2022,280000
+South Cambridgeshire,2012,240000
+South Cambridgeshire,2013,249950
+South Cambridgeshire,2014,269000
+South Cambridgeshire,2015,320000
+South Cambridgeshire,2016,348000
+South Cambridgeshire,2017,366998
+South Cambridgeshire,2018,359950
+South Cambridgeshire,2019,370000
+South Cambridgeshire,2020,390000
+South Cambridgeshire,2021,399248
+South Cambridgeshire,2022,392000
+Basildon,2012,190000
+Basildon,2013,192000
+Basildon,2014,210000
+Basildon,2015,230000
+Basildon,2016,270000
+Basildon,2017,282500
+Basildon,2018,295000
+Basildon,2019,300000
+Basildon,2020,320000
+Basildon,2021,331300
+Basildon,2022,325000
+Braintree,2012,186250
+Braintree,2013,190000
+Braintree,2014,210000
+Braintree,2015,230000
+Braintree,2016,255000
+Braintree,2017,265500
+Braintree,2018,280000
+Braintree,2019,290000
+Braintree,2020,300000
+Braintree,2021,310000
+Braintree,2022,310000
+Brentwood,2012,271500
+Brentwood,2013,275000
+Brentwood,2014,308000
+Brentwood,2015,340000
+Brentwood,2016,400000
+Brentwood,2017,415000
+Brentwood,2018,425000
+Brentwood,2019,415000
+Brentwood,2020,466750
+Brentwood,2021,475000
+Brentwood,2022,460000
+Castle Point,2012,190000
+Castle Point,2013,200000
+Castle Point,2014,220000
+Castle Point,2015,247750
+Castle Point,2016,270000
+Castle Point,2017,293000
+Castle Point,2018,300000
+Castle Point,2019,300000
+Castle Point,2020,315000
+Castle Point,2021,335000
+Castle Point,2022,337000
+Chelmsford,2012,222500
+Chelmsford,2013,230000
+Chelmsford,2014,249999
+Chelmsford,2015,274995
+Chelmsford,2016,313750
+Chelmsford,2017,335000
+Chelmsford,2018,345000
+Chelmsford,2019,350000
+Chelmsford,2020,380000
+Chelmsford,2021,375000
+Chelmsford,2022,375000
+Colchester,2012,184850
+Colchester,2013,188000
+Colchester,2014,195000
+Colchester,2015,217250
+Colchester,2016,238250
+Colchester,2017,265000
+Colchester,2018,275000
+Colchester,2019,270000
+Colchester,2020,282000
+Colchester,2021,305000
+Colchester,2022,292000
+Epping Forest,2012,286000
+Epping Forest,2013,305000
+Epping Forest,2014,340000
+Epping Forest,2015,380000
+Epping Forest,2016,415000
+Epping Forest,2017,442500
+Epping Forest,2018,450000
+Epping Forest,2019,450000
+Epping Forest,2020,485000
+Epping Forest,2021,500000
+Epping Forest,2022,500000
+Harlow,2012,174000
+Harlow,2013,180000
+Harlow,2014,200000
+Harlow,2015,227500
+Harlow,2016,262500
+Harlow,2017,281500
+Harlow,2018,278500
+Harlow,2019,287500
+Harlow,2020,298000
+Harlow,2021,310000
+Harlow,2022,310000
+Maldon,2012,210000
+Maldon,2013,217000
+Maldon,2014,238000
+Maldon,2015,250000
+Maldon,2016,288000
+Maldon,2017,320000
+Maldon,2018,322500
+Maldon,2019,320000
+Maldon,2020,340000
+Maldon,2021,360000
+Maldon,2022,353750
+Rochford,2012,210000
+Rochford,2013,221500
+Rochford,2014,240000
+Rochford,2015,270000
+Rochford,2016,302000
+Rochford,2017,330000
+Rochford,2018,335000
+Rochford,2019,332500
+Rochford,2020,350000
+Rochford,2021,365000
+Rochford,2022,370000
+Tendring,2012,152250
+Tendring,2013,155000
+Tendring,2014,163000
+Tendring,2015,175000
+Tendring,2016,194000
+Tendring,2017,224250
+Tendring,2018,230000
+Tendring,2019,240000
+Tendring,2020,248000
+Tendring,2021,262000
+Tendring,2022,255000
+Uttlesford,2012,290000
+Uttlesford,2013,296750
+Uttlesford,2014,315000
+Uttlesford,2015,341143
+Uttlesford,2016,370000
+Uttlesford,2017,394995
+Uttlesford,2018,420000
+Uttlesford,2019,407500
+Uttlesford,2020,435000
+Uttlesford,2021,435000
+Uttlesford,2022,445000
+Broxbourne,2012,232000
+Broxbourne,2013,237000
+Broxbourne,2014,250000
+Broxbourne,2015,290000
+Broxbourne,2016,325000
+Broxbourne,2017,340000
+Broxbourne,2018,350000
+Broxbourne,2019,357000
+Broxbourne,2020,375000
+Broxbourne,2021,393500
+Broxbourne,2022,389995
+Dacorum,2012,245000
+Dacorum,2013,250000
+Dacorum,2014,280000
+Dacorum,2015,325000
+Dacorum,2016,340000
+Dacorum,2017,385000
+Dacorum,2018,377500
+Dacorum,2019,371000
+Dacorum,2020,410000
+Dacorum,2021,425000
+Dacorum,2022,412250
+Hertsmere,2012,292000
+Hertsmere,2013,310000
+Hertsmere,2014,366000
+Hertsmere,2015,395000
+Hertsmere,2016,445000
+Hertsmere,2017,448250
+Hertsmere,2018,450000
+Hertsmere,2019,440000
+Hertsmere,2020,485000
+Hertsmere,2021,535000
+Hertsmere,2022,535000
+North Hertfordshire,2012,230000
+North Hertfordshire,2013,227500
+North Hertfordshire,2014,249995
+North Hertfordshire,2015,287975
+North Hertfordshire,2016,324950
+North Hertfordshire,2017,335000
+North Hertfordshire,2018,335000
+North Hertfordshire,2019,350000
+North Hertfordshire,2020,388000
+North Hertfordshire,2021,383500
+North Hertfordshire,2022,375750
+Three Rivers,2012,315000
+Three Rivers,2013,340000
+Three Rivers,2014,360000
+Three Rivers,2015,420000
+Three Rivers,2016,455000
+Three Rivers,2017,465000
+Three Rivers,2018,470000
+Three Rivers,2019,465000
+Three Rivers,2020,480000
+Three Rivers,2021,500000
+Three Rivers,2022,520000
+Watford,2012,226128
+Watford,2013,235000
+Watford,2014,255000
+Watford,2015,300500
+Watford,2016,344500
+Watford,2017,365000
+Watford,2018,365000
+Watford,2019,367250
+Watford,2020,379500
+Watford,2021,395000
+Watford,2022,390000
+Breckland,2012,155000
+Breckland,2013,157000
+Breckland,2014,170000
+Breckland,2015,182500
+Breckland,2016,199950
+Breckland,2017,214000
+Breckland,2018,220000
+Breckland,2019,219995
+Breckland,2020,235000
+Breckland,2021,250000
+Breckland,2022,250000
+Broadland,2012,172500
+Broadland,2013,179950
+Broadland,2014,195000
+Broadland,2015,214950
+Broadland,2016,225000
+Broadland,2017,240000
+Broadland,2018,250000
+Broadland,2019,253000
+Broadland,2020,265000
+Broadland,2021,277000
+Broadland,2022,280000
+Great Yarmouth,2012,134100
+Great Yarmouth,2013,135000
+Great Yarmouth,2014,140000
+Great Yarmouth,2015,149995
+Great Yarmouth,2016,155000
+Great Yarmouth,2017,169995
+Great Yarmouth,2018,175000
+Great Yarmouth,2019,182500
+Great Yarmouth,2020,190000
+Great Yarmouth,2021,207500
+Great Yarmouth,2022,205000
+King's Lynn and West Norfolk,2012,150000
+King's Lynn and West Norfolk,2013,155498
+King's Lynn and West Norfolk,2014,164000
+King's Lynn and West Norfolk,2015,173000
+King's Lynn and West Norfolk,2016,187500
+King's Lynn and West Norfolk,2017,205000
+King's Lynn and West Norfolk,2018,210000
+King's Lynn and West Norfolk,2019,222475
+King's Lynn and West Norfolk,2020,235000
+King's Lynn and West Norfolk,2021,250000
+King's Lynn and West Norfolk,2022,247250
+North Norfolk,2012,170750
+North Norfolk,2013,182998
+North Norfolk,2014,195000
+North Norfolk,2015,210000
+North Norfolk,2016,220000
+North Norfolk,2017,245000
+North Norfolk,2018,245000
+North Norfolk,2019,252995
+North Norfolk,2020,275000
+North Norfolk,2021,293000
+North Norfolk,2022,285000
+Norwich,2012,144250
+Norwich,2013,147500
+Norwich,2014,159950
+Norwich,2015,165000
+Norwich,2016,175500
+Norwich,2017,187000
+Norwich,2018,192000
+Norwich,2019,195000
+Norwich,2020,205000
+Norwich,2021,215500
+Norwich,2022,220000
+South Norfolk,2012,177000
+South Norfolk,2013,182400
+South Norfolk,2014,195000
+South Norfolk,2015,210000
+South Norfolk,2016,230000
+South Norfolk,2017,245000
+South Norfolk,2018,255000
+South Norfolk,2019,260000
+South Norfolk,2020,270000
+South Norfolk,2021,282500
+South Norfolk,2022,277500
+Babergh,2012,195000
+Babergh,2013,195000
+Babergh,2014,218000
+Babergh,2015,232000
+Babergh,2016,250000
+Babergh,2017,274995
+Babergh,2018,275000
+Babergh,2019,280000
+Babergh,2020,300000
+Babergh,2021,320000
+Babergh,2022,305500
+Ipswich,2012,135000
+Ipswich,2013,138000
+Ipswich,2014,153000
+Ipswich,2015,157000
+Ipswich,2016,170000
+Ipswich,2017,185000
+Ipswich,2018,195000
+Ipswich,2019,200000
+Ipswich,2020,206000
+Ipswich,2021,225000
+Ipswich,2022,223000
+Mid Suffolk,2012,178000
+Mid Suffolk,2013,182500
+Mid Suffolk,2014,195000
+Mid Suffolk,2015,215000
+Mid Suffolk,2016,230000
+Mid Suffolk,2017,260000
+Mid Suffolk,2018,265000
+Mid Suffolk,2019,260000
+Mid Suffolk,2020,279998
+Mid Suffolk,2021,299950
+Mid Suffolk,2022,280000
+St Albans,2012,359000
+St Albans,2013,360000
+St Albans,2014,414850
+St Albans,2015,450000
+St Albans,2016,500000
+St Albans,2017,525000
+St Albans,2018,535000
+St Albans,2019,550000
+St Albans,2020,550000
+St Albans,2021,588750
+St Albans,2022,598500
+Welwyn Hatfield,2012,237500
+Welwyn Hatfield,2013,249000
+Welwyn Hatfield,2014,270000
+Welwyn Hatfield,2015,305000
+Welwyn Hatfield,2016,367250
+Welwyn Hatfield,2017,370000
+Welwyn Hatfield,2018,370000
+Welwyn Hatfield,2019,370000
+Welwyn Hatfield,2020,392500
+Welwyn Hatfield,2021,417750
+Welwyn Hatfield,2022,410000
+East Hertfordshire,2012,259498
+East Hertfordshire,2013,273000
+East Hertfordshire,2014,291000
+East Hertfordshire,2015,327000
+East Hertfordshire,2016,362500
+East Hertfordshire,2017,385000
+East Hertfordshire,2018,390000
+East Hertfordshire,2019,408120
+East Hertfordshire,2020,425000
+East Hertfordshire,2021,422500
+East Hertfordshire,2022,410500
+Stevenage,2012,167000
+Stevenage,2013,173000
+Stevenage,2014,197500
+Stevenage,2015,227500
+Stevenage,2016,250000
+Stevenage,2017,270000
+Stevenage,2018,274725
+Stevenage,2019,270000
+Stevenage,2020,285000
+Stevenage,2021,305000
+Stevenage,2022,315000
+East Suffolk,2012,170000
+East Suffolk,2013,175000
+East Suffolk,2014,185000
+East Suffolk,2015,204000
+East Suffolk,2016,215000
+East Suffolk,2017,232998
+East Suffolk,2018,236998
+East Suffolk,2019,238950
+East Suffolk,2020,260000
+East Suffolk,2021,272000
+East Suffolk,2022,265000
+Forest Heath,2012,170000
+Forest Heath,2013,176000
+Forest Heath,2014,192000
+Forest Heath,2015,210000
+Forest Heath,2016,225000
+Forest Heath,2017,239995
+Forest Heath,2018,250000
+Forest Heath,2019,255000
+Forest Heath,2020,255000
+Forest Heath,2021,272000
+Forest Heath,2022,270000
+St Edmundsbury,2012,170000
+St Edmundsbury,2013,176000
+St Edmundsbury,2014,192000
+St Edmundsbury,2015,210000
+St Edmundsbury,2016,225000
+St Edmundsbury,2017,239995
+St Edmundsbury,2018,250000
+St Edmundsbury,2019,255000
+St Edmundsbury,2020,255000
+St Edmundsbury,2021,272000
+St Edmundsbury,2022,270000
+City of London,2012,485000
+City of London,2013,615000
+City of London,2014,769100
+City of London,2015,800000
+City of London,2016,833200
+City of London,2017,840000
+City of London,2018,923080
+City of London,2019,865000
+City of London,2020,883500
+City of London,2021,756250
+City of London,2022,730000
+Barking and Dagenham,2012,174000
+Barking and Dagenham,2013,180995
+Barking and Dagenham,2014,215000
+Barking and Dagenham,2015,245500
+Barking and Dagenham,2016,290000
+Barking and Dagenham,2017,300000
+Barking and Dagenham,2018,310000
+Barking and Dagenham,2019,315000
+Barking and Dagenham,2020,325000
+Barking and Dagenham,2021,340000
+Barking and Dagenham,2022,350000
+Barnet,2012,330000
+Barnet,2013,345000
+Barnet,2014,400000
+Barnet,2015,450000
+Barnet,2016,477500
+Barnet,2017,530000
+Barnet,2018,505000
+Barnet,2019,520000
+Barnet,2020,560000
+Barnet,2021,580000
+Barnet,2022,600000
+Bexley,2012,210000
+Bexley,2013,225000
+Bexley,2014,250000
+Bexley,2015,285000
+Bexley,2016,327500
+Bexley,2017,340000
+Bexley,2018,350000
+Bexley,2019,357000
+Bexley,2020,375000
+Bexley,2021,390000
+Bexley,2022,395000
+Brent,2012,322750
+Brent,2013,347500
+Brent,2014,385000
+Brent,2015,415000
+Brent,2016,445000
+Brent,2017,497500
+Brent,2018,495000
+Brent,2019,489000
+Brent,2020,510000
+Brent,2021,530000
+Brent,2022,550000
+Bromley,2012,277750
+Bromley,2013,295000
+Bromley,2014,335000
+Bromley,2015,375000
+Bromley,2016,420000
+Bromley,2017,438500
+Bromley,2018,438000
+Bromley,2019,440000
+Bromley,2020,470000
+Bromley,2021,493000
+Bromley,2022,490000
+Camden,2012,500000
+Camden,2013,585000
+Camden,2014,675000
+Camden,2015,705000
+Camden,2016,734000
+Camden,2017,760000
+Camden,2018,780000
+Camden,2019,783113
+Camden,2020,800000
+Camden,2021,762000
+Camden,2022,795000
+Croydon,2012,230000
+Croydon,2013,239950
+Croydon,2014,265000
+Croydon,2015,306000
+Croydon,2016,338000
+Croydon,2017,365000
+Croydon,2018,380000
+Croydon,2019,385000
+Croydon,2020,400000
+Croydon,2021,410000
+Croydon,2022,400000
+Ealing,2012,310000
+Ealing,2013,326950
+Ealing,2014,387525
+Ealing,2015,432000
+Ealing,2016,465000
+Ealing,2017,480000
+Ealing,2018,470000
+Ealing,2019,466250
+Ealing,2020,505000
+Ealing,2021,522500
+Ealing,2022,530000
+Enfield,2012,248000
+Enfield,2013,250000
+Enfield,2014,285000
+Enfield,2015,331000
+Enfield,2016,385000
+Enfield,2017,405000
+Enfield,2018,400000
+Enfield,2019,412000
+Enfield,2020,425000
+Enfield,2021,460000
+Enfield,2022,450000
+Greenwich,2012,245100
+Greenwich,2013,275000
+Greenwich,2014,317500
+Greenwich,2015,351580
+Greenwich,2016,395000
+Greenwich,2017,420000
+Greenwich,2018,430000
+Greenwich,2019,460000
+Greenwich,2020,462000
+Greenwich,2021,445000
+Greenwich,2022,433000
+Hackney,2012,325000
+Hackney,2013,375000
+Hackney,2014,431000
+Hackney,2015,490000
+Hackney,2016,536959
+Hackney,2017,535656
+Hackney,2018,550000
+Hackney,2019,600000
+Hackney,2020,607000
+Hackney,2021,587300
+Hackney,2022,600000
+Hammersmith and Fulham,2012,490000
+Hammersmith and Fulham,2013,560500
+Hammersmith and Fulham,2014,664625
+Hammersmith and Fulham,2015,730000
+Hammersmith and Fulham,2016,730000
+Hammersmith and Fulham,2017,780000
+Hammersmith and Fulham,2018,767000
+Hammersmith and Fulham,2019,727500
+Hammersmith and Fulham,2020,780000
+Hammersmith and Fulham,2021,790000
+Hammersmith and Fulham,2022,825000
+Haringey,2012,315000
+Haringey,2013,339950
+Haringey,2014,405000
+Haringey,2015,439995
+Haringey,2016,460000
+Haringey,2017,540000
+Haringey,2018,520000
+Haringey,2019,515000
+Haringey,2020,525000
+Haringey,2021,550000
+Haringey,2022,562250
+Harrow,2012,302000
+Harrow,2013,325000
+Harrow,2014,370000
+Harrow,2015,400000
+Harrow,2016,460000
+Harrow,2017,500000
+Harrow,2018,472000
+Harrow,2019,455750
+Harrow,2020,480000
+Harrow,2021,540000
+Harrow,2022,540000
+Havering,2012,221000
+Havering,2013,232500
+Havering,2014,250000
+Havering,2015,287500
+Havering,2016,332000
+Havering,2017,350000
+Havering,2018,360000
+Havering,2019,367500
+Havering,2020,386000
+Havering,2021,405000
+Havering,2022,420000
+Hillingdon,2012,250000
+Hillingdon,2013,269950
+Hillingdon,2014,305750
+Hillingdon,2015,352250
+Hillingdon,2016,400000
+Hillingdon,2017,415000
+Hillingdon,2018,415000
+Hillingdon,2019,420000
+Hillingdon,2020,431000
+Hillingdon,2021,457000
+Hillingdon,2022,460000
+Hounslow,2012,265000
+Hounslow,2013,280000
+Hounslow,2014,319950
+Hounslow,2015,355000
+Hounslow,2016,380000
+Hounslow,2017,399950
+Hounslow,2018,410000
+Hounslow,2019,415000
+Hounslow,2020,430000
+Hounslow,2021,461000
+Hounslow,2022,458250
+Islington,2012,410000
+Islington,2013,465000
+Islington,2014,535000
+Islington,2015,580000
+Islington,2016,620000
+Islington,2017,614000
+Islington,2018,600000
+Islington,2019,600000
+Islington,2020,660000
+Islington,2021,645000
+Islington,2022,655375
+Kensington and Chelsea,2012,895000
+Kensington and Chelsea,2013,979500
+Kensington and Chelsea,2014,1196875
+Kensington and Chelsea,2015,1175000
+Kensington and Chelsea,2016,1200000
+Kensington and Chelsea,2017,1350000
+Kensington and Chelsea,2018,1425000
+Kensington and Chelsea,2019,1250000
+Kensington and Chelsea,2020,1300000
+Kensington and Chelsea,2021,1250000
+Kensington and Chelsea,2022,1400000
+Kingston upon Thames,2012,317500
+Kingston upon Thames,2013,335000
+Kingston upon Thames,2014,385000
+Kingston upon Thames,2015,415000
+Kingston upon Thames,2016,460000
+Kingston upon Thames,2017,485000
+Kingston upon Thames,2018,490000
+Kingston upon Thames,2019,485000
+Kingston upon Thames,2020,508000
+Kingston upon Thames,2021,528500
+Kingston upon Thames,2022,542500
+Lambeth,2012,321000
+Lambeth,2013,350000
+Lambeth,2014,420000
+Lambeth,2015,460000
+Lambeth,2016,508500
+Lambeth,2017,520000
+Lambeth,2018,525000
+Lambeth,2019,537500
+Lambeth,2020,575000
+Lambeth,2021,557000
+Lambeth,2022,546000
+Lewisham,2012,249000
+Lewisham,2013,260000
+Lewisham,2014,315000
+Lewisham,2015,360000
+Lewisham,2016,386000
+Lewisham,2017,427500
+Lewisham,2018,419000
+Lewisham,2019,428000
+Lewisham,2020,447750
+Lewisham,2021,461125
+Lewisham,2022,450000
+Merton,2012,290000
+Merton,2013,320500
+Merton,2014,385000
+Merton,2015,420000
+Merton,2016,450000
+Merton,2017,470000
+Merton,2018,475000
+Merton,2019,470000
+Merton,2020,510000
+Merton,2021,545000
+Merton,2022,543500
+Newham,2012,219000
+Newham,2013,230000
+Newham,2014,250000
+Newham,2015,310000
+Newham,2016,355000
+Newham,2017,392500
+Newham,2018,415000
+Newham,2019,417000
+Newham,2020,416800
+Newham,2021,430000
+Newham,2022,426444
+Redbridge,2012,265000
+Redbridge,2013,274998
+Redbridge,2014,300000
+Redbridge,2015,350000
+Redbridge,2016,390000
+Redbridge,2017,420000
+Redbridge,2018,430000
+Redbridge,2019,425000
+Redbridge,2020,455000
+Redbridge,2021,490000
+Redbridge,2022,485000
+Richmond upon Thames,2012,430000
+Richmond upon Thames,2013,475000
+Richmond upon Thames,2014,534998
+Richmond upon Thames,2015,577250
+Richmond upon Thames,2016,605000
+Richmond upon Thames,2017,640000
+Richmond upon Thames,2018,637500
+Richmond upon Thames,2019,635000
+Richmond upon Thames,2020,688650
+Richmond upon Thames,2021,720000
+Richmond upon Thames,2022,772000
+Southwark,2012,332500
+Southwark,2013,350000
+Southwark,2014,420000
+Southwark,2015,475000
+Southwark,2016,515000
+Southwark,2017,530000
+Southwark,2018,572500
+Southwark,2019,540000
+Southwark,2020,547750
+Southwark,2021,550000
+Southwark,2022,530000
+Sutton,2012,240000
+Sutton,2013,250000
+Sutton,2014,285000
+Sutton,2015,320250
+Sutton,2016,347500
+Sutton,2017,365000
+Sutton,2018,385000
+Sutton,2019,390000
+Sutton,2020,400000
+Sutton,2021,430000
+Sutton,2022,425000
+Tower Hamlets,2012,305000
+Tower Hamlets,2013,329650
+Tower Hamlets,2014,384975
+Tower Hamlets,2015,425000
+Tower Hamlets,2016,470000
+Tower Hamlets,2017,490000
+Tower Hamlets,2018,480000
+Tower Hamlets,2019,500000
+Tower Hamlets,2020,535000
+Tower Hamlets,2021,553000
+Tower Hamlets,2022,530000
+Waltham Forest,2012,241750
+Waltham Forest,2013,265000
+Waltham Forest,2014,320000
+Waltham Forest,2015,371950
+Waltham Forest,2016,421000
+Waltham Forest,2017,445000
+Waltham Forest,2018,445000
+Waltham Forest,2019,450000
+Waltham Forest,2020,470000
+Waltham Forest,2021,500000
+Waltham Forest,2022,491000
+Wandsworth,2012,416000
+Wandsworth,2013,465000
+Wandsworth,2014,532500
+Wandsworth,2015,560000
+Wandsworth,2016,644000
+Wandsworth,2017,651400
+Wandsworth,2018,620000
+Wandsworth,2019,625000
+Wandsworth,2020,660000
+Wandsworth,2021,655000
+Wandsworth,2022,677825
+Westminster,2012,635000
+Westminster,2013,725000
+Westminster,2014,875000
+Westminster,2015,890000
+Westminster,2016,1024000
+Westminster,2017,1040000
+Westminster,2018,1010000
+Westminster,2019,980000
+Westminster,2020,949100
+Westminster,2021,900000
+Westminster,2022,1009000
+Medway,2012,153500
+Medway,2013,160000
+Medway,2014,171000
+Medway,2015,191500
+Medway,2016,220000
+Medway,2017,235000
+Medway,2018,243000
+Medway,2019,250000
+Medway,2020,260000
+Medway,2021,280000
+Medway,2022,275000
+Bracknell Forest,2012,235750
+Bracknell Forest,2013,245000
+Bracknell Forest,2014,265000
+Bracknell Forest,2015,290000
+Bracknell Forest,2016,330000
+Bracknell Forest,2017,330000
+Bracknell Forest,2018,340000
+Bracknell Forest,2019,350000
+Bracknell Forest,2020,372000
+Bracknell Forest,2021,370000
+Bracknell Forest,2022,370000
+West Berkshire,2012,247500
+West Berkshire,2013,250000
+West Berkshire,2014,263000
+West Berkshire,2015,300000
+West Berkshire,2016,330000
+West Berkshire,2017,339950
+West Berkshire,2018,346000
+West Berkshire,2019,345000
+West Berkshire,2020,359950
+West Berkshire,2021,375000
+West Berkshire,2022,357500
+Reading,2012,200000
+Reading,2013,205000
+Reading,2014,229950
+Reading,2015,252000
+Reading,2016,280000
+Reading,2017,305000
+Reading,2018,307000
+Reading,2019,307000
+Reading,2020,310000
+Reading,2021,320000
+Reading,2022,319050
+Slough,2012,197500
+Slough,2013,210000
+Slough,2014,225000
+Slough,2015,255000
+Slough,2016,288000
+Slough,2017,315750
+Slough,2018,320000
+Slough,2019,323500
+Slough,2020,330000
+Slough,2021,350000
+Slough,2022,340000
+Windsor and Maidenhead,2012,332750
+Windsor and Maidenhead,2013,338000
+Windsor and Maidenhead,2014,390000
+Windsor and Maidenhead,2015,420000
+Windsor and Maidenhead,2016,460000
+Windsor and Maidenhead,2017,485000
+Windsor and Maidenhead,2018,465000
+Windsor and Maidenhead,2019,465000
+Windsor and Maidenhead,2020,497500
+Windsor and Maidenhead,2021,515000
+Windsor and Maidenhead,2022,506000
+Wokingham,2012,277500
+Wokingham,2013,285000
+Wokingham,2014,325000
+Wokingham,2015,379475
+Wokingham,2016,415000
+Wokingham,2017,422500
+Wokingham,2018,420000
+Wokingham,2019,420000
+Wokingham,2020,433725
+Wokingham,2021,449950
+Wokingham,2022,455000
+Milton Keynes,2012,185000
+Milton Keynes,2013,188000
+Milton Keynes,2014,209950
+Milton Keynes,2015,232000
+Milton Keynes,2016,252000
+Milton Keynes,2017,270000
+Milton Keynes,2018,284250
+Milton Keynes,2019,287500
+Milton Keynes,2020,312500
+Milton Keynes,2021,315000
+Milton Keynes,2022,300000
+Brighton and Hove,2012,245000
+Brighton and Hove,2013,250000
+Brighton and Hove,2014,275000
+Brighton and Hove,2015,300000
+Brighton and Hove,2016,325000
+Brighton and Hove,2017,350000
+Brighton and Hove,2018,350000
+Brighton and Hove,2019,353000
+Brighton and Hove,2020,380000
+Brighton and Hove,2021,400000
+Brighton and Hove,2022,387500
+Portsmouth,2012,150000
+Portsmouth,2013,154000
+Portsmouth,2014,163500
+Portsmouth,2015,173975
+Portsmouth,2016,189998
+Portsmouth,2017,204748
+Portsmouth,2018,213250
+Portsmouth,2019,210000
+Portsmouth,2020,222625
+Portsmouth,2021,236000
+Portsmouth,2022,240000
+Southampton,2012,160000
+Southampton,2013,160000
+Southampton,2014,170000
+Southampton,2015,182500
+Southampton,2016,194995
+Southampton,2017,210000
+Southampton,2018,210000
+Southampton,2019,219500
+Southampton,2020,223500
+Southampton,2021,235000
+Southampton,2022,240000
+Isle of Wight,2012,170000
+Isle of Wight,2013,174000
+Isle of Wight,2014,179000
+Isle of Wight,2015,187500
+Isle of Wight,2016,191000
+Isle of Wight,2017,202250
+Isle of Wight,2018,205000
+Isle of Wight,2019,215000
+Isle of Wight,2020,233000
+Isle of Wight,2021,258000
+Isle of Wight,2022,247000
+Chiltern,2012,272000
+Chiltern,2013,280000
+Chiltern,2014,305000
+Chiltern,2015,325000
+Chiltern,2016,354250
+Chiltern,2017,385000
+Chiltern,2018,385000
+Chiltern,2019,390000
+Chiltern,2020,410000
+Chiltern,2021,432000
+Chiltern,2022,420500
+Aylesbury Vale,2012,272000
+Aylesbury Vale,2013,280000
+Aylesbury Vale,2014,305000
+Aylesbury Vale,2015,325000
+Aylesbury Vale,2016,354250
+Aylesbury Vale,2017,385000
+Aylesbury Vale,2018,385000
+Aylesbury Vale,2019,390000
+Aylesbury Vale,2020,410000
+Aylesbury Vale,2021,432000
+Aylesbury Vale,2022,420500
+Wycombe,2012,272000
+Wycombe,2013,280000
+Wycombe,2014,305000
+Wycombe,2015,325000
+Wycombe,2016,354250
+Wycombe,2017,385000
+Wycombe,2018,385000
+Wycombe,2019,390000
+Wycombe,2020,410000
+Wycombe,2021,432000
+Wycombe,2022,420500
+Eastbourne,2012,174000
+Eastbourne,2013,172500
+Eastbourne,2014,190000
+Eastbourne,2015,202500
+Eastbourne,2016,221000
+Eastbourne,2017,230000
+Eastbourne,2018,239950
+Eastbourne,2019,245000
+Eastbourne,2020,250000
+Eastbourne,2021,272000
+Eastbourne,2022,270000
+Hastings,2012,153000
+Hastings,2013,155000
+Hastings,2014,165000
+Hastings,2015,171000
+Hastings,2016,195000
+Hastings,2017,208000
+Hastings,2018,220000
+Hastings,2019,225000
+Hastings,2020,237500
+Hastings,2021,272500
+Hastings,2022,270500
+Lewes,2012,230000
+Lewes,2013,235000
+Lewes,2014,250000
+Lewes,2015,278500
+Lewes,2016,297000
+Lewes,2017,315000
+Lewes,2018,320000
+Lewes,2019,325000
+Lewes,2020,339000
+Lewes,2021,372500
+Lewes,2022,375000
+Rother,2012,216250
+Rother,2013,225000
+Rother,2014,235000
+Rother,2015,249997
+Rother,2016,265000
+Rother,2017,278000
+Rother,2018,285000
+Rother,2019,296000
+Rother,2020,325000
+Rother,2021,345000
+Rother,2022,335000
+Wealden,2012,235000
+Wealden,2013,240000
+Wealden,2014,250000
+Wealden,2015,275000
+Wealden,2016,294973
+Wealden,2017,310000
+Wealden,2018,319950
+Wealden,2019,315000
+Wealden,2020,345000
+Wealden,2021,367500
+Wealden,2022,356995
+Basingstoke and Deane,2012,223000
+Basingstoke and Deane,2013,225000
+Basingstoke and Deane,2014,240000
+Basingstoke and Deane,2015,250000
+Basingstoke and Deane,2016,280000
+Basingstoke and Deane,2017,310000
+Basingstoke and Deane,2018,320500
+Basingstoke and Deane,2019,302000
+Basingstoke and Deane,2020,325000
+Basingstoke and Deane,2021,332250
+Basingstoke and Deane,2022,322000
+East Hampshire,2012,250000
+East Hampshire,2013,270000
+East Hampshire,2014,295000
+East Hampshire,2015,318000
+East Hampshire,2016,345000
+East Hampshire,2017,363000
+East Hampshire,2018,370000
+East Hampshire,2019,375000
+East Hampshire,2020,383900
+East Hampshire,2021,410000
+East Hampshire,2022,400000
+Eastleigh,2012,207000
+Eastleigh,2013,210000
+Eastleigh,2014,225000
+Eastleigh,2015,244950
+Eastleigh,2016,264000
+Eastleigh,2017,287000
+Eastleigh,2018,295000
+Eastleigh,2019,300000
+Eastleigh,2020,310000
+Eastleigh,2021,315000
+Eastleigh,2022,310000
+Fareham,2012,213000
+Fareham,2013,212500
+Fareham,2014,229995
+Fareham,2015,245000
+Fareham,2016,262500
+Fareham,2017,285000
+Fareham,2018,285000
+Fareham,2019,290000
+Fareham,2020,310000
+Fareham,2021,319500
+Fareham,2022,325000
+Gosport,2012,145000
+Gosport,2013,150000
+Gosport,2014,159950
+Gosport,2015,167500
+Gosport,2016,182000
+Gosport,2017,202000
+Gosport,2018,205000
+Gosport,2019,207000
+Gosport,2020,220000
+Gosport,2021,230000
+Gosport,2022,232500
+Hart,2012,295000
+Hart,2013,300000
+Hart,2014,335000
+Hart,2015,370000
+Hart,2016,394400
+Hart,2017,397000
+Hart,2018,395000
+Hart,2019,397500
+Hart,2020,425000
+Hart,2021,425500
+Hart,2022,442500
+Havant,2012,186000
+Havant,2013,199995
+Havant,2014,219995
+Havant,2015,230000
+Havant,2016,250000
+Havant,2017,262000
+Havant,2018,265000
+Havant,2019,272000
+Havant,2020,295000
+Havant,2021,310000
+Havant,2022,299498
+New Forest,2012,246000
+New Forest,2013,245000
+New Forest,2014,260000
+New Forest,2015,285000
+New Forest,2016,300000
+New Forest,2017,322500
+New Forest,2018,322500
+New Forest,2019,330000
+New Forest,2020,358725
+New Forest,2021,379950
+New Forest,2022,375000
+Rushmoor,2012,200000
+Rushmoor,2013,208500
+Rushmoor,2014,229950
+Rushmoor,2015,250000
+Rushmoor,2016,282000
+Rushmoor,2017,300000
+Rushmoor,2018,295000
+Rushmoor,2019,300000
+Rushmoor,2020,309950
+Rushmoor,2021,325000
+Rushmoor,2022,325000
+Test Valley,2012,237500
+Test Valley,2013,234000
+Test Valley,2014,242998
+Test Valley,2015,266000
+Test Valley,2016,283500
+Test Valley,2017,300000
+Test Valley,2018,305000
+Test Valley,2019,310000
+Test Valley,2020,317995
+Test Valley,2021,339000
+Test Valley,2022,335000
+Winchester,2012,295000
+Winchester,2013,310000
+Winchester,2014,328000
+Winchester,2015,357000
+Winchester,2016,370000
+Winchester,2017,417500
+Winchester,2018,403000
+Winchester,2019,415000
+Winchester,2020,440000
+Winchester,2021,460000
+Winchester,2022,445000
+Ashford,2012,190000
+Ashford,2013,197000
+Ashford,2014,220000
+Ashford,2015,233000
+Ashford,2016,250000
+Ashford,2017,270000
+Ashford,2018,285000
+Ashford,2019,283000
+Ashford,2020,310000
+Ashford,2021,317000
+Ashford,2022,315000
+Canterbury,2012,205000
+Canterbury,2013,210000
+Canterbury,2014,229475
+Canterbury,2015,245000
+Canterbury,2016,270000
+Canterbury,2017,289250
+Canterbury,2018,299995
+Canterbury,2019,302500
+Canterbury,2020,323500
+Canterbury,2021,338000
+Canterbury,2022,330000
+Dartford,2012,197500
+Dartford,2013,201495
+Dartford,2014,220000
+Dartford,2015,253000
+Dartford,2016,288000
+Dartford,2017,305000
+Dartford,2018,307250
+Dartford,2019,320000
+Dartford,2020,311500
+Dartford,2021,340000
+Dartford,2022,340000
+Dover,2012,160000
+Dover,2013,168750
+Dover,2014,186000
+Dover,2015,195000
+Dover,2016,213995
+Dover,2017,232500
+Dover,2018,245950
+Dover,2019,250000
+Dover,2020,261000
+Dover,2021,280000
+Dover,2022,285000
+Gravesham,2012,181500
+Gravesham,2013,187875
+Gravesham,2014,206467
+Gravesham,2015,230000
+Gravesham,2016,263000
+Gravesham,2017,285000
+Gravesham,2018,295000
+Gravesham,2019,290000
+Gravesham,2020,310000
+Gravesham,2021,330000
+Gravesham,2022,336500
+Maidstone,2012,205000
+Maidstone,2013,210000
+Maidstone,2014,227500
+Maidstone,2015,250000
+Maidstone,2016,272000
+Maidstone,2017,298000
+Maidstone,2018,311998
+Maidstone,2019,315000
+Maidstone,2020,325000
+Maidstone,2021,349950
+Maidstone,2022,335000
+Sevenoaks,2012,290000
+Sevenoaks,2013,285000
+Sevenoaks,2014,327500
+Sevenoaks,2015,350000
+Sevenoaks,2016,375000
+Sevenoaks,2017,387000
+Sevenoaks,2018,410000
+Sevenoaks,2019,400000
+Sevenoaks,2020,425000
+Sevenoaks,2021,440000
+Sevenoaks,2022,450000
+Folkestone and Hythe,2012,179995
+Folkestone and Hythe,2013,180000
+Folkestone and Hythe,2014,187000
+Folkestone and Hythe,2015,205000
+Folkestone and Hythe,2016,225000
+Folkestone and Hythe,2017,249950
+Folkestone and Hythe,2018,250000
+Folkestone and Hythe,2019,258000
+Folkestone and Hythe,2020,280000
+Folkestone and Hythe,2021,303000
+Folkestone and Hythe,2022,300000
+Swale,2012,158500
+Swale,2013,167000
+Swale,2014,180000
+Swale,2015,195738
+Swale,2016,225000
+Swale,2017,239973
+Swale,2018,245000
+Swale,2019,250000
+Swale,2020,265500
+Swale,2021,280000
+Swale,2022,280000
+Thanet,2012,155000
+Thanet,2013,157500
+Thanet,2014,174950
+Thanet,2015,180000
+Thanet,2016,202500
+Thanet,2017,220000
+Thanet,2018,238000
+Thanet,2019,238000
+Thanet,2020,255000
+Thanet,2021,285000
+Thanet,2022,285000
+Tonbridge and Malling,2012,239000
+Tonbridge and Malling,2013,249950
+Tonbridge and Malling,2014,275000
+Tonbridge and Malling,2015,295000
+Tonbridge and Malling,2016,325000
+Tonbridge and Malling,2017,342250
+Tonbridge and Malling,2018,347750
+Tonbridge and Malling,2019,350000
+Tonbridge and Malling,2020,360000
+Tonbridge and Malling,2021,375000
+Tonbridge and Malling,2022,372500
+Tunbridge Wells,2012,250000
+Tunbridge Wells,2013,250000
+Tunbridge Wells,2014,267000
+Tunbridge Wells,2015,315500
+Tunbridge Wells,2016,332500
+Tunbridge Wells,2017,363000
+Tunbridge Wells,2018,375000
+Tunbridge Wells,2019,380000
+Tunbridge Wells,2020,405000
+Tunbridge Wells,2021,425000
+Tunbridge Wells,2022,395000
+Cherwell,2012,211750
+Cherwell,2013,220000
+Cherwell,2014,247500
+Cherwell,2015,270000
+Cherwell,2016,300000
+Cherwell,2017,303975
+Cherwell,2018,315000
+Cherwell,2019,310000
+Cherwell,2020,310000
+Cherwell,2021,330000
+Cherwell,2022,318000
+Oxford,2012,278000
+Oxford,2013,287500
+Oxford,2014,315000
+Oxford,2015,350000
+Oxford,2016,375000
+Oxford,2017,400000
+Oxford,2018,392500
+Oxford,2019,395000
+Oxford,2020,415000
+Oxford,2021,430000
+Oxford,2022,426000
+South Oxfordshire,2012,276000
+South Oxfordshire,2013,285000
+South Oxfordshire,2014,300000
+South Oxfordshire,2015,330000
+South Oxfordshire,2016,365000
+South Oxfordshire,2017,385000
+South Oxfordshire,2018,390000
+South Oxfordshire,2019,385000
+South Oxfordshire,2020,410500
+South Oxfordshire,2021,431625
+South Oxfordshire,2022,420000
+Vale of White Horse,2012,250000
+Vale of White Horse,2013,250000
+Vale of White Horse,2014,278000
+Vale of White Horse,2015,310000
+Vale of White Horse,2016,330000
+Vale of White Horse,2017,345000
+Vale of White Horse,2018,349995
+Vale of White Horse,2019,340000
+Vale of White Horse,2020,353000
+Vale of White Horse,2021,370000
+Vale of White Horse,2022,365000
+West Oxfordshire,2012,240000
+West Oxfordshire,2013,245000
+West Oxfordshire,2014,263500
+West Oxfordshire,2015,285000
+West Oxfordshire,2016,315000
+West Oxfordshire,2017,335000
+West Oxfordshire,2018,340000
+West Oxfordshire,2019,340000
+West Oxfordshire,2020,359450
+West Oxfordshire,2021,359498
+West Oxfordshire,2022,340000
+Elmbridge,2012,410000
+Elmbridge,2013,430000
+Elmbridge,2014,460000
+Elmbridge,2015,505000
+Elmbridge,2016,537500
+Elmbridge,2017,570000
+Elmbridge,2018,570000
+Elmbridge,2019,585000
+Elmbridge,2020,600000
+Elmbridge,2021,640000
+Elmbridge,2022,675000
+Epsom and Ewell,2012,317750
+Epsom and Ewell,2013,327000
+Epsom and Ewell,2014,365000
+Epsom and Ewell,2015,425000
+Epsom and Ewell,2016,455000
+Epsom and Ewell,2017,470250
+Epsom and Ewell,2018,470000
+Epsom and Ewell,2019,465250
+Epsom and Ewell,2020,500000
+Epsom and Ewell,2021,515000
+Epsom and Ewell,2022,531500
+Guildford,2012,310000
+Guildford,2013,315000
+Guildford,2014,345000
+Guildford,2015,379475
+Guildford,2016,420000
+Guildford,2017,430000
+Guildford,2018,447000
+Guildford,2019,435000
+Guildford,2020,465000
+Guildford,2021,483000
+Guildford,2022,485000
+Mole Valley,2012,372000
+Mole Valley,2013,376000
+Mole Valley,2014,399475
+Mole Valley,2015,442000
+Mole Valley,2016,475000
+Mole Valley,2017,500000
+Mole Valley,2018,489975
+Mole Valley,2019,474750
+Mole Valley,2020,550000
+Mole Valley,2021,547500
+Mole Valley,2022,525000
+Reigate and Banstead,2012,275000
+Reigate and Banstead,2013,290500
+Reigate and Banstead,2014,326500
+Reigate and Banstead,2015,355000
+Reigate and Banstead,2016,387000
+Reigate and Banstead,2017,395000
+Reigate and Banstead,2018,410000
+Reigate and Banstead,2019,415000
+Reigate and Banstead,2020,435000
+Reigate and Banstead,2021,452000
+Reigate and Banstead,2022,450000
+Runnymede,2012,252500
+Runnymede,2013,280000
+Runnymede,2014,320000
+Runnymede,2015,350000
+Runnymede,2016,379950
+Runnymede,2017,400000
+Runnymede,2018,397500
+Runnymede,2019,397000
+Runnymede,2020,425000
+Runnymede,2021,442500
+Runnymede,2022,441750
+Spelthorne,2012,250000
+Spelthorne,2013,265000
+Spelthorne,2014,287250
+Spelthorne,2015,325000
+Spelthorne,2016,385000
+Spelthorne,2017,385000
+Spelthorne,2018,385000
+Spelthorne,2019,390000
+Spelthorne,2020,415000
+Spelthorne,2021,420000
+Spelthorne,2022,418000
+Surrey Heath,2012,288000
+Surrey Heath,2013,299950
+Surrey Heath,2014,320000
+Surrey Heath,2015,350000
+Surrey Heath,2016,379000
+Surrey Heath,2017,402500
+Surrey Heath,2018,415000
+Surrey Heath,2019,420000
+Surrey Heath,2020,443000
+Surrey Heath,2021,440000
+Surrey Heath,2022,450000
+Tandridge,2012,285000
+Tandridge,2013,310000
+Tandridge,2014,340000
+Tandridge,2015,381938
+Tandridge,2016,399950
+Tandridge,2017,420000
+Tandridge,2018,413250
+Tandridge,2019,435000
+Tandridge,2020,457500
+Tandridge,2021,475000
+Tandridge,2022,480000
+Waverley,2012,335500
+Waverley,2013,340000
+Waverley,2014,370000
+Waverley,2015,400250
+Waverley,2016,430000
+Waverley,2017,435000
+Waverley,2018,485975
+Waverley,2019,460000
+Waverley,2020,500000
+Waverley,2021,510000
+Waverley,2022,520000
+Woking,2012,260000
+Woking,2013,270000
+Woking,2014,301500
+Woking,2015,345000
+Woking,2016,380000
+Woking,2017,407750
+Woking,2018,390000
+Woking,2019,390000
+Woking,2020,415000
+Woking,2021,435000
+Woking,2022,412750
+Adur,2012,215000
+Adur,2013,218000
+Adur,2014,241000
+Adur,2015,265000
+Adur,2016,290000
+Adur,2017,300000
+Adur,2018,312500
+Adur,2019,312500
+Adur,2020,320000
+Adur,2021,356750
+Adur,2022,366250
+Arun,2012,210000
+Arun,2013,217498
+Arun,2014,230000
+Arun,2015,245000
+Arun,2016,266500
+Arun,2017,280000
+Arun,2018,290000
+Arun,2019,285000
+Arun,2020,300000
+Arun,2021,325000
+Arun,2022,319500
+Chichester,2012,270000
+Chichester,2013,275000
+Chichester,2014,295000
+Chichester,2015,317000
+Chichester,2016,343000
+Chichester,2017,358000
+Chichester,2018,370000
+Chichester,2019,359500
+Chichester,2020,395000
+Chichester,2021,402000
+Chichester,2022,395000
+Crawley,2012,187500
+Crawley,2013,205000
+Crawley,2014,227500
+Crawley,2015,250000
+Crawley,2016,271250
+Crawley,2017,285000
+Crawley,2018,295625
+Crawley,2019,290000
+Crawley,2020,302000
+Crawley,2021,310000
+Crawley,2022,316000
+Horsham,2012,273000
+Horsham,2013,285000
+Horsham,2014,317500
+Horsham,2015,345000
+Horsham,2016,359950
+Horsham,2017,372000
+Horsham,2018,382500
+Horsham,2019,380000
+Horsham,2020,409995
+Horsham,2021,418000
+Horsham,2022,415000
+Mid Sussex,2012,250000
+Mid Sussex,2013,270000
+Mid Sussex,2014,296000
+Mid Sussex,2015,325000
+Mid Sussex,2016,356750
+Mid Sussex,2017,366000
+Mid Sussex,2018,370000
+Mid Sussex,2019,380000
+Mid Sussex,2020,390000
+Mid Sussex,2021,410000
+Mid Sussex,2022,415000
+Worthing,2012,200000
+Worthing,2013,201250
+Worthing,2014,227500
+Worthing,2015,247000
+Worthing,2016,263000
+Worthing,2017,280000
+Worthing,2018,295000
+Worthing,2019,287250
+Worthing,2020,302500
+Worthing,2021,328000
+Worthing,2022,325000
+Bath and North East Somerset,2012,230000
+Bath and North East Somerset,2013,237500
+Bath and North East Somerset,2014,249950
+Bath and North East Somerset,2015,270000
+Bath and North East Somerset,2016,305000
+Bath and North East Somerset,2017,318775
+Bath and North East Somerset,2018,327500
+Bath and North East Somerset,2019,324995
+Bath and North East Somerset,2020,345000
+Bath and North East Somerset,2021,365000
+Bath and North East Somerset,2022,355000
+"Bristol, City of",2012,174000
+"Bristol, City of",2013,177725
+"Bristol, City of",2014,194000
+"Bristol, City of",2015,215000
+"Bristol, City of",2016,242000
+"Bristol, City of",2017,259250
+"Bristol, City of",2018,265000
+"Bristol, City of",2019,270000
+"Bristol, City of",2020,290000
+"Bristol, City of",2021,315000
+"Bristol, City of",2022,312000
+North Somerset,2012,184000
+North Somerset,2013,191000
+North Somerset,2014,205000
+North Somerset,2015,215000
+North Somerset,2016,230000
+North Somerset,2017,242500
+North Somerset,2018,251995
+North Somerset,2019,260000
+North Somerset,2020,279950
+North Somerset,2021,299950
+North Somerset,2022,285000
+South Gloucestershire,2012,185000
+South Gloucestershire,2013,190000
+South Gloucestershire,2014,205000
+South Gloucestershire,2015,230000
+South Gloucestershire,2016,245000
+South Gloucestershire,2017,260000
+South Gloucestershire,2018,270000
+South Gloucestershire,2019,277500
+South Gloucestershire,2020,295000
+South Gloucestershire,2021,300000
+South Gloucestershire,2022,308000
+Plymouth,2012,143000
+Plymouth,2013,146000
+Plymouth,2014,158000
+Plymouth,2015,162000
+Plymouth,2016,165625
+Plymouth,2017,170000
+Plymouth,2018,178000
+Plymouth,2019,179000
+Plymouth,2020,185000
+Plymouth,2021,195000
+Plymouth,2022,197000
+Torbay,2012,158000
+Torbay,2013,162000
+Torbay,2014,169375
+Torbay,2015,177000
+Torbay,2016,183000
+Torbay,2017,192500
+Torbay,2018,195000
+Torbay,2019,199000
+Torbay,2020,210000
+Torbay,2021,235000
+Torbay,2022,235000
+Swindon,2012,150000
+Swindon,2013,157000
+Swindon,2014,164998
+Swindon,2015,182000
+Swindon,2016,196000
+Swindon,2017,220000
+Swindon,2018,230000
+Swindon,2019,229998
+Swindon,2020,233000
+Swindon,2021,240000
+Swindon,2022,240000
+Cornwall,2012,185000
+Cornwall,2013,185000
+Cornwall,2014,194000
+Cornwall,2015,200000
+Cornwall,2016,210000
+Cornwall,2017,219950
+Cornwall,2018,225000
+Cornwall,2019,229995
+Cornwall,2020,250000
+Cornwall,2021,275000
+Cornwall,2022,265000
+Isles of Scilly,2012,340000
+Isles of Scilly,2013,275000
+Isles of Scilly,2014,235000
+Isles of Scilly,2015,280000
+Isles of Scilly,2016,305000
+Isles of Scilly,2017,325000
+Isles of Scilly,2018,360000
+Isles of Scilly,2019,337500
+Isles of Scilly,2020,355000
+Isles of Scilly,2021,344000
+Isles of Scilly,2022,372500
+Wiltshire,2012,200000
+Wiltshire,2013,200000
+Wiltshire,2014,217500
+Wiltshire,2015,230000
+Wiltshire,2016,245000
+Wiltshire,2017,265000
+Wiltshire,2018,271975
+Wiltshire,2019,275000
+Wiltshire,2020,285000
+Wiltshire,2021,300000
+Wiltshire,2022,294000
+Bournemouth,2012,210000
+Bournemouth,2013,215000
+Bournemouth,2014,226000
+Bournemouth,2015,242000
+Bournemouth,2016,250000
+Bournemouth,2017,267500
+Bournemouth,2018,275000
+Bournemouth,2019,283500
+Bournemouth,2020,296000
+Bournemouth,2021,317500
+Bournemouth,2022,310000
+Poole,2012,210000
+Poole,2013,215000
+Poole,2014,226000
+Poole,2015,242000
+Poole,2016,250000
+Poole,2017,267500
+Poole,2018,275000
+Poole,2019,283500
+Poole,2020,296000
+Poole,2021,317500
+Poole,2022,310000
+Christchurch,2012,210000
+Christchurch,2013,215000
+Christchurch,2014,226000
+Christchurch,2015,242000
+Christchurch,2016,250000
+Christchurch,2017,267500
+Christchurch,2018,275000
+Christchurch,2019,283500
+Christchurch,2020,296000
+Christchurch,2021,317500
+Christchurch,2022,310000
+West Dorset,2012,230000
+West Dorset,2013,232000
+West Dorset,2014,240000
+West Dorset,2015,252500
+West Dorset,2016,268000
+West Dorset,2017,283000
+West Dorset,2018,285000
+West Dorset,2019,285000
+West Dorset,2020,313000
+West Dorset,2021,330000
+West Dorset,2022,317500
+North Dorset,2012,230000
+North Dorset,2013,232000
+North Dorset,2014,240000
+North Dorset,2015,252500
+North Dorset,2016,268000
+North Dorset,2017,283000
+North Dorset,2018,285000
+North Dorset,2019,285000
+North Dorset,2020,313000
+North Dorset,2021,330000
+North Dorset,2022,317500
+East Dorset,2012,230000
+East Dorset,2013,232000
+East Dorset,2014,240000
+East Dorset,2015,252500
+East Dorset,2016,268000
+East Dorset,2017,283000
+East Dorset,2018,285000
+East Dorset,2019,285000
+East Dorset,2020,313000
+East Dorset,2021,330000
+East Dorset,2022,317500
+Purbeck,2012,230000
+Purbeck,2013,232000
+Purbeck,2014,240000
+Purbeck,2015,252500
+Purbeck,2016,268000
+Purbeck,2017,283000
+Purbeck,2018,285000
+Purbeck,2019,285000
+Purbeck,2020,313000
+Purbeck,2021,330000
+Purbeck,2022,317500
+Weymouth and Portland,2012,230000
+Weymouth and Portland,2013,232000
+Weymouth and Portland,2014,240000
+Weymouth and Portland,2015,252500
+Weymouth and Portland,2016,268000
+Weymouth and Portland,2017,283000
+Weymouth and Portland,2018,285000
+Weymouth and Portland,2019,285000
+Weymouth and Portland,2020,313000
+Weymouth and Portland,2021,330000
+Weymouth and Portland,2022,317500
+East Devon,2012,220748
+East Devon,2013,217950
+East Devon,2014,230000
+East Devon,2015,240000
+East Devon,2016,247000
+East Devon,2017,265000
+East Devon,2018,280000
+East Devon,2019,280000
+East Devon,2020,294000
+East Devon,2021,305000
+East Devon,2022,302000
+Exeter,2012,186000
+Exeter,2013,190000
+Exeter,2014,203250
+Exeter,2015,221000
+Exeter,2016,230000
+Exeter,2017,244000
+Exeter,2018,250000
+Exeter,2019,249950
+Exeter,2020,263000
+Exeter,2021,275000
+Exeter,2022,272500
+Mid Devon,2012,180000
+Mid Devon,2013,189995
+Mid Devon,2014,190000
+Mid Devon,2015,202750
+Mid Devon,2016,212250
+Mid Devon,2017,225000
+Mid Devon,2018,235000
+Mid Devon,2019,235500
+Mid Devon,2020,259000
+Mid Devon,2021,272975
+Mid Devon,2022,265000
+North Devon,2012,192750
+North Devon,2013,191750
+North Devon,2014,199951
+North Devon,2015,217000
+North Devon,2016,220000
+North Devon,2017,230000
+North Devon,2018,239950
+North Devon,2019,252500
+North Devon,2020,260000
+North Devon,2021,282500
+North Devon,2022,275000
+South Hams,2012,238000
+South Hams,2013,241000
+South Hams,2014,250000
+South Hams,2015,273975
+South Hams,2016,275000
+South Hams,2017,285000
+South Hams,2018,297498
+South Hams,2019,290000
+South Hams,2020,330000
+South Hams,2021,350000
+South Hams,2022,345000
+Teignbridge,2012,195000
+Teignbridge,2013,199950
+Teignbridge,2014,210000
+Teignbridge,2015,218000
+Teignbridge,2016,231875
+Teignbridge,2017,238000
+Teignbridge,2018,250000
+Teignbridge,2019,249950
+Teignbridge,2020,260000
+Teignbridge,2021,280000
+Teignbridge,2022,275000
+Torridge,2012,179950
+Torridge,2013,178000
+Torridge,2014,189000
+Torridge,2015,199950
+Torridge,2016,200000
+Torridge,2017,211250
+Torridge,2018,218000
+Torridge,2019,224950
+Torridge,2020,240000
+Torridge,2021,265000
+Torridge,2022,254750
+West Devon,2012,192500
+West Devon,2013,192250
+West Devon,2014,195000
+West Devon,2015,215000
+West Devon,2016,215000
+West Devon,2017,218500
+West Devon,2018,235000
+West Devon,2019,246000
+West Devon,2020,270000
+West Devon,2021,285000
+West Devon,2022,269950
+Cheltenham,2012,200000
+Cheltenham,2013,205000
+Cheltenham,2014,217000
+Cheltenham,2015,225000
+Cheltenham,2016,240000
+Cheltenham,2017,260000
+Cheltenham,2018,271177
+Cheltenham,2019,264500
+Cheltenham,2020,285000
+Cheltenham,2021,300000
+Cheltenham,2022,280000
+Cotswold,2012,265000
+Cotswold,2013,275000
+Cotswold,2014,295000
+Cotswold,2015,317750
+Cotswold,2016,335000
+Cotswold,2017,349473
+Cotswold,2018,355000
+Cotswold,2019,342500
+Cotswold,2020,385000
+Cotswold,2021,408250
+Cotswold,2022,394300
+Forest of Dean,2012,165000
+Forest of Dean,2013,165000
+Forest of Dean,2014,170000
+Forest of Dean,2015,183500
+Forest of Dean,2016,190000
+Forest of Dean,2017,205000
+Forest of Dean,2018,220000
+Forest of Dean,2019,230000
+Forest of Dean,2020,257750
+Forest of Dean,2021,270000
+Forest of Dean,2022,260000
+Gloucester,2012,142000
+Gloucester,2013,148000
+Gloucester,2014,158000
+Gloucester,2015,165000
+Gloucester,2016,177000
+Gloucester,2017,185975
+Gloucester,2018,192750
+Gloucester,2019,204500
+Gloucester,2020,217500
+Gloucester,2021,224000
+Gloucester,2022,225500
+Stroud,2012,190000
+Stroud,2013,195000
+Stroud,2014,210000
+Stroud,2015,225000
+Stroud,2016,232500
+Stroud,2017,258500
+Stroud,2018,270000
+Stroud,2019,270000
+Stroud,2020,290000
+Stroud,2021,310000
+Stroud,2022,305000
+Tewkesbury,2012,189995
+Tewkesbury,2013,198500
+Tewkesbury,2014,211500
+Tewkesbury,2015,227000
+Tewkesbury,2016,240000
+Tewkesbury,2017,257625
+Tewkesbury,2018,269995
+Tewkesbury,2019,270000
+Tewkesbury,2020,286000
+Tewkesbury,2021,290000
+Tewkesbury,2022,280000
+Mendip,2012,180000
+Mendip,2013,185000
+Mendip,2014,195000
+Mendip,2015,212500
+Mendip,2016,235000
+Mendip,2017,246000
+Mendip,2018,261000
+Mendip,2019,258300
+Mendip,2020,282500
+Mendip,2021,290000
+Mendip,2022,285000
+Sedgemoor,2012,168000
+Sedgemoor,2013,166500
+Sedgemoor,2014,170000
+Sedgemoor,2015,180000
+Sedgemoor,2016,192500
+Sedgemoor,2017,208000
+Sedgemoor,2018,215000
+Sedgemoor,2019,215000
+Sedgemoor,2020,226000
+Sedgemoor,2021,245000
+Sedgemoor,2022,240000
+South Somerset,2012,175000
+South Somerset,2013,175000
+South Somerset,2014,185000
+South Somerset,2015,190000
+South Somerset,2016,200000
+South Somerset,2017,214750
+South Somerset,2018,219250
+South Somerset,2019,226000
+South Somerset,2020,237500
+South Somerset,2021,258000
+South Somerset,2022,245000
+West Somerset,2012,182000
+West Somerset,2013,184000
+West Somerset,2014,193000
+West Somerset,2015,202500
+West Somerset,2016,204775
+West Somerset,2017,218950
+West Somerset,2018,225000
+West Somerset,2019,230000
+West Somerset,2020,240000
+West Somerset,2021,260000
+West Somerset,2022,255000
+Taunton Deane,2012,182000
+Taunton Deane,2013,184000
+Taunton Deane,2014,193000
+Taunton Deane,2015,202500
+Taunton Deane,2016,204775
+Taunton Deane,2017,218950
+Taunton Deane,2018,225000
+Taunton Deane,2019,230000
+Taunton Deane,2020,240000
+Taunton Deane,2021,260000
+Taunton Deane,2022,255000
+Isle of Anglesey,2012,150000
+Isle of Anglesey,2013,143500
+Isle of Anglesey,2014,150000
+Isle of Anglesey,2015,157000
+Isle of Anglesey,2016,163000
+Isle of Anglesey,2017,166000
+Isle of Anglesey,2018,170000
+Isle of Anglesey,2019,175000
+Isle of Anglesey,2020,190000
+Isle of Anglesey,2021,210000
+Isle of Anglesey,2022,215000
+Gwynedd,2012,137750
+Gwynedd,2013,136000
+Gwynedd,2014,138000
+Gwynedd,2015,145000
+Gwynedd,2016,145000
+Gwynedd,2017,154250
+Gwynedd,2018,153000
+Gwynedd,2019,160000
+Gwynedd,2020,164000
+Gwynedd,2021,175000
+Gwynedd,2022,180000
+Conwy,2012,139975
+Conwy,2013,144950
+Conwy,2014,149000
+Conwy,2015,146375
+Conwy,2016,150000
+Conwy,2017,158000
+Conwy,2018,160000
+Conwy,2019,166000
+Conwy,2020,179975
+Conwy,2021,193000
+Conwy,2022,195000
+Denbighshire,2012,125000
+Denbighshire,2013,125000
+Denbighshire,2014,125000
+Denbighshire,2015,135500
+Denbighshire,2016,136500
+Denbighshire,2017,140500
+Denbighshire,2018,146000
+Denbighshire,2019,150499
+Denbighshire,2020,160000
+Denbighshire,2021,175000
+Denbighshire,2022,173500
+Flintshire,2012,140000
+Flintshire,2013,137995
+Flintshire,2014,143973
+Flintshire,2015,154995
+Flintshire,2016,155950
+Flintshire,2017,159950
+Flintshire,2018,161000
+Flintshire,2019,165000
+Flintshire,2020,174000
+Flintshire,2021,182500
+Flintshire,2022,181000
+Wrexham,2012,137000
+Wrexham,2013,129950
+Wrexham,2014,135000
+Wrexham,2015,141000
+Wrexham,2016,143000
+Wrexham,2017,147500
+Wrexham,2018,156000
+Wrexham,2019,152000
+Wrexham,2020,160000
+Wrexham,2021,175000
+Wrexham,2022,177000
+Ceredigion,2012,162125
+Ceredigion,2013,163000
+Ceredigion,2014,165000
+Ceredigion,2015,168000
+Ceredigion,2016,173500
+Ceredigion,2017,180000
+Ceredigion,2018,178000
+Ceredigion,2019,185000
+Ceredigion,2020,192000
+Ceredigion,2021,224950
+Ceredigion,2022,227500
+Pembrokeshire,2012,155000
+Pembrokeshire,2013,151500
+Pembrokeshire,2014,155000
+Pembrokeshire,2015,157000
+Pembrokeshire,2016,160000
+Pembrokeshire,2017,164000
+Pembrokeshire,2018,170000
+Pembrokeshire,2019,175000
+Pembrokeshire,2020,180000
+Pembrokeshire,2021,197998
+Pembrokeshire,2022,200313
+Carmarthenshire,2012,125000
+Carmarthenshire,2013,120000
+Carmarthenshire,2014,125000
+Carmarthenshire,2015,130000
+Carmarthenshire,2016,135000
+Carmarthenshire,2017,135000
+Carmarthenshire,2018,138000
+Carmarthenshire,2019,144000
+Carmarthenshire,2020,152000
+Carmarthenshire,2021,168000
+Carmarthenshire,2022,169995
+Swansea,2012,125000
+Swansea,2013,125000
+Swansea,2014,132000
+Swansea,2015,133000
+Swansea,2016,139000
+Swansea,2017,139995
+Swansea,2018,142500
+Swansea,2019,152500
+Swansea,2020,160000
+Swansea,2021,175000
+Swansea,2022,171000
+Neath Port Talbot,2012,95000
+Neath Port Talbot,2013,99000
+Neath Port Talbot,2014,103500
+Neath Port Talbot,2015,108000
+Neath Port Talbot,2016,105000
+Neath Port Talbot,2017,110000
+Neath Port Talbot,2018,115000
+Neath Port Talbot,2019,120000
+Neath Port Talbot,2020,126125
+Neath Port Talbot,2021,137000
+Neath Port Talbot,2022,137500
+Bridgend,2012,120000
+Bridgend,2013,126950
+Bridgend,2014,131250
+Bridgend,2015,137500
+Bridgend,2016,145000
+Bridgend,2017,149995
+Bridgend,2018,152000
+Bridgend,2019,159000
+Bridgend,2020,168000
+Bridgend,2021,179995
+Bridgend,2022,182000
+Vale of Glamorgan,2012,169000
+Vale of Glamorgan,2013,175000
+Vale of Glamorgan,2014,180000
+Vale of Glamorgan,2015,189950
+Vale of Glamorgan,2016,195000
+Vale of Glamorgan,2017,213250
+Vale of Glamorgan,2018,219995
+Vale of Glamorgan,2019,220000
+Vale of Glamorgan,2020,235000
+Vale of Glamorgan,2021,256000
+Vale of Glamorgan,2022,250000
+Cardiff,2012,158000
+Cardiff,2013,165000
+Cardiff,2014,167250
+Cardiff,2015,172000
+Cardiff,2016,180000
+Cardiff,2017,185000
+Cardiff,2018,200000
+Cardiff,2019,208000
+Cardiff,2020,220000
+Cardiff,2021,240000
+Cardiff,2022,240000
+Rhondda Cynon Taf,2012,90000
+Rhondda Cynon Taf,2013,92000
+Rhondda Cynon Taf,2014,96500
+Rhondda Cynon Taf,2015,106000
+Rhondda Cynon Taf,2016,110000
+Rhondda Cynon Taf,2017,110000
+Rhondda Cynon Taf,2018,110000
+Rhondda Cynon Taf,2019,115000
+Rhondda Cynon Taf,2020,121975
+Rhondda Cynon Taf,2021,135000
+Rhondda Cynon Taf,2022,133000
+Caerphilly,2012,110000
+Caerphilly,2013,114973
+Caerphilly,2014,120000
+Caerphilly,2015,118500
+Caerphilly,2016,120000
+Caerphilly,2017,125000
+Caerphilly,2018,129950
+Caerphilly,2019,137500
+Caerphilly,2020,144950
+Caerphilly,2021,157000
+Caerphilly,2022,160000
+Blaenau Gwent,2012,70000
+Blaenau Gwent,2013,72000
+Blaenau Gwent,2014,75500
+Blaenau Gwent,2015,78000
+Blaenau Gwent,2016,80000
+Blaenau Gwent,2017,82000
+Blaenau Gwent,2018,84975
+Blaenau Gwent,2019,90000
+Blaenau Gwent,2020,95000
+Blaenau Gwent,2021,110000
+Blaenau Gwent,2022,118000
+Torfaen,2012,120000
+Torfaen,2013,120000
+Torfaen,2014,120000
+Torfaen,2015,122000
+Torfaen,2016,128500
+Torfaen,2017,135000
+Torfaen,2018,147500
+Torfaen,2019,155000
+Torfaen,2020,159950
+Torfaen,2021,170000
+Torfaen,2022,173000
+Monmouthshire,2012,190000
+Monmouthshire,2013,185000
+Monmouthshire,2014,207000
+Monmouthshire,2015,210000
+Monmouthshire,2016,215000
+Monmouthshire,2017,228000
+Monmouthshire,2018,244475
+Monmouthshire,2019,255000
+Monmouthshire,2020,269950
+Monmouthshire,2021,292500
+Monmouthshire,2022,295000
+Newport,2012,125000
+Newport,2013,128373
+Newport,2014,140000
+Newport,2015,150000
+Newport,2016,155000
+Newport,2017,157500
+Newport,2018,166150
+Newport,2019,180000
+Newport,2020,185000
+Newport,2021,200000
+Newport,2022,195000
+Powys,2012,155000
+Powys,2013,160000
+Powys,2014,160000
+Powys,2015,164000
+Powys,2016,167500
+Powys,2017,175000
+Powys,2018,180000
+Powys,2019,179250
+Powys,2020,190000
+Powys,2021,215000
+Powys,2022,217750
+Merthyr Tydfil,2012,83000
+Merthyr Tydfil,2013,87000
+Merthyr Tydfil,2014,89000
+Merthyr Tydfil,2015,89000
+Merthyr Tydfil,2016,90000
+Merthyr Tydfil,2017,95000
+Merthyr Tydfil,2018,94250
+Merthyr Tydfil,2019,108000
+Merthyr Tydfil,2020,116000
+Merthyr Tydfil,2021,125000
+Merthyr Tydfil,2022,130000
+Aberdeen City,2012,187619
+Aberdeen City,2013,203231
+Aberdeen City,2014,217820
+Aberdeen City,2015,214690
+Aberdeen City,2016,203598
+Aberdeen City,2017,200596
+Aberdeen City,2018,196230
+Aberdeen City,2019,194269
+Aberdeen City,2020,187332
+Aberdeen City,2021,190727
+Aberdeenshire,2012,205055
+Aberdeenshire,2013,217840
+Aberdeenshire,2014,232413
+Aberdeenshire,2015,227862
+Aberdeenshire,2016,210124
+Aberdeenshire,2017,212468
+Aberdeenshire,2018,212161
+Aberdeenshire,2019,210722
+Aberdeenshire,2020,216290
+Aberdeenshire,2021,224250
+Angus,2012,142553
+Angus,2013,146338
+Angus,2014,155935
+Angus,2015,154769
+Angus,2016,161152
+Angus,2017,160188
+Angus,2018,165661
+Angus,2019,167423
+Angus,2020,180030
+Angus,2021,180956
+Argyll and Bute,2012,147481
+Argyll and Bute,2013,146423
+Argyll and Bute,2014,154488
+Argyll and Bute,2015,151702
+Argyll and Bute,2016,154519
+Argyll and Bute,2017,157336
+Argyll and Bute,2018,166944
+Argyll and Bute,2019,172851
+Argyll and Bute,2020,184101
+Argyll and Bute,2021,194392
+City of Edinburgh,2012,217114
+City of Edinburgh,2013,216990
+City of Edinburgh,2014,235478
+City of Edinburgh,2015,230967
+City of Edinburgh,2016,237183
+City of Edinburgh,2017,253747
+City of Edinburgh,2018,265856
+City of Edinburgh,2019,267770
+City of Edinburgh,2020,286458
+City of Edinburgh,2021,296517
+Clackmannanshire,2012,126961
+Clackmannanshire,2013,124425
+Clackmannanshire,2014,133918
+Clackmannanshire,2015,131607
+Clackmannanshire,2016,133792
+Clackmannanshire,2017,139346
+Clackmannanshire,2018,146309
+Clackmannanshire,2019,149760
+Clackmannanshire,2020,167484
+Clackmannanshire,2021,167863
+Dumfries and Galloway,2012,135836
+Dumfries and Galloway,2013,130441
+Dumfries and Galloway,2014,137776
+Dumfries and Galloway,2015,135902
+Dumfries and Galloway,2016,135927
+Dumfries and Galloway,2017,140868
+Dumfries and Galloway,2018,147581
+Dumfries and Galloway,2019,145951
+Dumfries and Galloway,2020,159596
+Dumfries and Galloway,2021,168312
+Dundee City,2012,124684
+Dundee City,2013,126766
+Dundee City,2014,127606
+Dundee City,2015,129313
+Dundee City,2016,132907
+Dundee City,2017,134607
+Dundee City,2018,141293
+Dundee City,2019,145477
+Dundee City,2020,155531
+Dundee City,2021,164387
+East Ayrshire,2012,107489
+East Ayrshire,2013,104894
+East Ayrshire,2014,109727
+East Ayrshire,2015,115683
+East Ayrshire,2016,114741
+East Ayrshire,2017,124447
+East Ayrshire,2018,121469
+East Ayrshire,2019,120078
+East Ayrshire,2020,130682
+East Ayrshire,2021,139093
+East Dunbartonshire,2012,206567
+East Dunbartonshire,2013,212115
+East Dunbartonshire,2014,221244
+East Dunbartonshire,2015,211296
+East Dunbartonshire,2016,219013
+East Dunbartonshire,2017,237209
+East Dunbartonshire,2018,242177
+East Dunbartonshire,2019,261558
+East Dunbartonshire,2020,258193
+East Dunbartonshire,2021,269329
+East Lothian,2012,196978
+East Lothian,2013,204151
+East Lothian,2014,219121
+East Lothian,2015,208731
+East Lothian,2016,213551
+East Lothian,2017,230768
+East Lothian,2018,240916
+East Lothian,2019,257247
+East Lothian,2020,280681
+East Lothian,2021,283057
+East Renfrewshire,2012,209625
+East Renfrewshire,2013,217518
+East Renfrewshire,2014,233289
+East Renfrewshire,2015,223742
+East Renfrewshire,2016,242568
+East Renfrewshire,2017,259347
+East Renfrewshire,2018,254994
+East Renfrewshire,2019,257431
+East Renfrewshire,2020,274465
+East Renfrewshire,2021,287304
+Falkirk,2012,119214
+Falkirk,2013,119577
+Falkirk,2014,126335
+Falkirk,2015,126982
+Falkirk,2016,134322
+Falkirk,2017,140336
+Falkirk,2018,145832
+Falkirk,2019,152223
+Falkirk,2020,160380
+Falkirk,2021,166679
+Fife,2012,133300
+Fife,2013,133247
+Fife,2014,141225
+Fife,2015,147955
+Fife,2016,149539
+Fife,2017,155808
+Fife,2018,158715
+Fife,2019,161757
+Fife,2020,172708
+Fife,2021,182372
+Glasgow City,2012,126801
+Glasgow City,2013,127466
+Glasgow City,2014,132771
+Glasgow City,2015,136802
+Glasgow City,2016,143492
+Glasgow City,2017,154533
+Glasgow City,2018,158857
+Glasgow City,2019,162151
+Glasgow City,2020,178547
+Glasgow City,2021,185908
+Highland,2012,153379
+Highland,2013,154919
+Highland,2014,164552
+Highland,2015,169079
+Highland,2016,169039
+Highland,2017,175258
+Highland,2018,182264
+Highland,2019,185564
+Highland,2020,198319
+Highland,2021,209075
+Inverclyde,2012,118618
+Inverclyde,2013,122358
+Inverclyde,2014,128972
+Inverclyde,2015,129284
+Inverclyde,2016,124393
+Inverclyde,2017,120539
+Inverclyde,2018,126655
+Inverclyde,2019,129941
+Inverclyde,2020,135455
+Inverclyde,2021,134343
+Midlothian,2012,171892
+Midlothian,2013,172240
+Midlothian,2014,177764
+Midlothian,2015,185397
+Midlothian,2016,192088
+Midlothian,2017,203007
+Midlothian,2018,219615
+Midlothian,2019,227376
+Midlothian,2020,240143
+Midlothian,2021,257110
+Moray,2012,146880
+Moray,2013,142832
+Moray,2014,149194
+Moray,2015,151271
+Moray,2016,154190
+Moray,2017,160037
+Moray,2018,166167
+Moray,2019,170507
+Moray,2020,179623
+Moray,2021,187190
+Na h-Eileanan Siar,2012,103456
+Na h-Eileanan Siar,2013,99996
+Na h-Eileanan Siar,2014,103423
+Na h-Eileanan Siar,2015,101990
+Na h-Eileanan Siar,2016,108366
+Na h-Eileanan Siar,2017,104430
+Na h-Eileanan Siar,2018,115145
+Na h-Eileanan Siar,2019,123391
+Na h-Eileanan Siar,2020,142428
+Na h-Eileanan Siar,2021,144880
+North Ayrshire,2012,106612
+North Ayrshire,2013,107523
+North Ayrshire,2014,120224
+North Ayrshire,2015,120029
+North Ayrshire,2016,113393
+North Ayrshire,2017,120683
+North Ayrshire,2018,122414
+North Ayrshire,2019,127012
+North Ayrshire,2020,139251
+North Ayrshire,2021,140245
+North Lanarkshire,2012,111219
+North Lanarkshire,2013,110876
+North Lanarkshire,2014,114581
+North Lanarkshire,2015,119932
+North Lanarkshire,2016,121939
+North Lanarkshire,2017,127709
+North Lanarkshire,2018,137528
+North Lanarkshire,2019,139319
+North Lanarkshire,2020,144857
+North Lanarkshire,2021,154062
+Orkney Islands,2012,127198
+Orkney Islands,2013,123881
+Orkney Islands,2014,129848
+Orkney Islands,2015,130401
+Orkney Islands,2016,140169
+Orkney Islands,2017,147125
+Orkney Islands,2018,155445
+Orkney Islands,2019,161527
+Orkney Islands,2020,170800
+Orkney Islands,2021,186956
+Perth and Kinross,2012,173976
+Perth and Kinross,2013,179292
+Perth and Kinross,2014,187894
+Perth and Kinross,2015,188203
+Perth and Kinross,2016,186658
+Perth and Kinross,2017,195390
+Perth and Kinross,2018,197617
+Perth and Kinross,2019,199174
+Perth and Kinross,2020,224808
+Perth and Kinross,2021,226028
+Renfrewshire,2012,110975
+Renfrewshire,2013,116852
+Renfrewshire,2014,131697
+Renfrewshire,2015,133397
+Renfrewshire,2016,135393
+Renfrewshire,2017,140840
+Renfrewshire,2018,143851
+Renfrewshire,2019,149637
+Renfrewshire,2020,156428
+Renfrewshire,2021,163911
+Scottish Borders,2012,159344
+Scottish Borders,2013,164743
+Scottish Borders,2014,171601
+Scottish Borders,2015,172832
+Scottish Borders,2016,172536
+Scottish Borders,2017,183259
+Scottish Borders,2018,178323
+Scottish Borders,2019,176754
+Scottish Borders,2020,196381
+Scottish Borders,2021,206906
+Shetland Islands,2012,119175
+Shetland Islands,2013,128265
+Shetland Islands,2014,140145
+Shetland Islands,2015,144120
+Shetland Islands,2016,151765
+Shetland Islands,2017,162807
+Shetland Islands,2018,164592
+Shetland Islands,2019,158535
+Shetland Islands,2020,169155
+Shetland Islands,2021,176648
+South Ayrshire,2012,143431
+South Ayrshire,2013,148028
+South Ayrshire,2014,149521
+South Ayrshire,2015,153078
+South Ayrshire,2016,153764
+South Ayrshire,2017,157974
+South Ayrshire,2018,159684
+South Ayrshire,2019,155922
+South Ayrshire,2020,183850
+South Ayrshire,2021,188985
+South Lanarkshire,2012,125332
+South Lanarkshire,2013,124418
+South Lanarkshire,2014,131073
+South Lanarkshire,2015,136732
+South Lanarkshire,2016,141558
+South Lanarkshire,2017,152237
+South Lanarkshire,2018,153512
+South Lanarkshire,2019,159568
+South Lanarkshire,2020,166282
+South Lanarkshire,2021,175622
+Stirling,2012,182444
+Stirling,2013,175341
+Stirling,2014,187758
+Stirling,2015,186143
+Stirling,2016,187735
+Stirling,2017,195938
+Stirling,2018,201810
+Stirling,2019,208489
+Stirling,2020,235642
+Stirling,2021,230608
+West Dunbartonshire,2012,111521
+West Dunbartonshire,2013,112520
+West Dunbartonshire,2014,116479
+West Dunbartonshire,2015,113545
+West Dunbartonshire,2016,109165
+West Dunbartonshire,2017,114707
+West Dunbartonshire,2018,123428
+West Dunbartonshire,2019,125897
+West Dunbartonshire,2020,129957
+West Dunbartonshire,2021,133719
+West Lothian,2012,138482
+West Lothian,2013,139461
+West Lothian,2014,152773
+West Lothian,2015,159111
+West Lothian,2016,156448
+West Lothian,2017,163203
+West Lothian,2018,173011
+West Lothian,2019,182933
+West Lothian,2020,198413
+West Lothian,2021,212689
