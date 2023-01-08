@@ -33,22 +33,34 @@
             <h3> Introduction</h3>
             <p>An economic problem faced by many people today is the cost-of-living crisis. The rising energy prices have garnered lots of media attention and there is concern the high rate of inflation is not being accompanied by an appropriate rise in wages. This project looks to investigate the extent at which house prices are increasing disproportionately more than wages and I will then look to discuss the significance of these effects on different age demographics in the United Kingdom.</p>
             <div class="chart" id="Chart3"> </div>
-            <p>From Figure 1, we can clearly see that the index of house prices has been increasing at a higher rate over this time period than wages. To gain further insight, I will gather more detailed data broken down by geographical region.</p>
+            <p>From Figure 1, we can clearly see that the index of house prices has been increasing at a higher rate than wages over this time period. This gives us a broad picture of the relationship between the two variables, but does not provide much detail into tendencies of the underlying data. To gain further insight, I will gather more precise data, sorted by geographical region.</p>
             <div class="chart" id="Chart1"></div>
             <div class="chart" id="Chart2"> </div>
-            <p>Figures 2 and 3 visualise the change in wages and house prices, respectively, over time. The country has been divided into local districts and offer a comparison of the relative changes among regions. From this data, it is clear that both variables increase over time. However, it isn't clear that house prices are rising significantly quicker than each district's income. Therefore, I will look at a selection of districts from across the country to see if there are any trends.</p>
+            <p>Figures 2 and 3 visualise the change in wages and house prices, respectively, over time. The country has been divided into local districts and offer a comparison of the relative changes among regions. From this data, it is obvious that both variables increase over time. However, it isn't clear that house prices are rising significantly quicker than each district's income. Therefore, I will look at a selection of districts from across the country to see if there are any trends.</p>
             <div class="chart" id="Chart4"> </div>
-            <p>This trellis chart highlights some variation seen within the data. Here, there is evidence to suggest that, as a proportion of income, house prices seem to be fairly stable in the north. Conversely, the rate of increase for house prices is southern regions is faster than income. Now we have an idea of how house prices vary by geographical region, we can investigate the extent of how the younger demographic is affected.</p>
+            <p>This trellis chart highlights some variation seen within the data. Here, there is evidence to suggest that, as a proportion of income, house prices seem to be fairly stable in the north. Conversely, the rate of increase for house prices in southern regions is faster than income. Now we have an idea of how house prices vary by geographical region, we can investigate the extent of how the younger demographic is affected.</p>
             <div class="chart" id="Chart5"> </div>
+            <p>Figure 5 allows us to view the distribution of each age group between locations. This is a useful breakdown of this data because it now enables us to conduct further analysis. Next, I plan to perform some transformations to my data such that I can compare the relative expenditure on rent of a young adult (25-39). Here, for each district, I will determine the average expenditure on rent as a proportion of income and look at the age distributions to test if there is a relationship.</p>
+            <p>I have chosen to use average rent data in this instance because I believe this impacts the relevant age group more directly. I am assuming that house and rent prices behave somewhat similarly, however.</p>
+            <div class="chart" id="Chart6"> </div>
+            <p>After this data transformation, there is an evident positive relationship between the two variables. I have included a line of best fit, calculated using Python, and evaluated some correlation statistics. The value of the Pearson Correlation Coefficient is 0.65, with the R^2 statistic coming to 0.42. This heavily suggests some underlying associativity between them and I would be confident to claim there is a correlation.</p>
 
-            <h3> references</h3>
+            <h3> Accessing the Data</h3>
+
+            <p>For the data summarising wages and house prices, I obtained .csv files from the ONS websites and cleaned the data using code in Python. I was then able to merge data from several different sources and draw illustrations using relevant variables. The charts displaying data over several year had to be converted into long form before combining with other data.</p>
+
+            <h3> Challenges Faced</h3>
+
+            <p>The biggest challenge I came across when cleaning the data was the names of the district authorities. This is because some of the </p>
+
+            <h3> References</h3>
             <p>Figure 2: Great Britain Heat Map - Wages 
-                | Original data source: <a href="https://www.nomisweb.co.uk/query/construct/summary.asp?reset=yes&mode=construct&dataset=30&version=0&anal=1&initsel=">ONS (NOMIS)</a> 
-                | My Google Colab: <a href="https://colab.research.google.com/drive/1_rsu7VMXWTBkoyMQjRZHkGLORoMD36oR#scrollTo=BPtalZIEAPoF">UKWeeklyWageCleaner.ipynb</a> 
+                | Source: <a href="https://www.nomisweb.co.uk/query/construct/summary.asp?reset=yes&mode=construct&dataset=30&version=0&anal=1&initsel=">ONS (NOMIS)</a> 
+                | Google Colab: <a href="https://colab.research.google.com/drive/1_rsu7VMXWTBkoyMQjRZHkGLORoMD36oR#scrollTo=BPtalZIEAPoF">UKWeeklyWageCleaner.ipynb</a> 
                 | CSV file: <a href="https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKWeeklyPayClean2.csv">UKWeeklyPayClean2.csv</a> </p>
             <p>Figure 3: Great Britain Heat Map - House Prices 
-                | Original data source: <a href="https://www.ros.gov.uk/data-and-statistics/house-price-statistics/property-market-report-2021-22">ROS</a> & <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/medianhousepricefornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset09">ONS</a> 
-                | My Google Colab: <a href="https://colab.research.google.com/drive/1RTFLwFeESJ0NzFN4XalSO3npvJniuOC1#scrollTo=dLV6F-zy8NYl">UKHousePriceCleaner.ipynb</a> 
+                | Source: <a href="https://www.ros.gov.uk/data-and-statistics/house-price-statistics/property-market-report-2021-22">ROS</a>&<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/medianhousepricefornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset09">ONS</a> 
+                | Google Colab: <a href="https://colab.research.google.com/drive/1RTFLwFeESJ0NzFN4XalSO3npvJniuOC1#scrollTo=dLV6F-zy8NYl">UKHousePriceCleaner.ipynb</a> 
                 | CSV file: <a href="https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKHousePricesClean2.csv">UKHousePricesClean2.csv</a></p>
 
     
@@ -72,6 +84,7 @@
         var myChart2 = "UKHouseMap.json";
         var myChart3 = "UKHousePriceWages.json";
         var myChart5 = "UKPopulationPie.json";
+        var myChart6 = "UKscatter.json";
         
     
 
@@ -85,6 +98,8 @@
         vegaEmbed('#Chart3', myChart3);
         vegaEmbed('#Chart4', myChart4);
         vegaEmbed('#Chart5', myChart5);
+        vegaEmbed('#Chart6', myChart6);
+
 
     </script>
 
