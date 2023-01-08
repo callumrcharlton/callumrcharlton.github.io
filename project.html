@@ -36,7 +36,9 @@
             <div class="chart" id="Chart1"></div>
             <div class="chart" id="Chart2"> </div>
             <p>Figures 1 and 2 visualise the change in wages and house prices, respectively, over time. The country has been divided into local districts and offer a comparison of the relative changes among regions. From this data, it is clear that both variables increase over time. However, it isn't clear that house prices are rising significantly quicker than  the population's income. Therefore to gain insight on how price rises affect the younger population, I will go into further detail across age groups.</p>
-            
+            <div class="chart" id="Chart3"> </div>
+            <div class="chart" id="Chart4"> </div>
+
             <h3> references</h3>
             <p>Figure 1: Great Britain Heat Map - Wages 
                 | Original data source: <a href="https://www.nomisweb.co.uk/query/construct/summary.asp?reset=yes&mode=construct&dataset=30&version=0&anal=1&initsel=">ONS (NOMIS)</a> 
@@ -55,9 +57,19 @@
     
     
     <script>
+        let width = screen.width;
+
+        // Use an if function to pick the approprite visualisation:
+    //    if (width > 950) {
+     //       mychart4 = "UKHouseTrellisWide.json";
+      //  } else {
+        //    mychart4 = "UKHouseTrellisNarrow.json";
+       // }
         //Define charts:
         var myChart1 = "UKWageMap.json";
         var myChart2 = "UKHouseMap.json";
+        var myChart3 = "HousePriceWages.json";
+        var myChart4 = "HouseTrellisWide.json";
 
 
 
@@ -66,6 +78,8 @@
         // Embed charts:
         vegaEmbed('#Chart1', myChart1);
         vegaEmbed('#Chart2', myChart2);
+        vegaEmbed('#Chart3', myChart3);
+        vegaEmbed('#Chart4', myChart4);
 
     </script>
 

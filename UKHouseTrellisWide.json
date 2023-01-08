@@ -1,0 +1,54 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "data": {"url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKWageHouseCombined.csv"
+    },
+  
+      "title": {
+      "text": "House Price vs  Annual Income ratio",
+      "subtitle":["Ratio between average house prices and annual income between 2012-2022","4 Southern and 4 Northern districts"],
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"
+  
+    },
+  
+    "transform": [
+      {"filter":{"field":"location", "oneOf": ["Ryedale", "Leeds", "Harrogate", "Bolton", "Mendip", "Bedford","Reading","Canterbury"]}}
+    ],
+  
+    "mark": {
+      "type":"bar",
+      "color":"#004953"},
+  
+    "height":100,
+    "width":150,
+    "padding":{
+      "top":0,
+      "bottom":0,
+      "right":0,
+      "left":0
+    },
+    
+    "encoding": {
+  
+      "x": {
+        "field": "year", 
+        "type": "temporal",
+        "title":null},
+  
+      "y": {
+        "field": "ratio", 
+        "type": "quantitative",
+        "title":"Ratio",
+        "scale":{"domain":[0, 11]}},
+  
+       "facet":{
+         "field": "location",
+         "columns": 4,
+         "title":null,
+         "spacing":20
+       } 
+    }
+  }
