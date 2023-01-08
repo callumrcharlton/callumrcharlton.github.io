@@ -1,1656 +1,1656 @@
-,location,age group,population
-0,Adur,0-24,16777
-1,Adur,25-39,10757
-2,Adur,40-54,13287
-3,Adur,55-64,8487
-4,Adur,65+,15239
-5,Allerdale,0-24,23648
-6,Allerdale,25-39,15531
-7,Allerdale,40-54,18466
-8,Allerdale,55-64,14696
-9,Allerdale,65+,23815
-10,Amber Valley,0-24,31923
-11,Amber Valley,25-39,21981
-12,Amber Valley,40-54,25536
-13,Amber Valley,55-64,18289
-14,Amber Valley,65+,28476
-15,Arun,0-24,38842
-16,Arun,25-39,26685
-17,Arun,40-54,29534
-18,Arun,55-64,22950
-19,Arun,65+,46885
-20,Ashfield,0-24,35045
-21,Ashfield,25-39,24460
-22,Ashfield,40-54,25000
-23,Ashfield,55-64,16916
-24,Ashfield,65+,24884
-25,Ashford,0-24,38261
-26,Ashford,25-39,25146
-27,Ashford,40-54,26605
-28,Ashford,55-64,16740
-29,Ashford,65+,26000
-30,Babergh,0-24,22668
-31,Babergh,25-39,13753
-32,Babergh,40-54,17842
-33,Babergh,55-64,13533
-34,Babergh,65+,24536
-35,Barking and Dagenham,0-24,82177
-36,Barking and Dagenham,25-39,51909
-37,Barking and Dagenham,40-54,45838
-38,Barking and Dagenham,55-64,19912
-39,Barking and Dagenham,65+,19027
-40,Barnet,0-24,119024
-41,Barnet,25-39,89005
-42,Barnet,40-54,83200
-43,Barnet,55-64,42011
-44,Barnet,65+,56100
-45,Barnsley,0-24,66883
-46,Barnsley,25-39,48640
-47,Barnsley,40-54,47890
-48,Barnsley,55-64,33565
-49,Barnsley,65+,47598
-50,Barrow-in-Furness,0-24,18005
-51,Barrow-in-Furness,25-39,12827
-52,Barrow-in-Furness,40-54,12539
-53,Barrow-in-Furness,55-64,9490
-54,Barrow-in-Furness,65+,14543
-55,Basildon,0-24,56534
-56,Basildon,25-39,39402
-57,Basildon,40-54,36997
-58,Basildon,55-64,22746
-59,Basildon,65+,31897
-60,Basingstoke and Deane,0-24,51649
-61,Basingstoke and Deane,25-39,38846
-62,Basingstoke and Deane,40-54,39307
-63,Basingstoke and Deane,55-64,23336
-64,Basingstoke and Deane,65+,32010
-65,Bassetlaw,0-24,30652
-66,Bassetlaw,25-39,20976
-67,Bassetlaw,40-54,23017
-68,Bassetlaw,55-64,17078
-69,Bassetlaw,65+,26081
-70,Bath and North East Somerset,0-24,63034
-71,Bath and North East Somerset,25-39,34069
-72,Bath and North East Somerset,40-54,35220
-73,Bath and North East Somerset,55-64,23563
-74,Bath and North East Somerset,65+,37520
-75,Bedford,0-24,55197
-76,Bedford,25-39,38745
-77,Bedford,40-54,38254
-78,Bedford,55-64,22007
-79,Bedford,65+,31025
-80,Bexley,0-24,75285
-81,Bexley,25-39,49701
-82,Bexley,40-54,50412
-83,Bexley,55-64,30183
-84,Bexley,65+,40892
-85,Birmingham,0-24,419030
-86,Birmingham,25-39,248068
-87,Birmingham,40-54,212007
-88,Birmingham,55-64,115325
-89,Birmingham,65+,150486
-90,Blaby,0-24,28197
-91,Blaby,25-39,19851
-92,Blaby,40-54,20331
-93,Blaby,55-64,13476
-94,Blaby,65+,21078
-95,Blackburn with Darwen,0-24,53255
-96,Blackburn with Darwen,25-39,31498
-97,Blackburn with Darwen,40-54,30216
-98,Blackburn with Darwen,55-64,17366
-99,Blackburn with Darwen,65+,22400
-100,Blackpool,0-24,37967
-101,Blackpool,25-39,26594
-102,Blackpool,40-54,26870
-103,Blackpool,55-64,20411
-104,Blackpool,65+,29191
-105,Blaenau Gwent,0-24,17915
-106,Blaenau Gwent,25-39,13030
-107,Blaenau Gwent,40-54,12905
-108,Blaenau Gwent,55-64,9527
-109,Blaenau Gwent,65+,13523
-110,Bolsover,0-24,21166
-111,Bolsover,25-39,15618
-112,Bolsover,40-54,15953
-113,Bolsover,55-64,11327
-114,Bolsover,65+,16213
-115,Bolton,0-24,94666
-116,Bolton,25-39,57751
-117,Bolton,40-54,57402
-118,Bolton,55-64,35421
-119,Bolton,65+,50721
-120,Boston,0-24,19473
-121,Boston,25-39,13728
-122,Boston,40-54,13654
-123,Boston,55-64,9242
-124,Boston,65+,14406
-125,"Bournemouth, Christchurch and Poole",0-24,110615
-126,"Bournemouth, Christchurch and Poole",25-39,76226
-127,"Bournemouth, Christchurch and Poole",40-54,76994
-128,"Bournemouth, Christchurch and Poole",55-64,49932
-129,"Bournemouth, Christchurch and Poole",65+,86425
-130,Bracknell Forest,0-24,36504
-131,Bracknell Forest,25-39,26916
-132,Bracknell Forest,40-54,27004
-133,Bracknell Forest,55-64,15306
-134,Bracknell Forest,65+,18870
-135,Bradford,0-24,187915
-136,Bradford,25-39,110795
-137,Bradford,40-54,103738
-138,Bradford,55-64,60960
-139,Bradford,65+,83001
-140,Braintree,0-24,42528
-141,Braintree,25-39,28748
-142,Braintree,40-54,31822
-143,Braintree,55-64,20421
-144,Braintree,65+,31748
-145,Breckland,0-24,35574
-146,Breckland,25-39,24410
-147,Breckland,40-54,26367
-148,Breckland,55-64,19826
-149,Breckland,65+,35301
-150,Brent,0-24,105886
-151,Brent,25-39,86847
-152,Brent,40-54,71258
-153,Brent,55-64,36270
-154,Brent,65+,39557
-155,Brentwood,0-24,20879
-156,Brentwood,25-39,14894
-157,Brentwood,40-54,15596
-158,Brentwood,55-64,10142
-159,Brentwood,65+,15534
-160,Bridgend,0-24,39446
-161,Bridgend,25-39,27573
-162,Bridgend,40-54,28506
-163,Bridgend,55-64,19866
-164,Bridgend,65+,30095
-165,Brighton and Hove,0-24,84663
-166,Brighton and Hove,25-39,60926
-167,Brighton and Hove,40-54,60524
-168,Brighton and Hove,55-64,32016
-169,Brighton and Hove,65+,38978
-170,Bristol,0-24,155436
-171,Bristol,25-39,126023
-172,Bristol,40-54,84665
-173,Bristol,55-64,45581
-174,Bristol,65+,60757
-175,Broadland,0-24,31789
-176,Broadland,25-39,21054
-177,Broadland,40-54,26064
-178,Broadland,55-64,18745
-179,Broadland,65+,34070
-180,Bromley,0-24,92933
-181,Bromley,25-39,65541
-182,Bromley,40-54,72672
-183,Bromley,55-64,40603
-184,Bromley,65+,58240
-185,Bromsgrove,0-24,26494
-186,Bromsgrove,25-39,16179
-187,Bromsgrove,40-54,20101
-188,Bromsgrove,55-64,13672
-189,Bromsgrove,65+,22740
-190,Broxbourne,0-24,29074
-191,Broxbourne,25-39,20204
-192,Broxbourne,40-54,20270
-193,Broxbourne,55-64,12218
-194,Broxbourne,65+,17239
-195,Broxtowe,0-24,29373
-196,Broxtowe,25-39,21566
-197,Broxtowe,40-54,21074
-198,Broxtowe,55-64,14707
-199,Broxtowe,65+,24224
-200,Buckinghamshire,0-24,159305
-201,Buckinghamshire,25-39,100785
-202,Buckinghamshire,40-54,117355
-203,Buckinghamshire,55-64,71923
-204,Buckinghamshire,65+,103713
-205,Burnley,0-24,28852
-206,Burnley,25-39,19214
-207,Burnley,40-54,17753
-208,Burnley,55-64,11930
-209,Burnley,65+,16900
-210,Bury,0-24,57276
-211,Bury,25-39,38371
-212,Bury,40-54,38006
-213,Bury,55-64,24751
-214,Bury,65+,35447
-215,Caerphilly,0-24,49096
-216,Caerphilly,25-39,33500
-217,Caerphilly,40-54,34242
-218,Caerphilly,55-64,23707
-219,Caerphilly,65+,35411
-220,Calderdale,0-24,59160
-221,Calderdale,25-39,37953
-222,Calderdale,40-54,42195
-223,Calderdale,55-64,28012
-224,Calderdale,65+,39307
-225,Cambridge,0-24,51532
-226,Cambridge,25-39,40327
-227,Cambridge,40-54,24944
-228,Cambridge,55-64,12258
-229,Cambridge,65+,16615
-230,Camden,0-24,64201
-231,Camden,25-39,59091
-232,Camden,40-54,41129
-233,Camden,55-64,20888
-234,Camden,65+,24825
-235,Cannock Chase,0-24,27282
-236,Cannock Chase,25-39,20222
-237,Cannock Chase,40-54,19888
-238,Cannock Chase,55-64,13580
-239,Cannock Chase,65+,19557
-240,Canterbury,0-24,51318
-241,Canterbury,25-39,25413
-242,Canterbury,40-54,27102
-243,Canterbury,55-64,19344
-244,Canterbury,65+,34254
-245,Cardiff,0-24,126395
-246,Cardiff,25-39,81216
-247,Cardiff,40-54,63558
-248,Cardiff,55-64,38635
-249,Cardiff,65+,52497
-250,Carlisle,0-24,28919
-251,Carlisle,25-39,20567
-252,Carlisle,40-54,20740
-253,Carlisle,55-64,15919
-254,Carlisle,65+,23880
-255,Carmarthenshire,0-24,49031
-256,Carmarthenshire,25-39,31120
-257,Carmarthenshire,40-54,34554
-258,Carmarthenshire,55-64,27724
-259,Carmarthenshire,65+,45466
-260,Castle Point,0-24,23365
-261,Castle Point,25-39,14834
-262,Castle Point,40-54,16695
-263,Castle Point,55-64,12096
-264,Castle Point,65+,22601
-265,Central Bedfordshire,0-24,82947
-266,Central Bedfordshire,25-39,59932
-267,Central Bedfordshire,40-54,59945
-268,Central Bedfordshire,55-64,38479
-269,Central Bedfordshire,65+,52948
-270,Ceredigion,0-24,20576
-271,Ceredigion,25-39,10374
-272,Ceredigion,40-54,11629
-273,Ceredigion,55-64,10504
-274,Ceredigion,65+,18385
-275,Charnwood,0-24,58733
-276,Charnwood,25-39,34364
-277,Charnwood,40-54,33977
-278,Charnwood,55-64,22269
-279,Charnwood,65+,34635
-280,Chelmsford,0-24,50503
-281,Chelmsford,25-39,36137
-282,Chelmsford,40-54,37492
-283,Chelmsford,55-64,22238
-284,Chelmsford,65+,35157
-285,Cheltenham,0-24,33727
-286,Cheltenham,25-39,24647
-287,Cheltenham,40-54,22905
-288,Cheltenham,55-64,14671
-289,Cheltenham,65+,22883
-290,Cherwell,0-24,44791
-291,Cherwell,25-39,34818
-292,Cherwell,40-54,33085
-293,Cherwell,55-64,20286
-294,Cherwell,65+,28033
-295,Cheshire East,0-24,102226
-296,Cheshire East,25-39,70620
-297,Cheshire East,40-54,80585
-298,Cheshire East,55-64,56115
-299,Cheshire East,65+,89225
-300,Cheshire West and Chester,0-24,96228
-301,Cheshire West and Chester,25-39,66054
-302,Cheshire West and Chester,40-54,69843
-303,Cheshire West and Chester,55-64,49279
-304,Cheshire West and Chester,65+,75746
-305,Chesterfield,0-24,26720
-306,Chesterfield,25-39,19187
-307,Chesterfield,40-54,20439
-308,Chesterfield,55-64,14841
-309,Chesterfield,65+,22382
-310,Chichester,0-24,31139
-311,Chichester,25-39,18955
-312,Chichester,40-54,22161
-313,Chichester,55-64,18181
-314,Chichester,65+,33632
-315,Chorley,0-24,31233
-316,Chorley,25-39,22066
-317,Chorley,40-54,24363
-318,Chorley,55-64,15951
-319,Chorley,65+,24118
-320,City of London,0-24,1730
-321,City of London,25-39,2937
-322,City of London,40-54,1731
-323,City of London,55-64,977
-324,City of London,65+,1204
-325,Colchester,0-24,59377
-326,Colchester,25-39,38989
-327,Colchester,40-54,38024
-328,Colchester,55-64,22016
-329,Colchester,65+,34310
-330,Conwy,0-24,27683
-331,Conwy,25-39,17592
-332,Conwy,40-54,20555
-333,Conwy,55-64,17538
-334,Conwy,65+,31373
-335,Copeland,0-24,16773
-336,Copeland,25-39,11485
-337,Copeland,40-54,12570
-338,Copeland,55-64,10715
-339,Copeland,65+,15520
-340,Cornwall,0-24,144871
-341,Cornwall,25-39,90906
-342,Cornwall,40-54,106803
-343,Cornwall,55-64,83585
-344,Cornwall,65+,144139
-345,Cotswold,0-24,21948
-346,Cotswold,25-39,13452
-347,Cotswold,40-54,17867
-348,Cotswold,55-64,13902
-349,Cotswold,65+,23665
-350,County Durham,0-24,146893
-351,County Durham,25-39,90505
-352,County Durham,40-54,98746
-353,County Durham,55-64,74581
-354,County Durham,65+,111337
-355,Coventry,0-24,121508
-356,Coventry,25-39,74104
-357,Coventry,40-54,63472
-358,Coventry,55-64,35928
-359,Coventry,65+,50316
-360,Craven,0-24,12972
-361,Craven,25-39,8124
-362,Craven,40-54,11016
-363,Craven,55-64,9187
-364,Craven,65+,15624
-365,Crawley,0-24,36602
-366,Crawley,25-39,28399
-367,Crawley,40-54,24543
-368,Crawley,55-64,13197
-369,Crawley,65+,15754
-370,Croydon,0-24,119553
-371,Croydon,25-39,90292
-372,Croydon,40-54,81696
-373,Croydon,55-64,46105
-374,Croydon,65+,53072
-375,Dacorum,0-24,44620
-376,Dacorum,25-39,31080
-377,Dacorum,40-54,32608
-378,Dacorum,55-64,19811
-379,Dacorum,65+,26963
-380,Darlington,0-24,29664
-381,Darlington,25-39,19909
-382,Darlington,40-54,21330
-383,Darlington,55-64,14859
-384,Darlington,65+,22045
-385,Dartford,0-24,36440
-386,Dartford,25-39,27412
-387,Dartford,40-54,24236
-388,Dartford,55-64,12628
-389,Dartford,65+,16040
-390,Denbighshire,0-24,25431
-391,Denbighshire,25-39,15105
-392,Denbighshire,40-54,17571
-393,Denbighshire,55-64,13963
-394,Denbighshire,65+,23746
-395,Derby,0-24,83972
-396,Derby,25-39,54964
-397,Derby,40-54,50149
-398,Derby,55-64,29486
-399,Derby,65+,42783
-400,Derbyshire Dales,0-24,15998
-401,Derbyshire Dales,25-39,9337
-402,Derbyshire Dales,40-54,14202
-403,Derbyshire Dales,55-64,11982
-404,Derbyshire Dales,65+,20017
-405,Doncaster,0-24,86036
-406,Doncaster,25-39,62154
-407,Doncaster,40-54,58488
-408,Doncaster,55-64,41579
-409,Doncaster,65+,59851
-410,Dorset,0-24,87961
-411,Dorset,25-39,53411
-412,Dorset,40-54,67366
-413,Dorset,55-64,58565
-414,Dorset,65+,112275
-415,Dover,0-24,30315
-416,Dover,25-39,20056
-417,Dover,40-54,21187
-418,Dover,55-64,16950
-419,Dover,65+,27899
-420,Dudley,0-24,92041
-421,Dudley,25-39,62024
-422,Dudley,40-54,62498
-423,Dudley,55-64,40872
-424,Dudley,65+,66060
-425,Ealing,0-24,111833
-426,Ealing,25-39,90448
-427,Ealing,40-54,80797
-428,Ealing,55-64,39578
-429,Ealing,65+,44466
-430,East Cambridgeshire,0-24,23427
-431,East Cambridgeshire,25-39,15988
-432,East Cambridgeshire,40-54,18629
-433,East Cambridgeshire,55-64,11500
-434,East Cambridgeshire,65+,18218
-435,East Devon,0-24,35220
-436,East Devon,25-39,21891
-437,East Devon,40-54,26965
-438,East Devon,55-64,21519
-439,East Devon,65+,45226
-440,East Hampshire,0-24,32627
-441,East Hampshire,25-39,19918
-442,East Hampshire,40-54,25554
-443,East Hampshire,55-64,18582
-444,East Hampshire,65+,29060
-445,East Hertfordshire,0-24,42221
-446,East Hertfordshire,25-39,28116
-447,East Hertfordshire,40-54,32496
-448,East Hertfordshire,55-64,19934
-449,East Hertfordshire,65+,27393
-450,East Lindsey,0-24,31723
-451,East Lindsey,25-39,19721
-452,East Lindsey,40-54,24306
-453,East Lindsey,55-64,23210
-454,East Lindsey,65+,43332
-455,East Riding of Yorkshire,0-24,81675
-456,East Riding of Yorkshire,25-39,52866
-457,East Riding of Yorkshire,40-54,65122
-458,East Riding of Yorkshire,55-64,52058
-459,East Riding of Yorkshire,65+,90496
-460,East Staffordshire,0-24,35323
-461,East Staffordshire,25-39,24914
-462,East Staffordshire,40-54,24458
-463,East Staffordshire,55-64,16240
-464,East Staffordshire,65+,23084
-465,East Suffolk,0-24,59667
-466,East Suffolk,25-39,36780
-467,East Suffolk,40-54,44986
-468,East Suffolk,55-64,36313
-469,East Suffolk,65+,68309
-470,Eastbourne,0-24,26594
-471,Eastbourne,25-39,17688
-472,Eastbourne,40-54,19017
-473,Eastbourne,55-64,13470
-474,Eastbourne,65+,24916
-475,Eastleigh,0-24,37862
-476,Eastleigh,25-39,27110
-477,Eastleigh,40-54,27390
-478,Eastleigh,55-64,17451
-479,Eastleigh,65+,26633
-480,Eden,0-24,12449
-481,Eden,25-39,8141
-482,Eden,40-54,10590
-483,Eden,55-64,9151
-484,Eden,65+,14403
-485,Elmbridge,0-24,40712
-486,Elmbridge,25-39,22679
-487,Elmbridge,40-54,33152
-488,Elmbridge,55-64,17394
-489,Elmbridge,65+,24820
-490,Enfield,0-24,108571
-491,Enfield,25-39,68279
-492,Enfield,40-54,69950
-493,Enfield,55-64,38171
-494,Enfield,65+,45015
-495,Epping Forest,0-24,37380
-496,Epping Forest,25-39,25433
-497,Epping Forest,40-54,27953
-498,Epping Forest,55-64,17946
-499,Epping Forest,65+,26269
-500,Epsom and Ewell,0-24,23876
-501,Epsom and Ewell,25-39,14388
-502,Epsom and Ewell,40-54,18186
-503,Epsom and Ewell,55-64,9876
-504,Epsom and Ewell,65+,14613
-505,Erewash,0-24,29616
-506,Erewash,25-39,21509
-507,Erewash,40-54,22729
-508,Erewash,55-64,15564
-509,Erewash,65+,23484
-510,Exeter,0-24,46318
-511,Exeter,25-39,26450
-512,Exeter,40-54,22486
-513,Exeter,55-64,13731
-514,Exeter,65+,21727
-515,Fareham,0-24,28545
-516,Fareham,25-39,18864
-517,Fareham,40-54,22137
-518,Fareham,55-64,16858
-519,Fareham,65+,28099
-520,Fenland,0-24,26675
-521,Fenland,25-39,18887
-522,Fenland,40-54,19363
-523,Fenland,55-64,14133
-524,Fenland,65+,23399
-525,Flintshire,0-24,41219
-526,Flintshire,25-39,28078
-527,Flintshire,40-54,30786
-528,Flintshire,55-64,21653
-529,Flintshire,65+,33229
-530,Folkestone and Hythe,0-24,27551
-531,Folkestone and Hythe,25-39,17959
-532,Folkestone and Hythe,40-54,20890
-533,Folkestone and Hythe,55-64,15927
-534,Folkestone and Hythe,65+,27427
-535,Forest of Dean,0-24,22167
-536,Forest of Dean,25-39,13753
-537,Forest of Dean,40-54,16079
-538,Forest of Dean,55-64,13196
-539,Forest of Dean,65+,21811
-540,Fylde,0-24,18258
-541,Fylde,25-39,12502
-542,Fylde,40-54,14985
-543,Fylde,55-64,12989
-544,Fylde,65+,22646
-545,Gateshead,0-24,52837
-546,Gateshead,25-39,38845
-547,Gateshead,40-54,37894
-548,Gateshead,55-64,26796
-549,Gateshead,65+,39772
-550,Gedling,0-24,30555
-551,Gedling,25-39,21925
-552,Gedling,40-54,23519
-553,Gedling,55-64,15974
-554,Gedling,65+,25285
-555,Gloucester,0-24,40074
-556,Gloucester,25-39,27849
-557,Gloucester,40-54,25777
-558,Gloucester,55-64,16593
-559,Gloucester,65+,22116
-560,Gosport,0-24,22306
-561,Gosport,25-39,15182
-562,Gosport,40-54,15494
-563,Gosport,55-64,11459
-564,Gosport,65+,17514
-565,Gravesham,0-24,32707
-566,Gravesham,25-39,21680
-567,Gravesham,40-54,21220
-568,Gravesham,55-64,12878
-569,Gravesham,65+,18414
-570,Great Yarmouth,0-24,26129
-571,Great Yarmouth,25-39,17283
-572,Great Yarmouth,40-54,18416
-573,Great Yarmouth,55-64,13978
-574,Great Yarmouth,65+,23937
-575,Greenwich,0-24,90273
-576,Greenwich,25-39,78363
-577,Greenwich,40-54,61552
-578,Greenwich,55-64,28654
-579,Greenwich,65+,30225
-580,Guildford,0-24,46678
-581,Guildford,25-39,25883
-582,Guildford,40-54,28489
-583,Guildford,55-64,17441
-584,Guildford,65+,25155
-585,Gwynedd,0-24,33683
-586,Gwynedd,25-39,19041
-587,Gwynedd,40-54,20821
-588,Gwynedd,55-64,16579
-589,Gwynedd,65+,27273
-590,Hackney,0-24,79429
-591,Hackney,25-39,87095
-592,Hackney,40-54,48671
-593,Hackney,55-64,23452
-594,Hackney,65+,20501
-595,Halton,0-24,36766
-596,Halton,25-39,25018
-597,Halton,40-54,25402
-598,Halton,55-64,17329
-599,Halton,65+,23960
-600,Hambleton,0-24,20925
-601,Hambleton,25-39,13500
-602,Hambleton,40-54,16762
-603,Hambleton,55-64,14769
-604,Hambleton,65+,24735
-605,Hammersmith and Fulham,0-24,52071
-606,Hammersmith and Fulham,25-39,57590
-607,Hammersmith and Fulham,40-54,36918
-608,Hammersmith and Fulham,55-64,17597
-609,Hammersmith and Fulham,65+,18985
-610,Harborough,0-24,25740
-611,Harborough,25-39,16149
-612,Harborough,40-54,20364
-613,Harborough,55-64,13880
-614,Harborough,65+,21498
-615,Haringey,0-24,76179
-616,Haringey,25-39,73509
-617,Haringey,40-54,58845
-618,Haringey,55-64,27995
-619,Haringey,65+,27706
-620,Harlow,0-24,29113
-621,Harlow,25-39,21627
-622,Harlow,40-54,18159
-623,Harlow,55-64,10820
-624,Harlow,65+,13615
-625,Harrogate,0-24,41560
-626,Harrogate,25-39,25862
-627,Harrogate,40-54,33138
-628,Harrogate,55-64,24083
-629,Harrogate,65+,38023
-630,Harrow,0-24,78486
-631,Harrow,25-39,60055
-632,Harrow,40-54,53276
-633,Harrow,55-64,29205
-634,Harrow,65+,40181
-635,Hart,0-24,27966
-636,Hart,25-39,17237
-637,Hart,40-54,21637
-638,Hart,55-64,12994
-639,Hart,65+,19575
-640,Hartlepool,0-24,26775
-641,Hartlepool,25-39,16842
-642,Hartlepool,40-54,17060
-643,Hartlepool,55-64,13425
-644,Hartlepool,65+,18232
-645,Hastings,0-24,24432
-646,Hastings,25-39,17043
-647,Hastings,40-54,18380
-648,Hastings,55-64,12733
-649,Hastings,65+,18418
-650,Havant,0-24,32197
-651,Havant,25-39,21373
-652,Havant,40-54,22393
-653,Havant,55-64,18024
-654,Havant,65+,30220
-655,Havering,0-24,77793
-656,Havering,25-39,55422
-657,Havering,40-54,51026
-658,Havering,55-64,31710
-659,Havering,65+,46106
-660,Herefordshire,0-24,45266
-661,Herefordshire,25-39,30440
-662,Herefordshire,40-54,34653
-663,Herefordshire,55-64,28203
-664,Herefordshire,65+,48477
-665,Hertsmere,0-24,31793
-666,Hertsmere,25-39,20557
-667,Hertsmere,40-54,22878
-668,Hertsmere,55-64,13458
-669,Hertsmere,65+,19136
-670,High Peak,0-24,22935
-671,High Peak,25-39,15456
-672,High Peak,40-54,18472
-673,High Peak,55-64,14231
-674,High Peak,65+,19836
-675,Hillingdon,0-24,98715
-676,Hillingdon,25-39,69375
-677,Hillingdon,40-54,63643
-678,Hillingdon,55-64,33008
-679,Hillingdon,65+,41175
-680,Hinckley and Bosworth,0-24,29107
-681,Hinckley and Bosworth,25-39,20922
-682,Hinckley and Bosworth,40-54,22652
-683,Hinckley and Bosworth,55-64,15551
-684,Hinckley and Bosworth,65+,25408
-685,Horsham,0-24,38230
-686,Horsham,25-39,24575
-687,Horsham,40-54,29584
-688,Horsham,55-64,20942
-689,Horsham,65+,33445
-690,Hounslow,0-24,88916
-691,Hounslow,25-39,71619
-692,Hounslow,40-54,64007
-693,Hounslow,55-64,29691
-694,Hounslow,65+,33948
-695,Huntingdonshire,0-24,48010
-696,Huntingdonshire,25-39,34952
-697,Huntingdonshire,40-54,36966
-698,Huntingdonshire,55-64,24364
-699,Huntingdonshire,65+,36540
-700,Hyndburn,0-24,25029
-701,Hyndburn,25-39,16202
-702,Hyndburn,40-54,15716
-703,Hyndburn,55-64,10283
-704,Hyndburn,65+,15006
-705,Ipswich,0-24,42205
-706,Ipswich,25-39,30874
-707,Ipswich,40-54,27567
-708,Ipswich,55-64,15988
-709,Ipswich,65+,23010
-710,Isle of Anglesey,0-24,17500
-711,Isle of Anglesey,25-39,10455
-712,Isle of Anglesey,40-54,12458
-713,Isle of Anglesey,55-64,10255
-714,Isle of Anglesey,65+,18207
-715,Isle of Wight,0-24,31814
-716,Isle of Wight,25-39,20799
-717,Isle of Wight,40-54,25177
-718,Isle of Wight,55-64,21650
-719,Isle of Wight,65+,41020
-720,Isles of Scilly,0-24,435
-721,Isles of Scilly,25-39,348
-722,Isles of Scilly,40-54,400
-723,Isles of Scilly,55-64,295
-724,Isles of Scilly,65+,580
-725,Islington,0-24,60252
-726,Islington,25-39,75068
-727,Islington,40-54,40303
-728,Islington,55-64,20643
-729,Islington,65+,20321
-730,Kensington and Chelsea,0-24,37928
-731,Kensington and Chelsea,25-39,35710
-732,Kensington and Chelsea,40-54,30870
-733,Kensington and Chelsea,55-64,18269
-734,Kensington and Chelsea,65+,20599
-735,King's Lynn and West Norfolk,0-24,38276
-736,King's Lynn and West Norfolk,25-39,26283
-737,King's Lynn and West Norfolk,40-54,27859
-738,King's Lynn and West Norfolk,55-64,21964
-739,King's Lynn and West Norfolk,65+,39936
-740,Kingston upon Hull,0-24,84941
-741,Kingston upon Hull,25-39,59742
-742,Kingston upon Hull,40-54,49357
-743,Kingston upon Hull,55-64,32143
-744,Kingston upon Hull,65+,40827
-745,Kingston upon Thames,0-24,51262
-746,Kingston upon Thames,25-39,36251
-747,Kingston upon Thames,40-54,37817
-748,Kingston upon Thames,55-64,18410
-749,Kingston upon Thames,65+,24324
-750,Kirklees,0-24,134116
-751,Kirklees,25-39,83025
-752,Kirklees,40-54,86114
-753,Kirklees,55-64,53152
-754,Kirklees,65+,76815
-755,Knowsley,0-24,45354
-756,Knowsley,25-39,32627
-757,Knowsley,40-54,28052
-758,Knowsley,55-64,22247
-759,Knowsley,65+,26243
-760,Lambeth,0-24,87378
-761,Lambeth,25-39,108334
-762,Lambeth,40-54,63327
-763,Lambeth,55-64,31358
-764,Lambeth,65+,27265
-765,Lancaster,0-24,45237
-766,Lancaster,25-39,24663
-767,Lancaster,40-54,25096
-768,Lancaster,55-64,18588
-769,Lancaster,65+,29348
-770,Leeds,0-24,266853
-771,Leeds,25-39,177868
-772,Leeds,40-54,151579
-773,Leeds,55-64,88886
-774,Leeds,65+,126764
-775,Leicester,0-24,137175
-776,Leicester,25-39,82026
-777,Leicester,40-54,69122
-778,Leicester,55-64,36744
-779,Leicester,65+,43502
-780,Lewes,0-24,24927
-781,Lewes,25-39,14912
-782,Lewes,40-54,19365
-783,Lewes,55-64,14240
-784,Lewes,65+,26468
-785,Lewisham,0-24,89356
-786,Lewisham,25-39,85940
-787,Lewisham,40-54,64518
-788,Lewisham,55-64,32091
-789,Lewisham,65+,28649
-790,Lichfield,0-24,27107
-791,Lichfield,25-39,18052
-792,Lichfield,40-54,21115
-793,Lichfield,55-64,14636
-794,Lichfield,65+,25529
-795,Lincoln,0-24,38219
-796,Lincoln,25-39,22135
-797,Lincoln,40-54,17413
-798,Lincoln,55-64,11040
-799,Lincoln,65+,15006
-800,Liverpool,0-24,161525
-801,Liverpool,25-39,108533
-802,Liverpool,40-54,83507
-803,Liverpool,55-64,58202
-804,Liverpool,65+,74326
-805,Luton,0-24,80092
-806,Luton,25-39,52034
-807,Luton,40-54,44433
-808,Luton,55-64,22337
-809,Luton,65+,26363
-810,Maidstone,0-24,49441
-811,Maidstone,25-39,35446
-812,Maidstone,40-54,35573
-813,Maidstone,55-64,21795
-814,Maidstone,65+,33523
-815,Maldon,0-24,16597
-816,Maldon,25-39,10113
-817,Maldon,40-54,12926
-818,Maldon,55-64,10022
-819,Maldon,65+,16550
-820,Malvern Hills,0-24,18981
-821,Malvern Hills,25-39,10903
-822,Malvern Hills,40-54,14835
-823,Malvern Hills,55-64,12521
-824,Malvern Hills,65+,22243
-825,Manchester,0-24,211589
-826,Manchester,25-39,142636
-827,Manchester,40-54,97215
-828,Manchester,55-64,48335
-829,Manchester,65+,52168
-830,Mansfield,0-24,29969
-831,Mansfield,25-39,22759
-832,Mansfield,40-54,21271
-833,Mansfield,55-64,15185
-834,Mansfield,65+,21302
-835,Medway,0-24,85827
-836,Medway,25-39,58186
-837,Medway,40-54,55266
-838,Medway,55-64,34439
-839,Medway,65+,46053
-840,Melton,0-24,13033
-841,Melton,25-39,8298
-842,Melton,40-54,10335
-843,Melton,55-64,7930
-844,Melton,65+,12155
-845,Mendip,0-24,30115
-846,Mendip,25-39,18455
-847,Mendip,40-54,22961
-848,Mendip,55-64,16948
-849,Mendip,65+,27611
-850,Merthyr Tydfil,0-24,16877
-851,Merthyr Tydfil,25-39,11866
-852,Merthyr Tydfil,40-54,10953
-853,Merthyr Tydfil,55-64,8039
-854,Merthyr Tydfil,65+,11112
-855,Merton,0-24,61846
-856,Merton,25-39,55310
-857,Merton,40-54,48126
-858,Merton,55-64,22835
-859,Merton,65+,27071
-860,Mid Devon,0-24,21658
-861,Mid Devon,25-39,13342
-862,Mid Devon,40-54,15951
-863,Mid Devon,55-64,12008
-864,Mid Devon,65+,19889
-865,Mid Suffolk,0-24,25136
-866,Mid Suffolk,25-39,16716
-867,Mid Suffolk,40-54,19543
-868,Mid Suffolk,55-64,15327
-869,Mid Suffolk,65+,25980
-870,Mid Sussex,0-24,41825
-871,Mid Sussex,25-39,26765
-872,Mid Sussex,40-54,32911
-873,Mid Sussex,55-64,19576
-874,Mid Sussex,65+,31493
-875,Middlesbrough,0-24,46930
-876,Middlesbrough,25-39,30017
-877,Middlesbrough,40-54,24708
-878,Middlesbrough,55-64,18089
-879,Middlesbrough,65+,24178
-880,Milton Keynes,0-24,89953
-881,Milton Keynes,25-39,64064
-882,Milton Keynes,40-54,61880
-883,Milton Keynes,55-64,31576
-884,Milton Keynes,65+,39584
-885,Mole Valley,0-24,22336
-886,Mole Valley,25-39,13019
-887,Mole Valley,40-54,18441
-888,Mole Valley,55-64,12828
-889,Mole Valley,65+,20762
-890,Monmouthshire,0-24,22198
-891,Monmouthshire,25-39,14130
-892,Monmouthshire,40-54,18112
-893,Monmouthshire,55-64,14479
-894,Monmouthshire,65+,24042
-895,Neath Port Talbot,0-24,39949
-896,Neath Port Talbot,25-39,25934
-897,Neath Port Talbot,40-54,26424
-898,Neath Port Talbot,55-64,19849
-899,Neath Port Talbot,65+,30134
-900,New Forest,0-24,40593
-901,New Forest,25-39,24849
-902,New Forest,40-54,31878
-903,New Forest,55-64,26817
-904,New Forest,65+,51641
-905,Newark and Sherwood,0-24,32030
-906,Newark and Sherwood,25-39,21907
-907,Newark and Sherwood,40-54,23878
-908,Newark and Sherwood,55-64,17468
-909,Newark and Sherwood,65+,27671
-910,Newcastle upon Tyne,0-24,108760
-911,Newcastle upon Tyne,25-39,64231
-912,Newcastle upon Tyne,40-54,49766
-913,Newcastle upon Tyne,55-64,32856
-914,Newcastle upon Tyne,65+,44518
-915,Newcastle-under-Lyme,0-24,35037
-916,Newcastle-under-Lyme,25-39,21592
-917,Newcastle-under-Lyme,40-54,23265
-918,Newcastle-under-Lyme,55-64,16669
-919,Newcastle-under-Lyme,65+,26743
-920,Newham,0-24,120914
-921,Newham,25-39,105264
-922,Newham,40-54,70623
-923,Newham,55-64,29071
-924,Newham,65+,25167
-925,Newport,0-24,47694
-926,Newport,25-39,34749
-927,Newport,40-54,30435
-928,Newport,55-64,19653
-929,Newport,65+,27063
-930,North Devon,0-24,24580
-931,North Devon,25-39,15507
-932,North Devon,40-54,18310
-933,North Devon,55-64,14757
-934,North Devon,65+,25454
-935,North East Derbyshire,0-24,25098
-936,North East Derbyshire,25-39,16925
-937,North East Derbyshire,40-54,19692
-938,North East Derbyshire,55-64,14956
-939,North East Derbyshire,65+,25329
-940,North East Lincolnshire,0-24,43914
-941,North East Lincolnshire,25-39,29243
-942,North East Lincolnshire,40-54,28953
-943,North East Lincolnshire,55-64,22021
-944,North East Lincolnshire,65+,32835
-945,North Hertfordshire,0-24,36468
-946,North Hertfordshire,25-39,25320
-947,North Hertfordshire,40-54,28402
-948,North Hertfordshire,55-64,17187
-949,North Hertfordshire,65+,25834
-950,North Kesteven,0-24,30184
-951,North Kesteven,25-39,20625
-952,North Kesteven,40-54,22997
-953,North Kesteven,55-64,16659
-954,North Kesteven,65+,27610
-955,North Lincolnshire,0-24,45229
-956,North Lincolnshire,25-39,30596
-957,North Lincolnshire,40-54,32175
-958,North Lincolnshire,55-64,24401
-959,North Lincolnshire,65+,37273
-960,North Norfolk,0-24,21192
-961,North Norfolk,25-39,13516
-962,North Norfolk,40-54,17102
-963,North Norfolk,55-64,16678
-964,North Norfolk,65+,34500
-965,North Northamptonshire,0-24,103446
-966,North Northamptonshire,25-39,71606
-967,North Northamptonshire,40-54,73729
-968,North Northamptonshire,55-64,45383
-969,North Northamptonshire,65+,65361
-970,North Somerset,0-24,56356
-971,North Somerset,25-39,36199
-972,North Somerset,40-54,43028
-973,North Somerset,55-64,29274
-974,North Somerset,65+,51870
-975,North Tyneside,0-24,54958
-976,North Tyneside,25-39,40385
-977,North Tyneside,40-54,41907
-978,North Tyneside,55-64,28812
-979,North Tyneside,65+,42890
-980,North Warwickshire,0-24,16831
-981,North Warwickshire,25-39,11593
-982,North Warwickshire,40-54,12857
-983,North Warwickshire,55-64,9481
-984,North Warwickshire,65+,14273
-985,North West Leicestershire,0-24,28609
-986,North West Leicestershire,25-39,19483
-987,North West Leicestershire,40-54,21543
-988,North West Leicestershire,55-64,14068
-989,North West Leicestershire,65+,21003
-990,Northumberland,0-24,77914
-991,Northumberland,25-39,50268
-992,Northumberland,40-54,60301
-993,Northumberland,55-64,50533
-994,Northumberland,65+,81549
-995,Norwich,0-24,48610
-996,Norwich,25-39,34162
-997,Norwich,40-54,25453
-998,Norwich,55-64,14192
-999,Norwich,65+,21509
-1000,Nottingham,0-24,131206
-1001,Nottingham,25-39,69672
-1002,Nottingham,40-54,53829
-1003,Nottingham,55-64,30955
-1004,Nottingham,65+,37965
-1005,Nuneaton and Bedworth,0-24,38103
-1006,Nuneaton and Bedworth,25-39,27307
-1007,Nuneaton and Bedworth,40-54,26085
-1008,Nuneaton and Bedworth,55-64,17105
-1009,Nuneaton and Bedworth,65+,25604
-1010,Oadby and Wigston,0-24,17004
-1011,Oadby and Wigston,25-39,10202
-1012,Oadby and Wigston,40-54,10802
-1013,Oadby and Wigston,55-64,7442
-1014,Oadby and Wigston,65+,12303
-1015,Oldham,0-24,81905
-1016,Oldham,25-39,47889
-1017,Oldham,40-54,45975
-1018,Oldham,55-64,27704
-1019,Oldham,65+,38608
-1020,Oxford,0-24,61504
-1021,Oxford,25-39,39668
-1022,Oxford,40-54,27255
-1023,Oxford,55-64,14642
-1024,Oxford,65+,18970
-1025,Pembrokeshire,0-24,31322
-1026,Pembrokeshire,25-39,19186
-1027,Pembrokeshire,40-54,21835
-1028,Pembrokeshire,55-64,18680
-1029,Pembrokeshire,65+,32343
-1030,Pendle,0-24,30261
-1031,Pendle,25-39,18540
-1032,Pendle,40-54,18020
-1033,Pendle,55-64,11689
-1034,Pendle,65+,17243
-1035,Peterborough,0-24,69615
-1036,Peterborough,25-39,49873
-1037,Peterborough,40-54,42842
-1038,Peterborough,55-64,22755
-1039,Peterborough,65+,30591
-1040,Plymouth,0-24,80455
-1041,Plymouth,25-39,53703
-1042,Plymouth,40-54,48969
-1043,Plymouth,55-64,32597
-1044,Plymouth,65+,48969
-1045,Portsmouth,0-24,69598
-1046,Portsmouth,25-39,46234
-1047,Portsmouth,40-54,38059
-1048,Portsmouth,55-64,23323
-1049,Portsmouth,65+,30788
-1050,Powys,0-24,31386
-1051,Powys,25-39,19714
-1052,Powys,40-54,23869
-1053,Powys,55-64,21084
-1054,Powys,65+,37121
-1055,Preston,0-24,49764
-1056,Preston,25-39,31677
-1057,Preston,40-54,27591
-1058,Preston,55-64,16997
-1059,Preston,65+,21806
-1060,Reading,0-24,56647
-1061,Reading,25-39,44808
-1062,Reading,40-54,34873
-1063,Reading,55-64,16926
-1064,Reading,65+,20981
-1065,Redbridge,0-24,102634
-1066,Redbridge,25-39,72867
-1067,Redbridge,40-54,65319
-1068,Redbridge,55-64,31509
-1069,Redbridge,65+,37931
-1070,Redcar and Cleveland,0-24,36380
-1071,Redcar and Cleveland,25-39,22976
-1072,Redcar and Cleveland,40-54,25212
-1073,Redcar and Cleveland,55-64,20219
-1074,Redcar and Cleveland,65+,31749
-1075,Redditch,0-24,24879
-1076,Redditch,25-39,18195
-1077,Redditch,40-54,17196
-1078,Redditch,55-64,10610
-1079,Redditch,65+,16154
-1080,Reigate and Banstead,0-24,43144
-1081,Reigate and Banstead,25-39,29808
-1082,Reigate and Banstead,40-54,32364
-1083,Reigate and Banstead,55-64,18815
-1084,Reigate and Banstead,65+,26721
-1085,Rhondda Cynon Taf,0-24,68830
-1086,Rhondda Cynon Taf,25-39,46042
-1087,Rhondda Cynon Taf,40-54,44911
-1088,Rhondda Cynon Taf,55-64,31242
-1089,Rhondda Cynon Taf,65+,46626
-1090,Ribble Valley,0-24,15320
-1091,Ribble Valley,25-39,9370
-1092,Ribble Valley,40-54,12295
-1093,Ribble Valley,55-64,9721
-1094,Ribble Valley,65+,14852
-1095,Richmond upon Thames,0-24,55525
-1096,Richmond upon Thames,25-39,36391
-1097,Richmond upon Thames,40-54,48012
-1098,Richmond upon Thames,55-64,23903
-1099,Richmond upon Thames,65+,31447
-1100,Richmondshire,0-24,13161
-1101,Richmondshire,25-39,8619
-1102,Richmondshire,40-54,8924
-1103,Richmondshire,55-64,7413
-1104,Richmondshire,65+,11647
-1105,Rochdale,0-24,71503
-1106,Rochdale,25-39,45309
-1107,Rochdale,40-54,43220
-1108,Rochdale,55-64,26876
-1109,Rochdale,65+,36867
-1110,Rochford,0-24,22663
-1111,Rochford,25-39,14030
-1112,Rochford,40-54,17161
-1113,Rochford,55-64,11811
-1114,Rochford,65+,20002
-1115,Rossendale,0-24,19760
-1116,Rossendale,25-39,13110
-1117,Rossendale,40-54,14619
-1118,Rossendale,55-64,9726
-1119,Rossendale,65+,13661
-1120,Rother,0-24,20771
-1121,Rother,25-39,12036
-1122,Rother,40-54,15757
-1123,Rother,55-64,14356
-1124,Rother,65+,30191
-1125,Rotherham,0-24,75734
-1126,Rotherham,25-39,51429
-1127,Rotherham,40-54,51404
-1128,Rotherham,55-64,35012
-1129,Rotherham,65+,52227
-1130,Rugby,0-24,32479
-1131,Rugby,25-39,23795
-1132,Rugby,40-54,23385
-1133,Rugby,55-64,13898
-1134,Rugby,65+,20809
-1135,Runnymede,0-24,28426
-1136,Runnymede,25-39,16305
-1137,Runnymede,40-54,17651
-1138,Runnymede,55-64,10540
-1139,Runnymede,65+,15163
-1140,Rushcliffe,0-24,32739
-1141,Rushcliffe,25-39,20274
-1142,Rushcliffe,40-54,24445
-1143,Rushcliffe,55-64,15879
-1144,Rushcliffe,65+,25741
-1145,Rushmoor,0-24,28512
-1146,Rushmoor,25-39,24150
-1147,Rushmoor,40-54,20344
-1148,Rushmoor,55-64,11622
-1149,Rushmoor,65+,15130
-1150,Rutland,0-24,10766
-1151,Rutland,25-39,6533
-1152,Rutland,40-54,7762
-1153,Rutland,55-64,5603
-1154,Rutland,65+,10386
-1155,Ryedale,0-24,12632
-1156,Ryedale,25-39,8046
-1157,Ryedale,40-54,10086
-1158,Ryedale,55-64,8803
-1159,Ryedale,65+,15142
-1160,Salford,0-24,88183
-1161,Salford,25-39,71347
-1162,Salford,40-54,46762
-1163,Salford,55-64,27713
-1164,Salford,65+,35922
-1165,Sandwell,0-24,113473
-1166,Sandwell,25-39,71972
-1167,Sandwell,40-54,68604
-1168,Sandwell,55-64,38082
-1169,Sandwell,65+,49704
-1170,Scarborough,0-24,25410
-1171,Scarborough,25-39,17049
-1172,Scarborough,40-54,19220
-1173,Scarborough,55-64,17192
-1174,Scarborough,65+,29865
-1175,Sedgemoor,0-24,32681
-1176,Sedgemoor,25-39,21339
-1177,Sedgemoor,40-54,23585
-1178,Sedgemoor,55-64,17930
-1179,Sedgemoor,65+,29819
-1180,Sefton,0-24,71403
-1181,Sefton,25-39,49204
-1182,Sefton,40-54,52364
-1183,Sefton,55-64,41494
-1184,Sefton,65+,64766
-1185,Selby,0-24,24175
-1186,Selby,25-39,17106
-1187,Selby,40-54,18571
-1188,Selby,55-64,13366
-1189,Selby,65+,18772
-1190,Sevenoaks,0-24,33871
-1191,Sevenoaks,25-39,19710
-1192,Sevenoaks,40-54,24893
-1193,Sevenoaks,55-64,16113
-1194,Sevenoaks,65+,25929
-1195,Sheffield,0-24,182570
-1196,Sheffield,25-39,114435
-1197,Sheffield,40-54,100697
-1198,Sheffield,55-64,63996
-1199,Sheffield,65+,94821
-1200,Shropshire,0-24,79959
-1201,Shropshire,25-39,52087
-1202,Shropshire,40-54,60973
-1203,Shropshire,55-64,48501
-1204,Shropshire,65+,82088
-1205,Slough,0-24,56155
-1206,Slough,25-39,38001
-1207,Slough,40-54,34443
-1208,Slough,55-64,14580
-1209,Slough,65+,15319
-1210,Solihull,0-24,61628
-1211,Solihull,25-39,38149
-1212,Solihull,40-54,42446
-1213,Solihull,55-64,28413
-1214,Solihull,65+,45600
-1215,Somerset West and Taunton,0-24,39378
-1216,Somerset West and Taunton,25-39,26586
-1217,Somerset West and Taunton,40-54,28681
-1218,Somerset West and Taunton,55-64,22365
-1219,Somerset West and Taunton,65+,40438
-1220,South Cambridgeshire,0-24,44769
-1221,South Cambridgeshire,25-39,29506
-1222,South Cambridgeshire,40-54,35567
-1223,South Cambridgeshire,55-64,20471
-1224,South Cambridgeshire,65+,31803
-1225,South Derbyshire,0-24,29806
-1226,South Derbyshire,25-39,20966
-1227,South Derbyshire,40-54,22406
-1228,South Derbyshire,55-64,14089
-1229,South Derbyshire,65+,19936
-1230,South Gloucestershire,0-24,84272
-1231,South Gloucestershire,25-39,59567
-1232,South Gloucestershire,40-54,56442
-1233,South Gloucestershire,55-64,35950
-1234,South Gloucestershire,65+,54192
-1235,South Hams,0-24,20330
-1236,South Hams,25-39,12403
-1237,South Hams,40-54,16307
-1238,South Hams,55-64,14507
-1239,South Hams,65+,25081
-1240,South Holland,0-24,24162
-1241,South Holland,25-39,16598
-1242,South Holland,40-54,18327
-1243,South Holland,55-64,13338
-1244,South Holland,65+,22694
-1245,South Kesteven,0-24,37214
-1246,South Kesteven,25-39,23717
-1247,South Kesteven,40-54,28813
-1248,South Kesteven,55-64,20541
-1249,South Kesteven,65+,33115
-1250,South Lakeland,0-24,23055
-1251,South Lakeland,25-39,15567
-1252,South Lakeland,40-54,19691
-1253,South Lakeland,55-64,16776
-1254,South Lakeland,65+,29360
-1255,South Norfolk,0-24,36051
-1256,South Norfolk,25-39,23958
-1257,South Norfolk,40-54,27681
-1258,South Norfolk,55-64,19747
-1259,South Norfolk,65+,34511
-1260,South Oxfordshire,0-24,39954
-1261,South Oxfordshire,25-39,27268
-1262,South Oxfordshire,40-54,31446
-1263,South Oxfordshire,55-64,19833
-1264,South Oxfordshire,65+,30579
-1265,South Ribble,0-24,29191
-1266,South Ribble,25-39,19923
-1267,South Ribble,40-54,22327
-1268,South Ribble,55-64,15569
-1269,South Ribble,65+,24032
-1270,South Somerset,0-24,43823
-1271,South Somerset,25-39,28743
-1272,South Somerset,40-54,31525
-1273,South Somerset,55-64,24543
-1274,South Somerset,65+,44041
-1275,South Staffordshire,0-24,26677
-1276,South Staffordshire,25-39,18276
-1277,South Staffordshire,40-54,21059
-1278,South Staffordshire,55-64,16718
-1279,South Staffordshire,65+,27744
-1280,South Tyneside,0-24,39690
-1281,South Tyneside,25-39,27903
-1282,South Tyneside,40-54,27641
-1283,South Tyneside,55-64,21705
-1284,South Tyneside,65+,30838
-1285,Southampton,0-24,84975
-1286,Southampton,25-39,59214
-1287,Southampton,40-54,45019
-1288,Southampton,55-64,25459
-1289,Southampton,65+,34245
-1290,Southend-on-Sea,0-24,50834
-1291,Southend-on-Sea,25-39,35353
-1292,Southend-on-Sea,40-54,37023
-1293,Southend-on-Sea,55-64,22914
-1294,Southend-on-Sea,65+,34561
-1295,Southwark,0-24,90153
-1296,Southwark,25-39,99759
-1297,Southwark,40-54,61328
-1298,Southwark,55-64,30715
-1299,Southwark,65+,25686
-1300,Spelthorne,0-24,28508
-1301,Spelthorne,25-39,21066
-1302,Spelthorne,40-54,21697
-1303,Spelthorne,55-64,13092
-1304,Spelthorne,65+,18590
-1305,St Albans,0-24,44269
-1306,St Albans,25-39,25924
-1307,St Albans,40-54,34565
-1308,St Albans,55-64,17917
-1309,St Albans,65+,25498
-1310,St. Helens,0-24,49389
-1311,St. Helens,25-39,35493
-1312,St. Helens,40-54,35950
-1313,St. Helens,55-64,24776
-1314,St. Helens,65+,37637
-1315,Stafford,0-24,34553
-1316,Stafford,25-39,24584
-1317,Stafford,40-54,27198
-1318,Stafford,55-64,19083
-1319,Stafford,65+,31452
-1320,Staffordshire Moorlands,0-24,22902
-1321,Staffordshire Moorlands,25-39,14587
-1322,Staffordshire Moorlands,40-54,18790
-1323,Staffordshire Moorlands,55-64,14450
-1324,Staffordshire Moorlands,65+,25122
-1325,Stevenage,0-24,26772
-1326,Stevenage,25-39,20323
-1327,Stevenage,40-54,17663
-1328,Stevenage,55-64,11195
-1329,Stevenage,65+,13548
-1330,Stockport,0-24,80691
-1331,Stockport,25-39,57400
-1332,Stockport,40-54,59251
-1333,Stockport,55-64,38159
-1334,Stockport,65+,59275
-1335,Stockton-on-Tees,0-24,56489
-1336,Stockton-on-Tees,25-39,38105
-1337,Stockton-on-Tees,40-54,38073
-1338,Stockton-on-Tees,55-64,26744
-1339,Stockton-on-Tees,65+,37183
-1340,Stoke-on-Trent,0-24,81508
-1341,Stoke-on-Trent,25-39,53840
-1342,Stoke-on-Trent,40-54,48026
-1343,Stoke-on-Trent,55-64,30736
-1344,Stoke-on-Trent,65+,44265
-1345,Stratford-on-Avon,0-24,32461
-1346,Stratford-on-Avon,25-39,21524
-1347,Stratford-on-Avon,40-54,26833
-1348,Stratford-on-Avon,55-64,19993
-1349,Stratford-on-Avon,65+,33916
-1350,Stroud,0-24,30858
-1351,Stroud,25-39,19350
-1352,Stroud,40-54,24801
-1353,Stroud,55-64,17864
-1354,Stroud,65+,28230
-1355,Sunderland,0-24,74907
-1356,Sunderland,25-39,52122
-1357,Sunderland,40-54,51931
-1358,Sunderland,55-64,38946
-1359,Sunderland,65+,56260
-1360,Surrey Heath,0-24,24684
-1361,Surrey Heath,25-39,16102
-1362,Surrey Heath,40-54,19733
-1363,Surrey Heath,55-64,12125
-1364,Surrey Heath,65+,17816
-1365,Sutton,0-24,62702
-1366,Sutton,25-39,43849
-1367,Sutton,40-54,47104
-1368,Sutton,55-64,24244
-1369,Sutton,65+,31741
-1370,Swale,0-24,44023
-1371,Swale,25-39,29854
-1372,Swale,40-54,29244
-1373,Swale,55-64,19645
-1374,Swale,65+,28912
-1375,Swansea,0-24,71740
-1376,Swansea,25-39,43817
-1377,Swansea,40-54,43519
-1378,Swansea,55-64,30541
-1379,Swansea,65+,48883
-1380,Swindon,0-24,67858
-1381,Swindon,25-39,49955
-1382,Swindon,40-54,49414
-1383,Swindon,55-64,29115
-1384,Swindon,65+,37072
-1385,Tameside,0-24,67596
-1386,Tameside,25-39,47257
-1387,Tameside,40-54,45645
-1388,Tameside,55-64,30056
-1389,Tameside,65+,40509
-1390,Tamworth,0-24,22421
-1391,Tamworth,25-39,15884
-1392,Tamworth,40-54,15625
-1393,Tamworth,55-64,9804
-1394,Tamworth,65+,14912
-1395,Tandridge,0-24,24738
-1396,Tandridge,25-39,14581
-1397,Tandridge,40-54,18213
-1398,Tandridge,55-64,12001
-1399,Tandridge,65+,18345
-1400,Teignbridge,0-24,31852
-1401,Teignbridge,25-39,20851
-1402,Teignbridge,40-54,24989
-1403,Teignbridge,55-64,20676
-1404,Teignbridge,65+,36437
-1405,Telford and Wrekin,0-24,56437
-1406,Telford and Wrekin,25-39,36633
-1407,Telford and Wrekin,40-54,36760
-1408,Telford and Wrekin,55-64,22989
-1409,Telford and Wrekin,65+,32704
-1410,Tendring,0-24,35629
-1411,Tendring,25-39,21697
-1412,Tendring,40-54,25225
-1413,Tendring,55-64,21867
-1414,Tendring,65+,43869
-1415,Test Valley,0-24,34398
-1416,Test Valley,25-39,23824
-1417,Test Valley,40-54,26789
-1418,Test Valley,55-64,17806
-1419,Test Valley,65+,27671
-1420,Tewkesbury,0-24,25184
-1421,Tewkesbury,25-39,17414
-1422,Tewkesbury,40-54,18337
-1423,Tewkesbury,55-64,12842
-1424,Tewkesbury,65+,21111
-1425,Thanet,0-24,37490
-1426,Thanet,25-39,24535
-1427,Thanet,40-54,26334
-1428,Thanet,55-64,18971
-1429,Thanet,65+,33255
-1430,Three Rivers,0-24,27307
-1431,Three Rivers,25-39,16581
-1432,Three Rivers,40-54,20755
-1433,Three Rivers,55-64,12165
-1434,Three Rivers,65+,16966
-1435,Thurrock,0-24,57313
-1436,Thurrock,25-39,39745
-1437,Thurrock,40-54,35954
-1438,Thurrock,55-64,19131
-1439,Thurrock,65+,23854
-1440,Tonbridge and Malling,0-24,38310
-1441,Tonbridge and Malling,25-39,23499
-1442,Tonbridge and Malling,40-54,28003
-1443,Tonbridge and Malling,55-64,17079
-1444,Tonbridge and Malling,65+,25305
-1445,Torbay,0-24,33808
-1446,Torbay,25-39,22055
-1447,Torbay,40-54,25694
-1448,Torbay,55-64,20579
-1449,Torbay,65+,37188
-1450,Torfaen,0-24,25641
-1451,Torfaen,25-39,17860
-1452,Torfaen,40-54,16907
-1453,Torfaen,55-64,12711
-1454,Torfaen,65+,19155
-1455,Torridge,0-24,15799
-1456,Torridge,25-39,9693
-1457,Torridge,40-54,12347
-1458,Torridge,55-64,10958
-1459,Torridge,65+,19325
-1460,Tower Hamlets,0-24,104496
-1461,Tower Hamlets,25-39,114957
-1462,Tower Hamlets,40-54,54100
-1463,Tower Hamlets,55-64,19279
-1464,Tower Hamlets,65+,17471
-1465,Trafford,0-24,69647
-1466,Trafford,25-39,44807
-1467,Trafford,40-54,50337
-1468,Trafford,55-64,28975
-1469,Trafford,65+,41297
-1470,Tunbridge Wells,0-24,32736
-1471,Tunbridge Wells,25-39,20108
-1472,Tunbridge Wells,40-54,25254
-1473,Tunbridge Wells,55-64,14841
-1474,Tunbridge Wells,65+,22372
-1475,Uttlesford,0-24,25568
-1476,Uttlesford,25-39,15302
-1477,Uttlesford,40-54,19363
-1478,Uttlesford,55-64,12677
-1479,Uttlesford,65+,18430
-1480,Vale of Glamorgan,0-24,35993
-1481,Vale of Glamorgan,25-39,23211
-1482,Vale of Glamorgan,40-54,25575
-1483,Vale of Glamorgan,55-64,18166
-1484,Vale of Glamorgan,65+,28990
-1485,Vale of White Horse,0-24,38405
-1486,Vale of White Horse,25-39,27363
-1487,Vale of White Horse,40-54,27871
-1488,Vale of White Horse,55-64,17806
-1489,Vale of White Horse,65+,27465
-1490,Wakefield,0-24,97766
-1491,Wakefield,25-39,72622
-1492,Wakefield,40-54,69826
-1493,Wakefield,55-64,46551
-1494,Wakefield,65+,66610
-1495,Walsall,0-24,90763
-1496,Walsall,25-39,56624
-1497,Walsall,40-54,53836
-1498,Walsall,55-64,33442
-1499,Walsall,65+,49465
-1500,Waltham Forest,0-24,83754
-1501,Waltham Forest,25-39,78163
-1502,Waltham Forest,40-54,60578
-1503,Waltham Forest,55-64,27533
-1504,Waltham Forest,65+,28401
-1505,Wandsworth,0-24,88213
-1506,Wandsworth,25-39,115412
-1507,Wandsworth,40-54,64207
-1508,Wandsworth,55-64,28336
-1509,Wandsworth,65+,31338
-1510,Warrington,0-24,57442
-1511,Warrington,25-39,40640
-1512,Warrington,40-54,44048
-1513,Warrington,55-64,28682
-1514,Warrington,65+,40157
-1515,Warwick,0-24,43671
-1516,Warwick,25-39,30028
-1517,Warwick,40-54,29049
-1518,Warwick,55-64,17678
-1519,Warwick,65+,28026
-1520,Watford,0-24,30951
-1521,Watford,25-39,25492
-1522,Watford,40-54,22446
-1523,Watford,55-64,10468
-1524,Watford,65+,12887
-1525,Waverley,0-24,36479
-1526,Waverley,25-39,19242
-1527,Waverley,40-54,27687
-1528,Waverley,55-64,16817
-1529,Waverley,65+,28006
-1530,Wealden,0-24,39428
-1531,Wealden,25-39,23418
-1532,Wealden,40-54,30536
-1533,Wealden,55-64,24275
-1534,Wealden,65+,42489
-1535,Welwyn Hatfield,0-24,39641
-1536,Welwyn Hatfield,25-39,24241
-1537,Welwyn Hatfield,40-54,23225
-1538,Welwyn Hatfield,55-64,13927
-1539,Welwyn Hatfield,65+,18805
-1540,West Berkshire,0-24,45153
-1541,West Berkshire,25-39,28387
-1542,West Berkshire,40-54,34676
-1543,West Berkshire,55-64,21719
-1544,West Berkshire,65+,31512
-1545,West Devon,0-24,13106
-1546,West Devon,25-39,7845
-1547,West Devon,40-54,10499
-1548,West Devon,55-64,9373
-1549,West Devon,65+,16270
-1550,West Lancashire,0-24,34801
-1551,West Lancashire,25-39,18640
-1552,West Lancashire,40-54,21689
-1553,West Lancashire,55-64,16577
-1554,West Lancashire,65+,25720
-1555,West Lindsey,0-24,23745
-1556,West Lindsey,25-39,15030
-1557,West Lindsey,40-54,17904
-1558,West Lindsey,55-64,14490
-1559,West Lindsey,65+,23983
-1560,West Northamptonshire,0-24,125206
-1561,West Northamptonshire,25-39,87866
-1562,West Northamptonshire,40-54,87556
-1563,West Northamptonshire,55-64,52421
-1564,West Northamptonshire,65+,72677
-1565,West Oxfordshire,0-24,30270
-1566,West Oxfordshire,25-39,20694
-1567,West Oxfordshire,40-54,22800
-1568,West Oxfordshire,55-64,15724
-1569,West Oxfordshire,65+,24745
-1570,West Suffolk,0-24,49299
-1571,West Suffolk,25-39,37088
-1572,West Suffolk,40-54,33960
-1573,West Suffolk,55-64,22242
-1574,West Suffolk,65+,37362
-1575,Westminster,0-24,54995
-1576,Westminster,25-39,60259
-1577,Westminster,40-54,42197
-1578,Westminster,55-64,22007
-1579,Westminster,65+,24782
-1580,Wigan,0-24,91320
-1581,Wigan,25-39,65363
-1582,Wigan,40-54,66064
-1583,Wigan,55-64,42982
-1584,Wigan,65+,63600
-1585,Wiltshire,0-24,137060
-1586,Wiltshire,25-39,90103
-1587,Wiltshire,40-54,100598
-1588,Wiltshire,55-64,71046
-1589,Wiltshire,65+,111529
-1590,Winchester,0-24,38500
-1591,Winchester,25-39,20452
-1592,Winchester,40-54,25292
-1593,Winchester,55-64,16624
-1594,Winchester,65+,26580
-1595,Windsor and Maidenhead,0-24,43479
-1596,Windsor and Maidenhead,25-39,27679
-1597,Windsor and Maidenhead,40-54,34394
-1598,Windsor and Maidenhead,55-64,19622
-1599,Windsor and Maidenhead,65+,28321
-1600,Wirral,0-24,86438
-1601,Wirral,25-39,56845
-1602,Wirral,40-54,61069
-1603,Wirral,55-64,45453
-1604,Wirral,65+,70394
-1605,Woking,0-24,29951
-1606,Woking,25-39,21604
-1607,Woking,40-54,22969
-1608,Woking,55-64,12208
-1609,Woking,65+,17208
-1610,Wokingham,0-24,52840
-1611,Wokingham,25-39,32596
-1612,Wokingham,40-54,39798
-1613,Wokingham,55-64,21717
-1614,Wokingham,65+,30548
-1615,Wolverhampton,0-24,83198
-1616,Wolverhampton,25-39,54311
-1617,Wolverhampton,40-54,52457
-1618,Wolverhampton,55-64,30482
-1619,Wolverhampton,65+,43282
-1620,Worcester,0-24,30826
-1621,Worcester,25-39,21449
-1622,Worcester,40-54,20532
-1623,Worcester,55-64,12770
-1624,Worcester,65+,18289
-1625,Worthing,0-24,28492
-1626,Worthing,25-39,20369
-1627,Worthing,40-54,22873
-1628,Worthing,55-64,14650
-1629,Worthing,65+,24954
-1630,Wrexham,0-24,37548
-1631,Wrexham,25-39,25314
-1632,Wrexham,40-54,26987
-1633,Wrexham,55-64,17886
-1634,Wrexham,65+,27380
-1635,Wychavon,0-24,32549
-1636,Wychavon,25-39,21872
-1637,Wychavon,40-54,25826
-1638,Wychavon,55-64,19312
-1639,Wychavon,65+,32936
-1640,Wyre,0-24,26853
-1641,Wyre,25-39,17097
-1642,Wyre,40-54,19853
-1643,Wyre,55-64,17144
-1644,Wyre,65+,31002
-1645,Wyre Forest,0-24,25635
-1646,Wyre Forest,25-39,16873
-1647,Wyre Forest,40-54,19522
-1648,Wyre Forest,55-64,13911
-1649,Wyre Forest,65+,25668
-1650,York,0-24,64408
-1651,York,25-39,38397
-1652,York,40-54,37064
-1653,York,55-64,24218
-1654,York,65+,38734
+,location,age group,population,totalpop
+0,Adur,0-24,16777,64547
+1,Adur,25-39,10757,64547
+2,Adur,40-54,13287,64547
+3,Adur,55-64,8487,64547
+4,Adur,65+,15239,64547
+5,Allerdale,0-24,23648,96156
+6,Allerdale,25-39,15531,96156
+7,Allerdale,40-54,18466,96156
+8,Allerdale,55-64,14696,96156
+9,Allerdale,65+,23815,96156
+10,Amber Valley,0-24,31923,126205
+11,Amber Valley,25-39,21981,126205
+12,Amber Valley,40-54,25536,126205
+13,Amber Valley,55-64,18289,126205
+14,Amber Valley,65+,28476,126205
+15,Arun,0-24,38842,164896
+16,Arun,25-39,26685,164896
+17,Arun,40-54,29534,164896
+18,Arun,55-64,22950,164896
+19,Arun,65+,46885,164896
+20,Ashfield,0-24,35045,126305
+21,Ashfield,25-39,24460,126305
+22,Ashfield,40-54,25000,126305
+23,Ashfield,55-64,16916,126305
+24,Ashfield,65+,24884,126305
+25,Ashford,0-24,38261,132752
+26,Ashford,25-39,25146,132752
+27,Ashford,40-54,26605,132752
+28,Ashford,55-64,16740,132752
+29,Ashford,65+,26000,132752
+30,Babergh,0-24,22668,92332
+31,Babergh,25-39,13753,92332
+32,Babergh,40-54,17842,92332
+33,Babergh,55-64,13533,92332
+34,Babergh,65+,24536,92332
+35,Barking and Dagenham,0-24,82177,218863
+36,Barking and Dagenham,25-39,51909,218863
+37,Barking and Dagenham,40-54,45838,218863
+38,Barking and Dagenham,55-64,19912,218863
+39,Barking and Dagenham,65+,19027,218863
+40,Barnet,0-24,119024,389340
+41,Barnet,25-39,89005,389340
+42,Barnet,40-54,83200,389340
+43,Barnet,55-64,42011,389340
+44,Barnet,65+,56100,389340
+45,Barnsley,0-24,66883,244576
+46,Barnsley,25-39,48640,244576
+47,Barnsley,40-54,47890,244576
+48,Barnsley,55-64,33565,244576
+49,Barnsley,65+,47598,244576
+50,Barrow-in-Furness,0-24,18005,67404
+51,Barrow-in-Furness,25-39,12827,67404
+52,Barrow-in-Furness,40-54,12539,67404
+53,Barrow-in-Furness,55-64,9490,67404
+54,Barrow-in-Furness,65+,14543,67404
+55,Basildon,0-24,56534,187576
+56,Basildon,25-39,39402,187576
+57,Basildon,40-54,36997,187576
+58,Basildon,55-64,22746,187576
+59,Basildon,65+,31897,187576
+60,Basingstoke and Deane,0-24,51649,185148
+61,Basingstoke and Deane,25-39,38846,185148
+62,Basingstoke and Deane,40-54,39307,185148
+63,Basingstoke and Deane,55-64,23336,185148
+64,Basingstoke and Deane,65+,32010,185148
+65,Bassetlaw,0-24,30652,117804
+66,Bassetlaw,25-39,20976,117804
+67,Bassetlaw,40-54,23017,117804
+68,Bassetlaw,55-64,17078,117804
+69,Bassetlaw,65+,26081,117804
+70,Bath and North East Somerset,0-24,63034,193406
+71,Bath and North East Somerset,25-39,34069,193406
+72,Bath and North East Somerset,40-54,35220,193406
+73,Bath and North East Somerset,55-64,23563,193406
+74,Bath and North East Somerset,65+,37520,193406
+75,Bedford,0-24,55197,185228
+76,Bedford,25-39,38745,185228
+77,Bedford,40-54,38254,185228
+78,Bedford,55-64,22007,185228
+79,Bedford,65+,31025,185228
+80,Bexley,0-24,75285,246473
+81,Bexley,25-39,49701,246473
+82,Bexley,40-54,50412,246473
+83,Bexley,55-64,30183,246473
+84,Bexley,65+,40892,246473
+85,Birmingham,0-24,419030,1144916
+86,Birmingham,25-39,248068,1144916
+87,Birmingham,40-54,212007,1144916
+88,Birmingham,55-64,115325,1144916
+89,Birmingham,65+,150486,1144916
+90,Blaby,0-24,28197,102933
+91,Blaby,25-39,19851,102933
+92,Blaby,40-54,20331,102933
+93,Blaby,55-64,13476,102933
+94,Blaby,65+,21078,102933
+95,Blackburn with Darwen,0-24,53255,154735
+96,Blackburn with Darwen,25-39,31498,154735
+97,Blackburn with Darwen,40-54,30216,154735
+98,Blackburn with Darwen,55-64,17366,154735
+99,Blackburn with Darwen,65+,22400,154735
+100,Blackpool,0-24,37967,141033
+101,Blackpool,25-39,26594,141033
+102,Blackpool,40-54,26870,141033
+103,Blackpool,55-64,20411,141033
+104,Blackpool,65+,29191,141033
+105,Blaenau Gwent,0-24,17915,66900
+106,Blaenau Gwent,25-39,13030,66900
+107,Blaenau Gwent,40-54,12905,66900
+108,Blaenau Gwent,55-64,9527,66900
+109,Blaenau Gwent,65+,13523,66900
+110,Bolsover,0-24,21166,80277
+111,Bolsover,25-39,15618,80277
+112,Bolsover,40-54,15953,80277
+113,Bolsover,55-64,11327,80277
+114,Bolsover,65+,16213,80277
+115,Bolton,0-24,94666,295961
+116,Bolton,25-39,57751,295961
+117,Bolton,40-54,57402,295961
+118,Bolton,55-64,35421,295961
+119,Bolton,65+,50721,295961
+120,Boston,0-24,19473,70503
+121,Boston,25-39,13728,70503
+122,Boston,40-54,13654,70503
+123,Boston,55-64,9242,70503
+124,Boston,65+,14406,70503
+125,"Bournemouth, Christchurch and Poole",0-24,110615,400192
+126,"Bournemouth, Christchurch and Poole",25-39,76226,400192
+127,"Bournemouth, Christchurch and Poole",40-54,76994,400192
+128,"Bournemouth, Christchurch and Poole",55-64,49932,400192
+129,"Bournemouth, Christchurch and Poole",65+,86425,400192
+130,Bracknell Forest,0-24,36504,124600
+131,Bracknell Forest,25-39,26916,124600
+132,Bracknell Forest,40-54,27004,124600
+133,Bracknell Forest,55-64,15306,124600
+134,Bracknell Forest,65+,18870,124600
+135,Bradford,0-24,187915,546409
+136,Bradford,25-39,110795,546409
+137,Bradford,40-54,103738,546409
+138,Bradford,55-64,60960,546409
+139,Bradford,65+,83001,546409
+140,Braintree,0-24,42528,155267
+141,Braintree,25-39,28748,155267
+142,Braintree,40-54,31822,155267
+143,Braintree,55-64,20421,155267
+144,Braintree,65+,31748,155267
+145,Breckland,0-24,35574,141478
+146,Breckland,25-39,24410,141478
+147,Breckland,40-54,26367,141478
+148,Breckland,55-64,19826,141478
+149,Breckland,65+,35301,141478
+150,Brent,0-24,105886,339818
+151,Brent,25-39,86847,339818
+152,Brent,40-54,71258,339818
+153,Brent,55-64,36270,339818
+154,Brent,65+,39557,339818
+155,Brentwood,0-24,20879,77045
+156,Brentwood,25-39,14894,77045
+157,Brentwood,40-54,15596,77045
+158,Brentwood,55-64,10142,77045
+159,Brentwood,65+,15534,77045
+160,Bridgend,0-24,39446,145486
+161,Bridgend,25-39,27573,145486
+162,Bridgend,40-54,28506,145486
+163,Bridgend,55-64,19866,145486
+164,Bridgend,65+,30095,145486
+165,Brighton and Hove,0-24,84663,277107
+166,Brighton and Hove,25-39,60926,277107
+167,Brighton and Hove,40-54,60524,277107
+168,Brighton and Hove,55-64,32016,277107
+169,Brighton and Hove,65+,38978,277107
+170,Bristol,0-24,155436,472462
+171,Bristol,25-39,126023,472462
+172,Bristol,40-54,84665,472462
+173,Bristol,55-64,45581,472462
+174,Bristol,65+,60757,472462
+175,Broadland,0-24,31789,131722
+176,Broadland,25-39,21054,131722
+177,Broadland,40-54,26064,131722
+178,Broadland,55-64,18745,131722
+179,Broadland,65+,34070,131722
+180,Bromley,0-24,92933,329989
+181,Bromley,25-39,65541,329989
+182,Bromley,40-54,72672,329989
+183,Bromley,55-64,40603,329989
+184,Bromley,65+,58240,329989
+185,Bromsgrove,0-24,26494,99186
+186,Bromsgrove,25-39,16179,99186
+187,Bromsgrove,40-54,20101,99186
+188,Bromsgrove,55-64,13672,99186
+189,Bromsgrove,65+,22740,99186
+190,Broxbourne,0-24,29074,99005
+191,Broxbourne,25-39,20204,99005
+192,Broxbourne,40-54,20270,99005
+193,Broxbourne,55-64,12218,99005
+194,Broxbourne,65+,17239,99005
+195,Broxtowe,0-24,29373,110944
+196,Broxtowe,25-39,21566,110944
+197,Broxtowe,40-54,21074,110944
+198,Broxtowe,55-64,14707,110944
+199,Broxtowe,65+,24224,110944
+200,Buckinghamshire,0-24,159305,553081
+201,Buckinghamshire,25-39,100785,553081
+202,Buckinghamshire,40-54,117355,553081
+203,Buckinghamshire,55-64,71923,553081
+204,Buckinghamshire,65+,103713,553081
+205,Burnley,0-24,28852,94649
+206,Burnley,25-39,19214,94649
+207,Burnley,40-54,17753,94649
+208,Burnley,55-64,11930,94649
+209,Burnley,65+,16900,94649
+210,Bury,0-24,57276,193851
+211,Bury,25-39,38371,193851
+212,Bury,40-54,38006,193851
+213,Bury,55-64,24751,193851
+214,Bury,65+,35447,193851
+215,Caerphilly,0-24,49096,175956
+216,Caerphilly,25-39,33500,175956
+217,Caerphilly,40-54,34242,175956
+218,Caerphilly,55-64,23707,175956
+219,Caerphilly,65+,35411,175956
+220,Calderdale,0-24,59160,206627
+221,Calderdale,25-39,37953,206627
+222,Calderdale,40-54,42195,206627
+223,Calderdale,55-64,28012,206627
+224,Calderdale,65+,39307,206627
+225,Cambridge,0-24,51532,145676
+226,Cambridge,25-39,40327,145676
+227,Cambridge,40-54,24944,145676
+228,Cambridge,55-64,12258,145676
+229,Cambridge,65+,16615,145676
+230,Camden,0-24,64201,210134
+231,Camden,25-39,59091,210134
+232,Camden,40-54,41129,210134
+233,Camden,55-64,20888,210134
+234,Camden,65+,24825,210134
+235,Cannock Chase,0-24,27282,100529
+236,Cannock Chase,25-39,20222,100529
+237,Cannock Chase,40-54,19888,100529
+238,Cannock Chase,55-64,13580,100529
+239,Cannock Chase,65+,19557,100529
+240,Canterbury,0-24,51318,157431
+241,Canterbury,25-39,25413,157431
+242,Canterbury,40-54,27102,157431
+243,Canterbury,55-64,19344,157431
+244,Canterbury,65+,34254,157431
+245,Cardiff,0-24,126395,362301
+246,Cardiff,25-39,81216,362301
+247,Cardiff,40-54,63558,362301
+248,Cardiff,55-64,38635,362301
+249,Cardiff,65+,52497,362301
+250,Carlisle,0-24,28919,110025
+251,Carlisle,25-39,20567,110025
+252,Carlisle,40-54,20740,110025
+253,Carlisle,55-64,15919,110025
+254,Carlisle,65+,23880,110025
+255,Carmarthenshire,0-24,49031,187895
+256,Carmarthenshire,25-39,31120,187895
+257,Carmarthenshire,40-54,34554,187895
+258,Carmarthenshire,55-64,27724,187895
+259,Carmarthenshire,65+,45466,187895
+260,Castle Point,0-24,23365,89591
+261,Castle Point,25-39,14834,89591
+262,Castle Point,40-54,16695,89591
+263,Castle Point,55-64,12096,89591
+264,Castle Point,65+,22601,89591
+265,Central Bedfordshire,0-24,82947,294251
+266,Central Bedfordshire,25-39,59932,294251
+267,Central Bedfordshire,40-54,59945,294251
+268,Central Bedfordshire,55-64,38479,294251
+269,Central Bedfordshire,65+,52948,294251
+270,Ceredigion,0-24,20576,71468
+271,Ceredigion,25-39,10374,71468
+272,Ceredigion,40-54,11629,71468
+273,Ceredigion,55-64,10504,71468
+274,Ceredigion,65+,18385,71468
+275,Charnwood,0-24,58733,183978
+276,Charnwood,25-39,34364,183978
+277,Charnwood,40-54,33977,183978
+278,Charnwood,55-64,22269,183978
+279,Charnwood,65+,34635,183978
+280,Chelmsford,0-24,50503,181527
+281,Chelmsford,25-39,36137,181527
+282,Chelmsford,40-54,37492,181527
+283,Chelmsford,55-64,22238,181527
+284,Chelmsford,65+,35157,181527
+285,Cheltenham,0-24,33727,118833
+286,Cheltenham,25-39,24647,118833
+287,Cheltenham,40-54,22905,118833
+288,Cheltenham,55-64,14671,118833
+289,Cheltenham,65+,22883,118833
+290,Cherwell,0-24,44791,161013
+291,Cherwell,25-39,34818,161013
+292,Cherwell,40-54,33085,161013
+293,Cherwell,55-64,20286,161013
+294,Cherwell,65+,28033,161013
+295,Cheshire East,0-24,102226,398771
+296,Cheshire East,25-39,70620,398771
+297,Cheshire East,40-54,80585,398771
+298,Cheshire East,55-64,56115,398771
+299,Cheshire East,65+,89225,398771
+300,Cheshire West and Chester,0-24,96228,357150
+301,Cheshire West and Chester,25-39,66054,357150
+302,Cheshire West and Chester,40-54,69843,357150
+303,Cheshire West and Chester,55-64,49279,357150
+304,Cheshire West and Chester,65+,75746,357150
+305,Chesterfield,0-24,26720,103569
+306,Chesterfield,25-39,19187,103569
+307,Chesterfield,40-54,20439,103569
+308,Chesterfield,55-64,14841,103569
+309,Chesterfield,65+,22382,103569
+310,Chichester,0-24,31139,124068
+311,Chichester,25-39,18955,124068
+312,Chichester,40-54,22161,124068
+313,Chichester,55-64,18181,124068
+314,Chichester,65+,33632,124068
+315,Chorley,0-24,31233,117731
+316,Chorley,25-39,22066,117731
+317,Chorley,40-54,24363,117731
+318,Chorley,55-64,15951,117731
+319,Chorley,65+,24118,117731
+320,City of London,0-24,1730,8579
+321,City of London,25-39,2937,8579
+322,City of London,40-54,1731,8579
+323,City of London,55-64,977,8579
+324,City of London,65+,1204,8579
+325,Colchester,0-24,59377,192716
+326,Colchester,25-39,38989,192716
+327,Colchester,40-54,38024,192716
+328,Colchester,55-64,22016,192716
+329,Colchester,65+,34310,192716
+330,Conwy,0-24,27683,114741
+331,Conwy,25-39,17592,114741
+332,Conwy,40-54,20555,114741
+333,Conwy,55-64,17538,114741
+334,Conwy,65+,31373,114741
+335,Copeland,0-24,16773,67063
+336,Copeland,25-39,11485,67063
+337,Copeland,40-54,12570,67063
+338,Copeland,55-64,10715,67063
+339,Copeland,65+,15520,67063
+340,Cornwall,0-24,144871,570304
+341,Cornwall,25-39,90906,570304
+342,Cornwall,40-54,106803,570304
+343,Cornwall,55-64,83585,570304
+344,Cornwall,65+,144139,570304
+345,Cotswold,0-24,21948,90834
+346,Cotswold,25-39,13452,90834
+347,Cotswold,40-54,17867,90834
+348,Cotswold,55-64,13902,90834
+349,Cotswold,65+,23665,90834
+350,County Durham,0-24,146893,522062
+351,County Durham,25-39,90505,522062
+352,County Durham,40-54,98746,522062
+353,County Durham,55-64,74581,522062
+354,County Durham,65+,111337,522062
+355,Coventry,0-24,121508,345328
+356,Coventry,25-39,74104,345328
+357,Coventry,40-54,63472,345328
+358,Coventry,55-64,35928,345328
+359,Coventry,65+,50316,345328
+360,Craven,0-24,12972,56923
+361,Craven,25-39,8124,56923
+362,Craven,40-54,11016,56923
+363,Craven,55-64,9187,56923
+364,Craven,65+,15624,56923
+365,Crawley,0-24,36602,118495
+366,Crawley,25-39,28399,118495
+367,Crawley,40-54,24543,118495
+368,Crawley,55-64,13197,118495
+369,Crawley,65+,15754,118495
+370,Croydon,0-24,119553,390718
+371,Croydon,25-39,90292,390718
+372,Croydon,40-54,81696,390718
+373,Croydon,55-64,46105,390718
+374,Croydon,65+,53072,390718
+375,Dacorum,0-24,44620,155082
+376,Dacorum,25-39,31080,155082
+377,Dacorum,40-54,32608,155082
+378,Dacorum,55-64,19811,155082
+379,Dacorum,65+,26963,155082
+380,Darlington,0-24,29664,107807
+381,Darlington,25-39,19909,107807
+382,Darlington,40-54,21330,107807
+383,Darlington,55-64,14859,107807
+384,Darlington,65+,22045,107807
+385,Dartford,0-24,36440,116756
+386,Dartford,25-39,27412,116756
+387,Dartford,40-54,24236,116756
+388,Dartford,55-64,12628,116756
+389,Dartford,65+,16040,116756
+390,Denbighshire,0-24,25431,95816
+391,Denbighshire,25-39,15105,95816
+392,Denbighshire,40-54,17571,95816
+393,Denbighshire,55-64,13963,95816
+394,Denbighshire,65+,23746,95816
+395,Derby,0-24,83972,261354
+396,Derby,25-39,54964,261354
+397,Derby,40-54,50149,261354
+398,Derby,55-64,29486,261354
+399,Derby,65+,42783,261354
+400,Derbyshire Dales,0-24,15998,71536
+401,Derbyshire Dales,25-39,9337,71536
+402,Derbyshire Dales,40-54,14202,71536
+403,Derbyshire Dales,55-64,11982,71536
+404,Derbyshire Dales,65+,20017,71536
+405,Doncaster,0-24,86036,308108
+406,Doncaster,25-39,62154,308108
+407,Doncaster,40-54,58488,308108
+408,Doncaster,55-64,41579,308108
+409,Doncaster,65+,59851,308108
+410,Dorset,0-24,87961,379578
+411,Dorset,25-39,53411,379578
+412,Dorset,40-54,67366,379578
+413,Dorset,55-64,58565,379578
+414,Dorset,65+,112275,379578
+415,Dover,0-24,30315,116407
+416,Dover,25-39,20056,116407
+417,Dover,40-54,21187,116407
+418,Dover,55-64,16950,116407
+419,Dover,65+,27899,116407
+420,Dudley,0-24,92041,323495
+421,Dudley,25-39,62024,323495
+422,Dudley,40-54,62498,323495
+423,Dudley,55-64,40872,323495
+424,Dudley,65+,66060,323495
+425,Ealing,0-24,111833,367122
+426,Ealing,25-39,90448,367122
+427,Ealing,40-54,80797,367122
+428,Ealing,55-64,39578,367122
+429,Ealing,65+,44466,367122
+430,East Cambridgeshire,0-24,23427,87762
+431,East Cambridgeshire,25-39,15988,87762
+432,East Cambridgeshire,40-54,18629,87762
+433,East Cambridgeshire,55-64,11500,87762
+434,East Cambridgeshire,65+,18218,87762
+435,East Devon,0-24,35220,150821
+436,East Devon,25-39,21891,150821
+437,East Devon,40-54,26965,150821
+438,East Devon,55-64,21519,150821
+439,East Devon,65+,45226,150821
+440,East Hampshire,0-24,32627,125741
+441,East Hampshire,25-39,19918,125741
+442,East Hampshire,40-54,25554,125741
+443,East Hampshire,55-64,18582,125741
+444,East Hampshire,65+,29060,125741
+445,East Hertfordshire,0-24,42221,150160
+446,East Hertfordshire,25-39,28116,150160
+447,East Hertfordshire,40-54,32496,150160
+448,East Hertfordshire,55-64,19934,150160
+449,East Hertfordshire,65+,27393,150160
+450,East Lindsey,0-24,31723,142292
+451,East Lindsey,25-39,19721,142292
+452,East Lindsey,40-54,24306,142292
+453,East Lindsey,55-64,23210,142292
+454,East Lindsey,65+,43332,142292
+455,East Riding of Yorkshire,0-24,81675,342217
+456,East Riding of Yorkshire,25-39,52866,342217
+457,East Riding of Yorkshire,40-54,65122,342217
+458,East Riding of Yorkshire,55-64,52058,342217
+459,East Riding of Yorkshire,65+,90496,342217
+460,East Staffordshire,0-24,35323,124019
+461,East Staffordshire,25-39,24914,124019
+462,East Staffordshire,40-54,24458,124019
+463,East Staffordshire,55-64,16240,124019
+464,East Staffordshire,65+,23084,124019
+465,East Suffolk,0-24,59667,246055
+466,East Suffolk,25-39,36780,246055
+467,East Suffolk,40-54,44986,246055
+468,East Suffolk,55-64,36313,246055
+469,East Suffolk,65+,68309,246055
+470,Eastbourne,0-24,26594,101685
+471,Eastbourne,25-39,17688,101685
+472,Eastbourne,40-54,19017,101685
+473,Eastbourne,55-64,13470,101685
+474,Eastbourne,65+,24916,101685
+475,Eastleigh,0-24,37862,136446
+476,Eastleigh,25-39,27110,136446
+477,Eastleigh,40-54,27390,136446
+478,Eastleigh,55-64,17451,136446
+479,Eastleigh,65+,26633,136446
+480,Eden,0-24,12449,54734
+481,Eden,25-39,8141,54734
+482,Eden,40-54,10590,54734
+483,Eden,55-64,9151,54734
+484,Eden,65+,14403,54734
+485,Elmbridge,0-24,40712,138757
+486,Elmbridge,25-39,22679,138757
+487,Elmbridge,40-54,33152,138757
+488,Elmbridge,55-64,17394,138757
+489,Elmbridge,65+,24820,138757
+490,Enfield,0-24,108571,329986
+491,Enfield,25-39,68279,329986
+492,Enfield,40-54,69950,329986
+493,Enfield,55-64,38171,329986
+494,Enfield,65+,45015,329986
+495,Epping Forest,0-24,37380,134981
+496,Epping Forest,25-39,25433,134981
+497,Epping Forest,40-54,27953,134981
+498,Epping Forest,55-64,17946,134981
+499,Epping Forest,65+,26269,134981
+500,Epsom and Ewell,0-24,23876,80939
+501,Epsom and Ewell,25-39,14388,80939
+502,Epsom and Ewell,40-54,18186,80939
+503,Epsom and Ewell,55-64,9876,80939
+504,Epsom and Ewell,65+,14613,80939
+505,Erewash,0-24,29616,112902
+506,Erewash,25-39,21509,112902
+507,Erewash,40-54,22729,112902
+508,Erewash,55-64,15564,112902
+509,Erewash,65+,23484,112902
+510,Exeter,0-24,46318,130712
+511,Exeter,25-39,26450,130712
+512,Exeter,40-54,22486,130712
+513,Exeter,55-64,13731,130712
+514,Exeter,65+,21727,130712
+515,Fareham,0-24,28545,114503
+516,Fareham,25-39,18864,114503
+517,Fareham,40-54,22137,114503
+518,Fareham,55-64,16858,114503
+519,Fareham,65+,28099,114503
+520,Fenland,0-24,26675,102457
+521,Fenland,25-39,18887,102457
+522,Fenland,40-54,19363,102457
+523,Fenland,55-64,14133,102457
+524,Fenland,65+,23399,102457
+525,Flintshire,0-24,41219,154965
+526,Flintshire,25-39,28078,154965
+527,Flintshire,40-54,30786,154965
+528,Flintshire,55-64,21653,154965
+529,Flintshire,65+,33229,154965
+530,Folkestone and Hythe,0-24,27551,109754
+531,Folkestone and Hythe,25-39,17959,109754
+532,Folkestone and Hythe,40-54,20890,109754
+533,Folkestone and Hythe,55-64,15927,109754
+534,Folkestone and Hythe,65+,27427,109754
+535,Forest of Dean,0-24,22167,87006
+536,Forest of Dean,25-39,13753,87006
+537,Forest of Dean,40-54,16079,87006
+538,Forest of Dean,55-64,13196,87006
+539,Forest of Dean,65+,21811,87006
+540,Fylde,0-24,18258,81380
+541,Fylde,25-39,12502,81380
+542,Fylde,40-54,14985,81380
+543,Fylde,55-64,12989,81380
+544,Fylde,65+,22646,81380
+545,Gateshead,0-24,52837,196144
+546,Gateshead,25-39,38845,196144
+547,Gateshead,40-54,37894,196144
+548,Gateshead,55-64,26796,196144
+549,Gateshead,65+,39772,196144
+550,Gedling,0-24,30555,117258
+551,Gedling,25-39,21925,117258
+552,Gedling,40-54,23519,117258
+553,Gedling,55-64,15974,117258
+554,Gedling,65+,25285,117258
+555,Gloucester,0-24,40074,132409
+556,Gloucester,25-39,27849,132409
+557,Gloucester,40-54,25777,132409
+558,Gloucester,55-64,16593,132409
+559,Gloucester,65+,22116,132409
+560,Gosport,0-24,22306,81955
+561,Gosport,25-39,15182,81955
+562,Gosport,40-54,15494,81955
+563,Gosport,55-64,11459,81955
+564,Gosport,65+,17514,81955
+565,Gravesham,0-24,32707,106899
+566,Gravesham,25-39,21680,106899
+567,Gravesham,40-54,21220,106899
+568,Gravesham,55-64,12878,106899
+569,Gravesham,65+,18414,106899
+570,Great Yarmouth,0-24,26129,99743
+571,Great Yarmouth,25-39,17283,99743
+572,Great Yarmouth,40-54,18416,99743
+573,Great Yarmouth,55-64,13978,99743
+574,Great Yarmouth,65+,23937,99743
+575,Greenwich,0-24,90273,289067
+576,Greenwich,25-39,78363,289067
+577,Greenwich,40-54,61552,289067
+578,Greenwich,55-64,28654,289067
+579,Greenwich,65+,30225,289067
+580,Guildford,0-24,46678,143646
+581,Guildford,25-39,25883,143646
+582,Guildford,40-54,28489,143646
+583,Guildford,55-64,17441,143646
+584,Guildford,65+,25155,143646
+585,Gwynedd,0-24,33683,117397
+586,Gwynedd,25-39,19041,117397
+587,Gwynedd,40-54,20821,117397
+588,Gwynedd,55-64,16579,117397
+589,Gwynedd,65+,27273,117397
+590,Hackney,0-24,79429,259148
+591,Hackney,25-39,87095,259148
+592,Hackney,40-54,48671,259148
+593,Hackney,55-64,23452,259148
+594,Hackney,65+,20501,259148
+595,Halton,0-24,36766,128475
+596,Halton,25-39,25018,128475
+597,Halton,40-54,25402,128475
+598,Halton,55-64,17329,128475
+599,Halton,65+,23960,128475
+600,Hambleton,0-24,20925,90691
+601,Hambleton,25-39,13500,90691
+602,Hambleton,40-54,16762,90691
+603,Hambleton,55-64,14769,90691
+604,Hambleton,65+,24735,90691
+605,Hammersmith and Fulham,0-24,52071,183161
+606,Hammersmith and Fulham,25-39,57590,183161
+607,Hammersmith and Fulham,40-54,36918,183161
+608,Hammersmith and Fulham,55-64,17597,183161
+609,Hammersmith and Fulham,65+,18985,183161
+610,Harborough,0-24,25740,97631
+611,Harborough,25-39,16149,97631
+612,Harborough,40-54,20364,97631
+613,Harborough,55-64,13880,97631
+614,Harborough,65+,21498,97631
+615,Haringey,0-24,76179,264234
+616,Haringey,25-39,73509,264234
+617,Haringey,40-54,58845,264234
+618,Haringey,55-64,27995,264234
+619,Haringey,65+,27706,264234
+620,Harlow,0-24,29113,93334
+621,Harlow,25-39,21627,93334
+622,Harlow,40-54,18159,93334
+623,Harlow,55-64,10820,93334
+624,Harlow,65+,13615,93334
+625,Harrogate,0-24,41560,162666
+626,Harrogate,25-39,25862,162666
+627,Harrogate,40-54,33138,162666
+628,Harrogate,55-64,24083,162666
+629,Harrogate,65+,38023,162666
+630,Harrow,0-24,78486,261203
+631,Harrow,25-39,60055,261203
+632,Harrow,40-54,53276,261203
+633,Harrow,55-64,29205,261203
+634,Harrow,65+,40181,261203
+635,Hart,0-24,27966,99409
+636,Hart,25-39,17237,99409
+637,Hart,40-54,21637,99409
+638,Hart,55-64,12994,99409
+639,Hart,65+,19575,99409
+640,Hartlepool,0-24,26775,92334
+641,Hartlepool,25-39,16842,92334
+642,Hartlepool,40-54,17060,92334
+643,Hartlepool,55-64,13425,92334
+644,Hartlepool,65+,18232,92334
+645,Hastings,0-24,24432,91006
+646,Hastings,25-39,17043,91006
+647,Hastings,40-54,18380,91006
+648,Hastings,55-64,12733,91006
+649,Hastings,65+,18418,91006
+650,Havant,0-24,32197,124207
+651,Havant,25-39,21373,124207
+652,Havant,40-54,22393,124207
+653,Havant,55-64,18024,124207
+654,Havant,65+,30220,124207
+655,Havering,0-24,77793,262057
+656,Havering,25-39,55422,262057
+657,Havering,40-54,51026,262057
+658,Havering,55-64,31710,262057
+659,Havering,65+,46106,262057
+660,Herefordshire,0-24,45266,187039
+661,Herefordshire,25-39,30440,187039
+662,Herefordshire,40-54,34653,187039
+663,Herefordshire,55-64,28203,187039
+664,Herefordshire,65+,48477,187039
+665,Hertsmere,0-24,31793,107822
+666,Hertsmere,25-39,20557,107822
+667,Hertsmere,40-54,22878,107822
+668,Hertsmere,55-64,13458,107822
+669,Hertsmere,65+,19136,107822
+670,High Peak,0-24,22935,90930
+671,High Peak,25-39,15456,90930
+672,High Peak,40-54,18472,90930
+673,High Peak,55-64,14231,90930
+674,High Peak,65+,19836,90930
+675,Hillingdon,0-24,98715,305916
+676,Hillingdon,25-39,69375,305916
+677,Hillingdon,40-54,63643,305916
+678,Hillingdon,55-64,33008,305916
+679,Hillingdon,65+,41175,305916
+680,Hinckley and Bosworth,0-24,29107,113640
+681,Hinckley and Bosworth,25-39,20922,113640
+682,Hinckley and Bosworth,40-54,22652,113640
+683,Hinckley and Bosworth,55-64,15551,113640
+684,Hinckley and Bosworth,65+,25408,113640
+685,Horsham,0-24,38230,146776
+686,Horsham,25-39,24575,146776
+687,Horsham,40-54,29584,146776
+688,Horsham,55-64,20942,146776
+689,Horsham,65+,33445,146776
+690,Hounslow,0-24,88916,288181
+691,Hounslow,25-39,71619,288181
+692,Hounslow,40-54,64007,288181
+693,Hounslow,55-64,29691,288181
+694,Hounslow,65+,33948,288181
+695,Huntingdonshire,0-24,48010,180832
+696,Huntingdonshire,25-39,34952,180832
+697,Huntingdonshire,40-54,36966,180832
+698,Huntingdonshire,55-64,24364,180832
+699,Huntingdonshire,65+,36540,180832
+700,Hyndburn,0-24,25029,82236
+701,Hyndburn,25-39,16202,82236
+702,Hyndburn,40-54,15716,82236
+703,Hyndburn,55-64,10283,82236
+704,Hyndburn,65+,15006,82236
+705,Ipswich,0-24,42205,139644
+706,Ipswich,25-39,30874,139644
+707,Ipswich,40-54,27567,139644
+708,Ipswich,55-64,15988,139644
+709,Ipswich,65+,23010,139644
+710,Isle of Anglesey,0-24,17500,68875
+711,Isle of Anglesey,25-39,10455,68875
+712,Isle of Anglesey,40-54,12458,68875
+713,Isle of Anglesey,55-64,10255,68875
+714,Isle of Anglesey,65+,18207,68875
+715,Isle of Wight,0-24,31814,140460
+716,Isle of Wight,25-39,20799,140460
+717,Isle of Wight,40-54,25177,140460
+718,Isle of Wight,55-64,21650,140460
+719,Isle of Wight,65+,41020,140460
+720,Isles of Scilly,0-24,435,2058
+721,Isles of Scilly,25-39,348,2058
+722,Isles of Scilly,40-54,400,2058
+723,Isles of Scilly,55-64,295,2058
+724,Isles of Scilly,65+,580,2058
+725,Islington,0-24,60252,216587
+726,Islington,25-39,75068,216587
+727,Islington,40-54,40303,216587
+728,Islington,55-64,20643,216587
+729,Islington,65+,20321,216587
+730,Kensington and Chelsea,0-24,37928,143376
+731,Kensington and Chelsea,25-39,35710,143376
+732,Kensington and Chelsea,40-54,30870,143376
+733,Kensington and Chelsea,55-64,18269,143376
+734,Kensington and Chelsea,65+,20599,143376
+735,King's Lynn and West Norfolk,0-24,38276,154318
+736,King's Lynn and West Norfolk,25-39,26283,154318
+737,King's Lynn and West Norfolk,40-54,27859,154318
+738,King's Lynn and West Norfolk,55-64,21964,154318
+739,King's Lynn and West Norfolk,65+,39936,154318
+740,Kingston upon Hull,0-24,84941,267010
+741,Kingston upon Hull,25-39,59742,267010
+742,Kingston upon Hull,40-54,49357,267010
+743,Kingston upon Hull,55-64,32143,267010
+744,Kingston upon Hull,65+,40827,267010
+745,Kingston upon Thames,0-24,51262,168064
+746,Kingston upon Thames,25-39,36251,168064
+747,Kingston upon Thames,40-54,37817,168064
+748,Kingston upon Thames,55-64,18410,168064
+749,Kingston upon Thames,65+,24324,168064
+750,Kirklees,0-24,134116,433222
+751,Kirklees,25-39,83025,433222
+752,Kirklees,40-54,86114,433222
+753,Kirklees,55-64,53152,433222
+754,Kirklees,65+,76815,433222
+755,Knowsley,0-24,45354,154523
+756,Knowsley,25-39,32627,154523
+757,Knowsley,40-54,28052,154523
+758,Knowsley,55-64,22247,154523
+759,Knowsley,65+,26243,154523
+760,Lambeth,0-24,87378,317662
+761,Lambeth,25-39,108334,317662
+762,Lambeth,40-54,63327,317662
+763,Lambeth,55-64,31358,317662
+764,Lambeth,65+,27265,317662
+765,Lancaster,0-24,45237,142932
+766,Lancaster,25-39,24663,142932
+767,Lancaster,40-54,25096,142932
+768,Lancaster,55-64,18588,142932
+769,Lancaster,65+,29348,142932
+770,Leeds,0-24,266853,811950
+771,Leeds,25-39,177868,811950
+772,Leeds,40-54,151579,811950
+773,Leeds,55-64,88886,811950
+774,Leeds,65+,126764,811950
+775,Leicester,0-24,137175,368569
+776,Leicester,25-39,82026,368569
+777,Leicester,40-54,69122,368569
+778,Leicester,55-64,36744,368569
+779,Leicester,65+,43502,368569
+780,Lewes,0-24,24927,99912
+781,Lewes,25-39,14912,99912
+782,Lewes,40-54,19365,99912
+783,Lewes,55-64,14240,99912
+784,Lewes,65+,26468,99912
+785,Lewisham,0-24,89356,300554
+786,Lewisham,25-39,85940,300554
+787,Lewisham,40-54,64518,300554
+788,Lewisham,55-64,32091,300554
+789,Lewisham,65+,28649,300554
+790,Lichfield,0-24,27107,106439
+791,Lichfield,25-39,18052,106439
+792,Lichfield,40-54,21115,106439
+793,Lichfield,55-64,14636,106439
+794,Lichfield,65+,25529,106439
+795,Lincoln,0-24,38219,103813
+796,Lincoln,25-39,22135,103813
+797,Lincoln,40-54,17413,103813
+798,Lincoln,55-64,11040,103813
+799,Lincoln,65+,15006,103813
+800,Liverpool,0-24,161525,486093
+801,Liverpool,25-39,108533,486093
+802,Liverpool,40-54,83507,486093
+803,Liverpool,55-64,58202,486093
+804,Liverpool,65+,74326,486093
+805,Luton,0-24,80092,225259
+806,Luton,25-39,52034,225259
+807,Luton,40-54,44433,225259
+808,Luton,55-64,22337,225259
+809,Luton,65+,26363,225259
+810,Maidstone,0-24,49441,175778
+811,Maidstone,25-39,35446,175778
+812,Maidstone,40-54,35573,175778
+813,Maidstone,55-64,21795,175778
+814,Maidstone,65+,33523,175778
+815,Maldon,0-24,16597,66208
+816,Maldon,25-39,10113,66208
+817,Maldon,40-54,12926,66208
+818,Maldon,55-64,10022,66208
+819,Maldon,65+,16550,66208
+820,Malvern Hills,0-24,18981,79483
+821,Malvern Hills,25-39,10903,79483
+822,Malvern Hills,40-54,14835,79483
+823,Malvern Hills,55-64,12521,79483
+824,Malvern Hills,65+,22243,79483
+825,Manchester,0-24,211589,551943
+826,Manchester,25-39,142636,551943
+827,Manchester,40-54,97215,551943
+828,Manchester,55-64,48335,551943
+829,Manchester,65+,52168,551943
+830,Mansfield,0-24,29969,110486
+831,Mansfield,25-39,22759,110486
+832,Mansfield,40-54,21271,110486
+833,Mansfield,55-64,15185,110486
+834,Mansfield,65+,21302,110486
+835,Medway,0-24,85827,279771
+836,Medway,25-39,58186,279771
+837,Medway,40-54,55266,279771
+838,Medway,55-64,34439,279771
+839,Medway,65+,46053,279771
+840,Melton,0-24,13033,51751
+841,Melton,25-39,8298,51751
+842,Melton,40-54,10335,51751
+843,Melton,55-64,7930,51751
+844,Melton,65+,12155,51751
+845,Mendip,0-24,30115,116090
+846,Mendip,25-39,18455,116090
+847,Mendip,40-54,22961,116090
+848,Mendip,55-64,16948,116090
+849,Mendip,65+,27611,116090
+850,Merthyr Tydfil,0-24,16877,58847
+851,Merthyr Tydfil,25-39,11866,58847
+852,Merthyr Tydfil,40-54,10953,58847
+853,Merthyr Tydfil,55-64,8039,58847
+854,Merthyr Tydfil,65+,11112,58847
+855,Merton,0-24,61846,215188
+856,Merton,25-39,55310,215188
+857,Merton,40-54,48126,215188
+858,Merton,55-64,22835,215188
+859,Merton,65+,27071,215188
+860,Mid Devon,0-24,21658,82848
+861,Mid Devon,25-39,13342,82848
+862,Mid Devon,40-54,15951,82848
+863,Mid Devon,55-64,12008,82848
+864,Mid Devon,65+,19889,82848
+865,Mid Suffolk,0-24,25136,102702
+866,Mid Suffolk,25-39,16716,102702
+867,Mid Suffolk,40-54,19543,102702
+868,Mid Suffolk,55-64,15327,102702
+869,Mid Suffolk,65+,25980,102702
+870,Mid Sussex,0-24,41825,152570
+871,Mid Sussex,25-39,26765,152570
+872,Mid Sussex,40-54,32911,152570
+873,Mid Sussex,55-64,19576,152570
+874,Mid Sussex,65+,31493,152570
+875,Middlesbrough,0-24,46930,143922
+876,Middlesbrough,25-39,30017,143922
+877,Middlesbrough,40-54,24708,143922
+878,Middlesbrough,55-64,18089,143922
+879,Middlesbrough,65+,24178,143922
+880,Milton Keynes,0-24,89953,287057
+881,Milton Keynes,25-39,64064,287057
+882,Milton Keynes,40-54,61880,287057
+883,Milton Keynes,55-64,31576,287057
+884,Milton Keynes,65+,39584,287057
+885,Mole Valley,0-24,22336,87386
+886,Mole Valley,25-39,13019,87386
+887,Mole Valley,40-54,18441,87386
+888,Mole Valley,55-64,12828,87386
+889,Mole Valley,65+,20762,87386
+890,Monmouthshire,0-24,22198,92961
+891,Monmouthshire,25-39,14130,92961
+892,Monmouthshire,40-54,18112,92961
+893,Monmouthshire,55-64,14479,92961
+894,Monmouthshire,65+,24042,92961
+895,Neath Port Talbot,0-24,39949,142290
+896,Neath Port Talbot,25-39,25934,142290
+897,Neath Port Talbot,40-54,26424,142290
+898,Neath Port Talbot,55-64,19849,142290
+899,Neath Port Talbot,65+,30134,142290
+900,New Forest,0-24,40593,175778
+901,New Forest,25-39,24849,175778
+902,New Forest,40-54,31878,175778
+903,New Forest,55-64,26817,175778
+904,New Forest,65+,51641,175778
+905,Newark and Sherwood,0-24,32030,122954
+906,Newark and Sherwood,25-39,21907,122954
+907,Newark and Sherwood,40-54,23878,122954
+908,Newark and Sherwood,55-64,17468,122954
+909,Newark and Sherwood,65+,27671,122954
+910,Newcastle upon Tyne,0-24,108760,300131
+911,Newcastle upon Tyne,25-39,64231,300131
+912,Newcastle upon Tyne,40-54,49766,300131
+913,Newcastle upon Tyne,55-64,32856,300131
+914,Newcastle upon Tyne,65+,44518,300131
+915,Newcastle-under-Lyme,0-24,35037,123306
+916,Newcastle-under-Lyme,25-39,21592,123306
+917,Newcastle-under-Lyme,40-54,23265,123306
+918,Newcastle-under-Lyme,55-64,16669,123306
+919,Newcastle-under-Lyme,65+,26743,123306
+920,Newham,0-24,120914,351039
+921,Newham,25-39,105264,351039
+922,Newham,40-54,70623,351039
+923,Newham,55-64,29071,351039
+924,Newham,65+,25167,351039
+925,Newport,0-24,47694,159594
+926,Newport,25-39,34749,159594
+927,Newport,40-54,30435,159594
+928,Newport,55-64,19653,159594
+929,Newport,65+,27063,159594
+930,North Devon,0-24,24580,98608
+931,North Devon,25-39,15507,98608
+932,North Devon,40-54,18310,98608
+933,North Devon,55-64,14757,98608
+934,North Devon,65+,25454,98608
+935,North East Derbyshire,0-24,25098,102000
+936,North East Derbyshire,25-39,16925,102000
+937,North East Derbyshire,40-54,19692,102000
+938,North East Derbyshire,55-64,14956,102000
+939,North East Derbyshire,65+,25329,102000
+940,North East Lincolnshire,0-24,43914,156966
+941,North East Lincolnshire,25-39,29243,156966
+942,North East Lincolnshire,40-54,28953,156966
+943,North East Lincolnshire,55-64,22021,156966
+944,North East Lincolnshire,65+,32835,156966
+945,North Hertfordshire,0-24,36468,133211
+946,North Hertfordshire,25-39,25320,133211
+947,North Hertfordshire,40-54,28402,133211
+948,North Hertfordshire,55-64,17187,133211
+949,North Hertfordshire,65+,25834,133211
+950,North Kesteven,0-24,30184,118075
+951,North Kesteven,25-39,20625,118075
+952,North Kesteven,40-54,22997,118075
+953,North Kesteven,55-64,16659,118075
+954,North Kesteven,65+,27610,118075
+955,North Lincolnshire,0-24,45229,169674
+956,North Lincolnshire,25-39,30596,169674
+957,North Lincolnshire,40-54,32175,169674
+958,North Lincolnshire,55-64,24401,169674
+959,North Lincolnshire,65+,37273,169674
+960,North Norfolk,0-24,21192,102988
+961,North Norfolk,25-39,13516,102988
+962,North Norfolk,40-54,17102,102988
+963,North Norfolk,55-64,16678,102988
+964,North Norfolk,65+,34500,102988
+965,North Northamptonshire,0-24,103446,359525
+966,North Northamptonshire,25-39,71606,359525
+967,North Northamptonshire,40-54,73729,359525
+968,North Northamptonshire,55-64,45383,359525
+969,North Northamptonshire,65+,65361,359525
+970,North Somerset,0-24,56356,216727
+971,North Somerset,25-39,36199,216727
+972,North Somerset,40-54,43028,216727
+973,North Somerset,55-64,29274,216727
+974,North Somerset,65+,51870,216727
+975,North Tyneside,0-24,54958,208952
+976,North Tyneside,25-39,40385,208952
+977,North Tyneside,40-54,41907,208952
+978,North Tyneside,55-64,28812,208952
+979,North Tyneside,65+,42890,208952
+980,North Warwickshire,0-24,16831,65035
+981,North Warwickshire,25-39,11593,65035
+982,North Warwickshire,40-54,12857,65035
+983,North Warwickshire,55-64,9481,65035
+984,North Warwickshire,65+,14273,65035
+985,North West Leicestershire,0-24,28609,104706
+986,North West Leicestershire,25-39,19483,104706
+987,North West Leicestershire,40-54,21543,104706
+988,North West Leicestershire,55-64,14068,104706
+989,North West Leicestershire,65+,21003,104706
+990,Northumberland,0-24,77914,320565
+991,Northumberland,25-39,50268,320565
+992,Northumberland,40-54,60301,320565
+993,Northumberland,55-64,50533,320565
+994,Northumberland,65+,81549,320565
+995,Norwich,0-24,48610,143926
+996,Norwich,25-39,34162,143926
+997,Norwich,40-54,25453,143926
+998,Norwich,55-64,14192,143926
+999,Norwich,65+,21509,143926
+1000,Nottingham,0-24,131206,323627
+1001,Nottingham,25-39,69672,323627
+1002,Nottingham,40-54,53829,323627
+1003,Nottingham,55-64,30955,323627
+1004,Nottingham,65+,37965,323627
+1005,Nuneaton and Bedworth,0-24,38103,134204
+1006,Nuneaton and Bedworth,25-39,27307,134204
+1007,Nuneaton and Bedworth,40-54,26085,134204
+1008,Nuneaton and Bedworth,55-64,17105,134204
+1009,Nuneaton and Bedworth,65+,25604,134204
+1010,Oadby and Wigston,0-24,17004,57753
+1011,Oadby and Wigston,25-39,10202,57753
+1012,Oadby and Wigston,40-54,10802,57753
+1013,Oadby and Wigston,55-64,7442,57753
+1014,Oadby and Wigston,65+,12303,57753
+1015,Oldham,0-24,81905,242081
+1016,Oldham,25-39,47889,242081
+1017,Oldham,40-54,45975,242081
+1018,Oldham,55-64,27704,242081
+1019,Oldham,65+,38608,242081
+1020,Oxford,0-24,61504,162039
+1021,Oxford,25-39,39668,162039
+1022,Oxford,40-54,27255,162039
+1023,Oxford,55-64,14642,162039
+1024,Oxford,65+,18970,162039
+1025,Pembrokeshire,0-24,31322,123366
+1026,Pembrokeshire,25-39,19186,123366
+1027,Pembrokeshire,40-54,21835,123366
+1028,Pembrokeshire,55-64,18680,123366
+1029,Pembrokeshire,65+,32343,123366
+1030,Pendle,0-24,30261,95753
+1031,Pendle,25-39,18540,95753
+1032,Pendle,40-54,18020,95753
+1033,Pendle,55-64,11689,95753
+1034,Pendle,65+,17243,95753
+1035,Peterborough,0-24,69615,215676
+1036,Peterborough,25-39,49873,215676
+1037,Peterborough,40-54,42842,215676
+1038,Peterborough,55-64,22755,215676
+1039,Peterborough,65+,30591,215676
+1040,Plymouth,0-24,80455,264693
+1041,Plymouth,25-39,53703,264693
+1042,Plymouth,40-54,48969,264693
+1043,Plymouth,55-64,32597,264693
+1044,Plymouth,65+,48969,264693
+1045,Portsmouth,0-24,69598,208002
+1046,Portsmouth,25-39,46234,208002
+1047,Portsmouth,40-54,38059,208002
+1048,Portsmouth,55-64,23323,208002
+1049,Portsmouth,65+,30788,208002
+1050,Powys,0-24,31386,133174
+1051,Powys,25-39,19714,133174
+1052,Powys,40-54,23869,133174
+1053,Powys,55-64,21084,133174
+1054,Powys,65+,37121,133174
+1055,Preston,0-24,49764,147835
+1056,Preston,25-39,31677,147835
+1057,Preston,40-54,27591,147835
+1058,Preston,55-64,16997,147835
+1059,Preston,65+,21806,147835
+1060,Reading,0-24,56647,174235
+1061,Reading,25-39,44808,174235
+1062,Reading,40-54,34873,174235
+1063,Reading,55-64,16926,174235
+1064,Reading,65+,20981,174235
+1065,Redbridge,0-24,102634,310260
+1066,Redbridge,25-39,72867,310260
+1067,Redbridge,40-54,65319,310260
+1068,Redbridge,55-64,31509,310260
+1069,Redbridge,65+,37931,310260
+1070,Redcar and Cleveland,0-24,36380,136536
+1071,Redcar and Cleveland,25-39,22976,136536
+1072,Redcar and Cleveland,40-54,25212,136536
+1073,Redcar and Cleveland,55-64,20219,136536
+1074,Redcar and Cleveland,65+,31749,136536
+1075,Redditch,0-24,24879,87034
+1076,Redditch,25-39,18195,87034
+1077,Redditch,40-54,17196,87034
+1078,Redditch,55-64,10610,87034
+1079,Redditch,65+,16154,87034
+1080,Reigate and Banstead,0-24,43144,150852
+1081,Reigate and Banstead,25-39,29808,150852
+1082,Reigate and Banstead,40-54,32364,150852
+1083,Reigate and Banstead,55-64,18815,150852
+1084,Reigate and Banstead,65+,26721,150852
+1085,Rhondda Cynon Taf,0-24,68830,237651
+1086,Rhondda Cynon Taf,25-39,46042,237651
+1087,Rhondda Cynon Taf,40-54,44911,237651
+1088,Rhondda Cynon Taf,55-64,31242,237651
+1089,Rhondda Cynon Taf,65+,46626,237651
+1090,Ribble Valley,0-24,15320,61558
+1091,Ribble Valley,25-39,9370,61558
+1092,Ribble Valley,40-54,12295,61558
+1093,Ribble Valley,55-64,9721,61558
+1094,Ribble Valley,65+,14852,61558
+1095,Richmond upon Thames,0-24,55525,195278
+1096,Richmond upon Thames,25-39,36391,195278
+1097,Richmond upon Thames,40-54,48012,195278
+1098,Richmond upon Thames,55-64,23903,195278
+1099,Richmond upon Thames,65+,31447,195278
+1100,Richmondshire,0-24,13161,49764
+1101,Richmondshire,25-39,8619,49764
+1102,Richmondshire,40-54,8924,49764
+1103,Richmondshire,55-64,7413,49764
+1104,Richmondshire,65+,11647,49764
+1105,Rochdale,0-24,71503,223775
+1106,Rochdale,25-39,45309,223775
+1107,Rochdale,40-54,43220,223775
+1108,Rochdale,55-64,26876,223775
+1109,Rochdale,65+,36867,223775
+1110,Rochford,0-24,22663,85667
+1111,Rochford,25-39,14030,85667
+1112,Rochford,40-54,17161,85667
+1113,Rochford,55-64,11811,85667
+1114,Rochford,65+,20002,85667
+1115,Rossendale,0-24,19760,70876
+1116,Rossendale,25-39,13110,70876
+1117,Rossendale,40-54,14619,70876
+1118,Rossendale,55-64,9726,70876
+1119,Rossendale,65+,13661,70876
+1120,Rother,0-24,20771,93111
+1121,Rother,25-39,12036,93111
+1122,Rother,40-54,15757,93111
+1123,Rother,55-64,14356,93111
+1124,Rother,65+,30191,93111
+1125,Rotherham,0-24,75734,265806
+1126,Rotherham,25-39,51429,265806
+1127,Rotherham,40-54,51404,265806
+1128,Rotherham,55-64,35012,265806
+1129,Rotherham,65+,52227,265806
+1130,Rugby,0-24,32479,114366
+1131,Rugby,25-39,23795,114366
+1132,Rugby,40-54,23385,114366
+1133,Rugby,55-64,13898,114366
+1134,Rugby,65+,20809,114366
+1135,Runnymede,0-24,28426,88085
+1136,Runnymede,25-39,16305,88085
+1137,Runnymede,40-54,17651,88085
+1138,Runnymede,55-64,10540,88085
+1139,Runnymede,65+,15163,88085
+1140,Rushcliffe,0-24,32739,119078
+1141,Rushcliffe,25-39,20274,119078
+1142,Rushcliffe,40-54,24445,119078
+1143,Rushcliffe,55-64,15879,119078
+1144,Rushcliffe,65+,25741,119078
+1145,Rushmoor,0-24,28512,99758
+1146,Rushmoor,25-39,24150,99758
+1147,Rushmoor,40-54,20344,99758
+1148,Rushmoor,55-64,11622,99758
+1149,Rushmoor,65+,15130,99758
+1150,Rutland,0-24,10766,41050
+1151,Rutland,25-39,6533,41050
+1152,Rutland,40-54,7762,41050
+1153,Rutland,55-64,5603,41050
+1154,Rutland,65+,10386,41050
+1155,Ryedale,0-24,12632,54709
+1156,Ryedale,25-39,8046,54709
+1157,Ryedale,40-54,10086,54709
+1158,Ryedale,55-64,8803,54709
+1159,Ryedale,65+,15142,54709
+1160,Salford,0-24,88183,269927
+1161,Salford,25-39,71347,269927
+1162,Salford,40-54,46762,269927
+1163,Salford,55-64,27713,269927
+1164,Salford,65+,35922,269927
+1165,Sandwell,0-24,113473,341835
+1166,Sandwell,25-39,71972,341835
+1167,Sandwell,40-54,68604,341835
+1168,Sandwell,55-64,38082,341835
+1169,Sandwell,65+,49704,341835
+1170,Scarborough,0-24,25410,108736
+1171,Scarborough,25-39,17049,108736
+1172,Scarborough,40-54,19220,108736
+1173,Scarborough,55-64,17192,108736
+1174,Scarborough,65+,29865,108736
+1175,Sedgemoor,0-24,32681,125354
+1176,Sedgemoor,25-39,21339,125354
+1177,Sedgemoor,40-54,23585,125354
+1178,Sedgemoor,55-64,17930,125354
+1179,Sedgemoor,65+,29819,125354
+1180,Sefton,0-24,71403,279231
+1181,Sefton,25-39,49204,279231
+1182,Sefton,40-54,52364,279231
+1183,Sefton,55-64,41494,279231
+1184,Sefton,65+,64766,279231
+1185,Selby,0-24,24175,91990
+1186,Selby,25-39,17106,91990
+1187,Selby,40-54,18571,91990
+1188,Selby,55-64,13366,91990
+1189,Selby,65+,18772,91990
+1190,Sevenoaks,0-24,33871,120516
+1191,Sevenoaks,25-39,19710,120516
+1192,Sevenoaks,40-54,24893,120516
+1193,Sevenoaks,55-64,16113,120516
+1194,Sevenoaks,65+,25929,120516
+1195,Sheffield,0-24,182570,556519
+1196,Sheffield,25-39,114435,556519
+1197,Sheffield,40-54,100697,556519
+1198,Sheffield,55-64,63996,556519
+1199,Sheffield,65+,94821,556519
+1200,Shropshire,0-24,79959,323608
+1201,Shropshire,25-39,52087,323608
+1202,Shropshire,40-54,60973,323608
+1203,Shropshire,55-64,48501,323608
+1204,Shropshire,65+,82088,323608
+1205,Slough,0-24,56155,158498
+1206,Slough,25-39,38001,158498
+1207,Slough,40-54,34443,158498
+1208,Slough,55-64,14580,158498
+1209,Slough,65+,15319,158498
+1210,Solihull,0-24,61628,216236
+1211,Solihull,25-39,38149,216236
+1212,Solihull,40-54,42446,216236
+1213,Solihull,55-64,28413,216236
+1214,Solihull,65+,45600,216236
+1215,Somerset West and Taunton,0-24,39378,157448
+1216,Somerset West and Taunton,25-39,26586,157448
+1217,Somerset West and Taunton,40-54,28681,157448
+1218,Somerset West and Taunton,55-64,22365,157448
+1219,Somerset West and Taunton,65+,40438,157448
+1220,South Cambridgeshire,0-24,44769,162116
+1221,South Cambridgeshire,25-39,29506,162116
+1222,South Cambridgeshire,40-54,35567,162116
+1223,South Cambridgeshire,55-64,20471,162116
+1224,South Cambridgeshire,65+,31803,162116
+1225,South Derbyshire,0-24,29806,107203
+1226,South Derbyshire,25-39,20966,107203
+1227,South Derbyshire,40-54,22406,107203
+1228,South Derbyshire,55-64,14089,107203
+1229,South Derbyshire,65+,19936,107203
+1230,South Gloucestershire,0-24,84272,290423
+1231,South Gloucestershire,25-39,59567,290423
+1232,South Gloucestershire,40-54,56442,290423
+1233,South Gloucestershire,55-64,35950,290423
+1234,South Gloucestershire,65+,54192,290423
+1235,South Hams,0-24,20330,88628
+1236,South Hams,25-39,12403,88628
+1237,South Hams,40-54,16307,88628
+1238,South Hams,55-64,14507,88628
+1239,South Hams,65+,25081,88628
+1240,South Holland,0-24,24162,95119
+1241,South Holland,25-39,16598,95119
+1242,South Holland,40-54,18327,95119
+1243,South Holland,55-64,13338,95119
+1244,South Holland,65+,22694,95119
+1245,South Kesteven,0-24,37214,143400
+1246,South Kesteven,25-39,23717,143400
+1247,South Kesteven,40-54,28813,143400
+1248,South Kesteven,55-64,20541,143400
+1249,South Kesteven,65+,33115,143400
+1250,South Lakeland,0-24,23055,104449
+1251,South Lakeland,25-39,15567,104449
+1252,South Lakeland,40-54,19691,104449
+1253,South Lakeland,55-64,16776,104449
+1254,South Lakeland,65+,29360,104449
+1255,South Norfolk,0-24,36051,141948
+1256,South Norfolk,25-39,23958,141948
+1257,South Norfolk,40-54,27681,141948
+1258,South Norfolk,55-64,19747,141948
+1259,South Norfolk,65+,34511,141948
+1260,South Oxfordshire,0-24,39954,149080
+1261,South Oxfordshire,25-39,27268,149080
+1262,South Oxfordshire,40-54,31446,149080
+1263,South Oxfordshire,55-64,19833,149080
+1264,South Oxfordshire,65+,30579,149080
+1265,South Ribble,0-24,29191,111042
+1266,South Ribble,25-39,19923,111042
+1267,South Ribble,40-54,22327,111042
+1268,South Ribble,55-64,15569,111042
+1269,South Ribble,65+,24032,111042
+1270,South Somerset,0-24,43823,172675
+1271,South Somerset,25-39,28743,172675
+1272,South Somerset,40-54,31525,172675
+1273,South Somerset,55-64,24543,172675
+1274,South Somerset,65+,44041,172675
+1275,South Staffordshire,0-24,26677,110474
+1276,South Staffordshire,25-39,18276,110474
+1277,South Staffordshire,40-54,21059,110474
+1278,South Staffordshire,55-64,16718,110474
+1279,South Staffordshire,65+,27744,110474
+1280,South Tyneside,0-24,39690,147777
+1281,South Tyneside,25-39,27903,147777
+1282,South Tyneside,40-54,27641,147777
+1283,South Tyneside,55-64,21705,147777
+1284,South Tyneside,65+,30838,147777
+1285,Southampton,0-24,84975,248912
+1286,Southampton,25-39,59214,248912
+1287,Southampton,40-54,45019,248912
+1288,Southampton,55-64,25459,248912
+1289,Southampton,65+,34245,248912
+1290,Southend-on-Sea,0-24,50834,180685
+1291,Southend-on-Sea,25-39,35353,180685
+1292,Southend-on-Sea,40-54,37023,180685
+1293,Southend-on-Sea,55-64,22914,180685
+1294,Southend-on-Sea,65+,34561,180685
+1295,Southwark,0-24,90153,307641
+1296,Southwark,25-39,99759,307641
+1297,Southwark,40-54,61328,307641
+1298,Southwark,55-64,30715,307641
+1299,Southwark,65+,25686,307641
+1300,Spelthorne,0-24,28508,102953
+1301,Spelthorne,25-39,21066,102953
+1302,Spelthorne,40-54,21697,102953
+1303,Spelthorne,55-64,13092,102953
+1304,Spelthorne,65+,18590,102953
+1305,St Albans,0-24,44269,148173
+1306,St Albans,25-39,25924,148173
+1307,St Albans,40-54,34565,148173
+1308,St Albans,55-64,17917,148173
+1309,St Albans,65+,25498,148173
+1310,St. Helens,0-24,49389,183245
+1311,St. Helens,25-39,35493,183245
+1312,St. Helens,40-54,35950,183245
+1313,St. Helens,55-64,24776,183245
+1314,St. Helens,65+,37637,183245
+1315,Stafford,0-24,34553,136870
+1316,Stafford,25-39,24584,136870
+1317,Stafford,40-54,27198,136870
+1318,Stafford,55-64,19083,136870
+1319,Stafford,65+,31452,136870
+1320,Staffordshire Moorlands,0-24,22902,95851
+1321,Staffordshire Moorlands,25-39,14587,95851
+1322,Staffordshire Moorlands,40-54,18790,95851
+1323,Staffordshire Moorlands,55-64,14450,95851
+1324,Staffordshire Moorlands,65+,25122,95851
+1325,Stevenage,0-24,26772,89501
+1326,Stevenage,25-39,20323,89501
+1327,Stevenage,40-54,17663,89501
+1328,Stevenage,55-64,11195,89501
+1329,Stevenage,65+,13548,89501
+1330,Stockport,0-24,80691,294776
+1331,Stockport,25-39,57400,294776
+1332,Stockport,40-54,59251,294776
+1333,Stockport,55-64,38159,294776
+1334,Stockport,65+,59275,294776
+1335,Stockton-on-Tees,0-24,56489,196594
+1336,Stockton-on-Tees,25-39,38105,196594
+1337,Stockton-on-Tees,40-54,38073,196594
+1338,Stockton-on-Tees,55-64,26744,196594
+1339,Stockton-on-Tees,65+,37183,196594
+1340,Stoke-on-Trent,0-24,81508,258375
+1341,Stoke-on-Trent,25-39,53840,258375
+1342,Stoke-on-Trent,40-54,48026,258375
+1343,Stoke-on-Trent,55-64,30736,258375
+1344,Stoke-on-Trent,65+,44265,258375
+1345,Stratford-on-Avon,0-24,32461,134727
+1346,Stratford-on-Avon,25-39,21524,134727
+1347,Stratford-on-Avon,40-54,26833,134727
+1348,Stratford-on-Avon,55-64,19993,134727
+1349,Stratford-on-Avon,65+,33916,134727
+1350,Stroud,0-24,30858,121103
+1351,Stroud,25-39,19350,121103
+1352,Stroud,40-54,24801,121103
+1353,Stroud,55-64,17864,121103
+1354,Stroud,65+,28230,121103
+1355,Sunderland,0-24,74907,274166
+1356,Sunderland,25-39,52122,274166
+1357,Sunderland,40-54,51931,274166
+1358,Sunderland,55-64,38946,274166
+1359,Sunderland,65+,56260,274166
+1360,Surrey Heath,0-24,24684,90460
+1361,Surrey Heath,25-39,16102,90460
+1362,Surrey Heath,40-54,19733,90460
+1363,Surrey Heath,55-64,12125,90460
+1364,Surrey Heath,65+,17816,90460
+1365,Sutton,0-24,62702,209640
+1366,Sutton,25-39,43849,209640
+1367,Sutton,40-54,47104,209640
+1368,Sutton,55-64,24244,209640
+1369,Sutton,65+,31741,209640
+1370,Swale,0-24,44023,151678
+1371,Swale,25-39,29854,151678
+1372,Swale,40-54,29244,151678
+1373,Swale,55-64,19645,151678
+1374,Swale,65+,28912,151678
+1375,Swansea,0-24,71740,238500
+1376,Swansea,25-39,43817,238500
+1377,Swansea,40-54,43519,238500
+1378,Swansea,55-64,30541,238500
+1379,Swansea,65+,48883,238500
+1380,Swindon,0-24,67858,233414
+1381,Swindon,25-39,49955,233414
+1382,Swindon,40-54,49414,233414
+1383,Swindon,55-64,29115,233414
+1384,Swindon,65+,37072,233414
+1385,Tameside,0-24,67596,231063
+1386,Tameside,25-39,47257,231063
+1387,Tameside,40-54,45645,231063
+1388,Tameside,55-64,30056,231063
+1389,Tameside,65+,40509,231063
+1390,Tamworth,0-24,22421,78646
+1391,Tamworth,25-39,15884,78646
+1392,Tamworth,40-54,15625,78646
+1393,Tamworth,55-64,9804,78646
+1394,Tamworth,65+,14912,78646
+1395,Tandridge,0-24,24738,87878
+1396,Tandridge,25-39,14581,87878
+1397,Tandridge,40-54,18213,87878
+1398,Tandridge,55-64,12001,87878
+1399,Tandridge,65+,18345,87878
+1400,Teignbridge,0-24,31852,134805
+1401,Teignbridge,25-39,20851,134805
+1402,Teignbridge,40-54,24989,134805
+1403,Teignbridge,55-64,20676,134805
+1404,Teignbridge,65+,36437,134805
+1405,Telford and Wrekin,0-24,56437,185523
+1406,Telford and Wrekin,25-39,36633,185523
+1407,Telford and Wrekin,40-54,36760,185523
+1408,Telford and Wrekin,55-64,22989,185523
+1409,Telford and Wrekin,65+,32704,185523
+1410,Tendring,0-24,35629,148287
+1411,Tendring,25-39,21697,148287
+1412,Tendring,40-54,25225,148287
+1413,Tendring,55-64,21867,148287
+1414,Tendring,65+,43869,148287
+1415,Test Valley,0-24,34398,130488
+1416,Test Valley,25-39,23824,130488
+1417,Test Valley,40-54,26789,130488
+1418,Test Valley,55-64,17806,130488
+1419,Test Valley,65+,27671,130488
+1420,Tewkesbury,0-24,25184,94888
+1421,Tewkesbury,25-39,17414,94888
+1422,Tewkesbury,40-54,18337,94888
+1423,Tewkesbury,55-64,12842,94888
+1424,Tewkesbury,65+,21111,94888
+1425,Thanet,0-24,37490,140585
+1426,Thanet,25-39,24535,140585
+1427,Thanet,40-54,26334,140585
+1428,Thanet,55-64,18971,140585
+1429,Thanet,65+,33255,140585
+1430,Three Rivers,0-24,27307,93774
+1431,Three Rivers,25-39,16581,93774
+1432,Three Rivers,40-54,20755,93774
+1433,Three Rivers,55-64,12165,93774
+1434,Three Rivers,65+,16966,93774
+1435,Thurrock,0-24,57313,175997
+1436,Thurrock,25-39,39745,175997
+1437,Thurrock,40-54,35954,175997
+1438,Thurrock,55-64,19131,175997
+1439,Thurrock,65+,23854,175997
+1440,Tonbridge and Malling,0-24,38310,132196
+1441,Tonbridge and Malling,25-39,23499,132196
+1442,Tonbridge and Malling,40-54,28003,132196
+1443,Tonbridge and Malling,55-64,17079,132196
+1444,Tonbridge and Malling,65+,25305,132196
+1445,Torbay,0-24,33808,139324
+1446,Torbay,25-39,22055,139324
+1447,Torbay,40-54,25694,139324
+1448,Torbay,55-64,20579,139324
+1449,Torbay,65+,37188,139324
+1450,Torfaen,0-24,25641,92274
+1451,Torfaen,25-39,17860,92274
+1452,Torfaen,40-54,16907,92274
+1453,Torfaen,55-64,12711,92274
+1454,Torfaen,65+,19155,92274
+1455,Torridge,0-24,15799,68122
+1456,Torridge,25-39,9693,68122
+1457,Torridge,40-54,12347,68122
+1458,Torridge,55-64,10958,68122
+1459,Torridge,65+,19325,68122
+1460,Tower Hamlets,0-24,104496,310303
+1461,Tower Hamlets,25-39,114957,310303
+1462,Tower Hamlets,40-54,54100,310303
+1463,Tower Hamlets,55-64,19279,310303
+1464,Tower Hamlets,65+,17471,310303
+1465,Trafford,0-24,69647,235063
+1466,Trafford,25-39,44807,235063
+1467,Trafford,40-54,50337,235063
+1468,Trafford,55-64,28975,235063
+1469,Trafford,65+,41297,235063
+1470,Tunbridge Wells,0-24,32736,115311
+1471,Tunbridge Wells,25-39,20108,115311
+1472,Tunbridge Wells,40-54,25254,115311
+1473,Tunbridge Wells,55-64,14841,115311
+1474,Tunbridge Wells,65+,22372,115311
+1475,Uttlesford,0-24,25568,91340
+1476,Uttlesford,25-39,15302,91340
+1477,Uttlesford,40-54,19363,91340
+1478,Uttlesford,55-64,12677,91340
+1479,Uttlesford,65+,18430,91340
+1480,Vale of Glamorgan,0-24,35993,131935
+1481,Vale of Glamorgan,25-39,23211,131935
+1482,Vale of Glamorgan,40-54,25575,131935
+1483,Vale of Glamorgan,55-64,18166,131935
+1484,Vale of Glamorgan,65+,28990,131935
+1485,Vale of White Horse,0-24,38405,138910
+1486,Vale of White Horse,25-39,27363,138910
+1487,Vale of White Horse,40-54,27871,138910
+1488,Vale of White Horse,55-64,17806,138910
+1489,Vale of White Horse,65+,27465,138910
+1490,Wakefield,0-24,97766,353375
+1491,Wakefield,25-39,72622,353375
+1492,Wakefield,40-54,69826,353375
+1493,Wakefield,55-64,46551,353375
+1494,Wakefield,65+,66610,353375
+1495,Walsall,0-24,90763,284130
+1496,Walsall,25-39,56624,284130
+1497,Walsall,40-54,53836,284130
+1498,Walsall,55-64,33442,284130
+1499,Walsall,65+,49465,284130
+1500,Waltham Forest,0-24,83754,278429
+1501,Waltham Forest,25-39,78163,278429
+1502,Waltham Forest,40-54,60578,278429
+1503,Waltham Forest,55-64,27533,278429
+1504,Waltham Forest,65+,28401,278429
+1505,Wandsworth,0-24,88213,327506
+1506,Wandsworth,25-39,115412,327506
+1507,Wandsworth,40-54,64207,327506
+1508,Wandsworth,55-64,28336,327506
+1509,Wandsworth,65+,31338,327506
+1510,Warrington,0-24,57442,210969
+1511,Warrington,25-39,40640,210969
+1512,Warrington,40-54,44048,210969
+1513,Warrington,55-64,28682,210969
+1514,Warrington,65+,40157,210969
+1515,Warwick,0-24,43671,148452
+1516,Warwick,25-39,30028,148452
+1517,Warwick,40-54,29049,148452
+1518,Warwick,55-64,17678,148452
+1519,Warwick,65+,28026,148452
+1520,Watford,0-24,30951,102244
+1521,Watford,25-39,25492,102244
+1522,Watford,40-54,22446,102244
+1523,Watford,55-64,10468,102244
+1524,Watford,65+,12887,102244
+1525,Waverley,0-24,36479,128231
+1526,Waverley,25-39,19242,128231
+1527,Waverley,40-54,27687,128231
+1528,Waverley,55-64,16817,128231
+1529,Waverley,65+,28006,128231
+1530,Wealden,0-24,39428,160146
+1531,Wealden,25-39,23418,160146
+1532,Wealden,40-54,30536,160146
+1533,Wealden,55-64,24275,160146
+1534,Wealden,65+,42489,160146
+1535,Welwyn Hatfield,0-24,39641,119839
+1536,Welwyn Hatfield,25-39,24241,119839
+1537,Welwyn Hatfield,40-54,23225,119839
+1538,Welwyn Hatfield,55-64,13927,119839
+1539,Welwyn Hatfield,65+,18805,119839
+1540,West Berkshire,0-24,45153,161447
+1541,West Berkshire,25-39,28387,161447
+1542,West Berkshire,40-54,34676,161447
+1543,West Berkshire,55-64,21719,161447
+1544,West Berkshire,65+,31512,161447
+1545,West Devon,0-24,13106,57093
+1546,West Devon,25-39,7845,57093
+1547,West Devon,40-54,10499,57093
+1548,West Devon,55-64,9373,57093
+1549,West Devon,65+,16270,57093
+1550,West Lancashire,0-24,34801,117427
+1551,West Lancashire,25-39,18640,117427
+1552,West Lancashire,40-54,21689,117427
+1553,West Lancashire,55-64,16577,117427
+1554,West Lancashire,65+,25720,117427
+1555,West Lindsey,0-24,23745,95152
+1556,West Lindsey,25-39,15030,95152
+1557,West Lindsey,40-54,17904,95152
+1558,West Lindsey,55-64,14490,95152
+1559,West Lindsey,65+,23983,95152
+1560,West Northamptonshire,0-24,125206,425726
+1561,West Northamptonshire,25-39,87866,425726
+1562,West Northamptonshire,40-54,87556,425726
+1563,West Northamptonshire,55-64,52421,425726
+1564,West Northamptonshire,65+,72677,425726
+1565,West Oxfordshire,0-24,30270,114233
+1566,West Oxfordshire,25-39,20694,114233
+1567,West Oxfordshire,40-54,22800,114233
+1568,West Oxfordshire,55-64,15724,114233
+1569,West Oxfordshire,65+,24745,114233
+1570,West Suffolk,0-24,49299,179951
+1571,West Suffolk,25-39,37088,179951
+1572,West Suffolk,40-54,33960,179951
+1573,West Suffolk,55-64,22242,179951
+1574,West Suffolk,65+,37362,179951
+1575,Westminster,0-24,54995,204240
+1576,Westminster,25-39,60259,204240
+1577,Westminster,40-54,42197,204240
+1578,Westminster,55-64,22007,204240
+1579,Westminster,65+,24782,204240
+1580,Wigan,0-24,91320,329329
+1581,Wigan,25-39,65363,329329
+1582,Wigan,40-54,66064,329329
+1583,Wigan,55-64,42982,329329
+1584,Wigan,65+,63600,329329
+1585,Wiltshire,0-24,137060,510336
+1586,Wiltshire,25-39,90103,510336
+1587,Wiltshire,40-54,100598,510336
+1588,Wiltshire,55-64,71046,510336
+1589,Wiltshire,65+,111529,510336
+1590,Winchester,0-24,38500,127448
+1591,Winchester,25-39,20452,127448
+1592,Winchester,40-54,25292,127448
+1593,Winchester,55-64,16624,127448
+1594,Winchester,65+,26580,127448
+1595,Windsor and Maidenhead,0-24,43479,153495
+1596,Windsor and Maidenhead,25-39,27679,153495
+1597,Windsor and Maidenhead,40-54,34394,153495
+1598,Windsor and Maidenhead,55-64,19622,153495
+1599,Windsor and Maidenhead,65+,28321,153495
+1600,Wirral,0-24,86438,320199
+1601,Wirral,25-39,56845,320199
+1602,Wirral,40-54,61069,320199
+1603,Wirral,55-64,45453,320199
+1604,Wirral,65+,70394,320199
+1605,Woking,0-24,29951,103940
+1606,Woking,25-39,21604,103940
+1607,Woking,40-54,22969,103940
+1608,Woking,55-64,12208,103940
+1609,Woking,65+,17208,103940
+1610,Wokingham,0-24,52840,177499
+1611,Wokingham,25-39,32596,177499
+1612,Wokingham,40-54,39798,177499
+1613,Wokingham,55-64,21717,177499
+1614,Wokingham,65+,30548,177499
+1615,Wolverhampton,0-24,83198,263730
+1616,Wolverhampton,25-39,54311,263730
+1617,Wolverhampton,40-54,52457,263730
+1618,Wolverhampton,55-64,30482,263730
+1619,Wolverhampton,65+,43282,263730
+1620,Worcester,0-24,30826,103866
+1621,Worcester,25-39,21449,103866
+1622,Worcester,40-54,20532,103866
+1623,Worcester,55-64,12770,103866
+1624,Worcester,65+,18289,103866
+1625,Worthing,0-24,28492,111338
+1626,Worthing,25-39,20369,111338
+1627,Worthing,40-54,22873,111338
+1628,Worthing,55-64,14650,111338
+1629,Worthing,65+,24954,111338
+1630,Wrexham,0-24,37548,135115
+1631,Wrexham,25-39,25314,135115
+1632,Wrexham,40-54,26987,135115
+1633,Wrexham,55-64,17886,135115
+1634,Wrexham,65+,27380,135115
+1635,Wychavon,0-24,32549,132495
+1636,Wychavon,25-39,21872,132495
+1637,Wychavon,40-54,25826,132495
+1638,Wychavon,55-64,19312,132495
+1639,Wychavon,65+,32936,132495
+1640,Wyre,0-24,26853,111949
+1641,Wyre,25-39,17097,111949
+1642,Wyre,40-54,19853,111949
+1643,Wyre,55-64,17144,111949
+1644,Wyre,65+,31002,111949
+1645,Wyre Forest,0-24,25635,101609
+1646,Wyre Forest,25-39,16873,101609
+1647,Wyre Forest,40-54,19522,101609
+1648,Wyre Forest,55-64,13911,101609
+1649,Wyre Forest,65+,25668,101609
+1650,York,0-24,64408,202821
+1651,York,25-39,38397,202821
+1652,York,40-54,37064,202821
+1653,York,55-64,24218,202821
+1654,York,65+,38734,202821

@@ -1,7 +1,7 @@
 {"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
 "title": {
-  "text": "Figure 2 - Great Britain Heat Map - House Prices",
+  "text": "Figure 3 - Great Britain Heat Map - House Prices",
   "subtitle":["Median residential house prices by district, Source: ROS, ONS",""],
   "subtitleFontStyle":"italic",
   "subtitleFontSize":10,

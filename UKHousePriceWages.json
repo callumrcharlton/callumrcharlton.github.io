@@ -1,0 +1,92 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+  
+   "title": {
+    "text": "Figure 1 - Inflation: House Prices vs Wages",
+    "subtitle":"Monthly house price index and median wages, Source: ONS",
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "start"},
+  
+    "width":300,
+    "height":300,
+  
+  
+    "data": {
+      "name":"myData",
+      "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKInflationData.csv"},
+  
+  
+    "encoding": {     
+        "x": {
+          "field": "Date",
+          "title":null,
+          "type": "temporal",
+          "axis": {
+             "grid": false,            
+             "labelColor":"black",
+             "formatType":"time"
+             
+              }}
+          },
+            
+     "layer":[
+  
+        {"mark": {
+            "type": "line",
+            "point": false,
+            "strokeWidth":1,
+            "width":1
+          },
+  
+        "encoding": {
+            "y": {
+            "field": "House Price Index",
+            "type": "quantitative",
+            "title": "House Price Index",
+            "scale": {"domain": [30,160]},
+            "axis": {
+              "grid": false,            
+              "labelColor":"red",
+              "format":",.5"
+              }
+              },
+              
+            "color": {
+              "datum": "House Price Index",
+              "scale": {"range": ["red", "blue"]},
+              "legend":{
+                "orient": "top-left"}}}
+        },
+  
+       {"mark": {
+            "type": "line",
+            "point": false,
+            "strokeWidth":1
+          },
+  
+        "encoding": {
+            "y": {
+            "field": "Average Weekly Wage",
+            "type": "quantitative",
+            "title": "Average Weekly Wage (£)",
+            "axis": {
+              "grid": false,
+              "labelColor":"blue",
+              "format":",.5"},
+              "scale": {"domain": [200,700]}
+              },
+              
+            "color": {
+              "datum": "Average Weekly Wage",
+              "scale": {"range": ["orange", "hotpink"]},
+              "legend":{
+                "orient": "top-left"}}
+          
+          } 
+      }
+  ],
+  
+      "resolve": {"scale": {"y": "independent"}} 
+  }
