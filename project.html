@@ -33,17 +33,17 @@
             <h3> Introduction</h3>
             <p>An economic problem faced by many people today is the cost-of-living crisis. The rising energy prices have garnered lots of media attention and there is concern the high rate of inflation is not being accompanied by an appropriate rise in wages. This project looks to investigate the extent at which house prices are increasing disproportionately more than wages and I will then look to discuss the significance of these effects on different age demographics in the United Kingdom.</p>
             <div class="chart" id="Chart3"> </div>
-            <p>From Figure 1, we can clearly see that the index of house prices has been increasing at a higher rate than wages over this time period. This gives us a broad picture of the relationship between the two variables, but does not provide much detail into tendencies of the underlying data. To gain further insight, I will gather more precise data, sorted by geographical region.</p>
+            <p>From Figure 1, we can clearly see that the index of house prices has been increasing at a higher rate than wages over this time period. This gives us a broad picture of the relationship between the two variables but does not provide much detail into tendencies of the underlying data. To gain further insight, I will gather more precise data, sorted by geographical region.</p>
             <div class="chart" id="Chart1"></div>
             <div class="chart" id="Chart2"> </div>
             <p>Figures 2 and 3 visualise the change in wages and house prices, respectively, over time. The country has been divided into local districts and offer a comparison of the relative changes among regions. From this data, it is obvious that both variables increase over time. However, it isn't clear that house prices are rising significantly quicker than each district's income. Therefore, I will look at a selection of districts from across the country to see if there are any trends.</p>
             <div class="chart" id="Chart4"> </div>
-            <p>This trellis chart highlights some variation seen within the data. Here, there is evidence to suggest that, as a proportion of income, house prices seem to be fairly stable in the north. Conversely, the rate of increase for house prices in southern regions is faster than income. Now we have an idea of how house prices vary by geographical region, we can investigate the extent of how the younger demographic is affected.</p>
+            <p>This trellis chart highlights some variation seen within the data. Here, there is evidence to suggest that, as a proportion of income, house prices seem to be fairly stable in the north. Conversely, the rates of increase for house prices in southern regions are faster than income. Now we have an idea of how house prices vary by geographical region, we can investigate the extent of how the younger demographic is affected.</p>
             <div class="chart" id="Chart5"> </div>
             <p>Figure 5 allows us to view the distribution of each age group between locations. This is a useful breakdown of this data because it now enables us to conduct further analysis. Next, I plan to perform some transformations to my data such that I can compare the relative expenditure on rent of a young adult (25-39). Here, for each district, I will determine the average expenditure on rent as a proportion of income and look at the age distributions to test if there is a relationship.</p>
-            <p>I have chosen to use average rent data in this instance because I believe this impacts the relevant age group more directly. I am assuming that house and rent prices behave somewhat similarly, however, and here the rent is based on a one bedroom home.</p>
+            <p>I have chosen to use average rent data in this instance because I believe this impacts the relevant age group more directly. I am assuming that house and rent prices behave somewhat similarly, however, and here the rent is based on a one-bedroom home.</p>
             <div class="chart" id="Chart6"> </div>
-            <p>After this data transformation, there is an evident positive relationship between the two variables. I have included a line of best fit, calculated using Python, and evaluated some correlation statistics. The value of the Pearson Correlation Coefficient is 0.65, with the R^2 statistic coming to 0.42. This heavily suggests some underlying associativity between them and I would be confident to claim there is a correlation.</p>
+            <p>After this data transformation, there is an evident positive relationship between the two variables. I have included a line of best fit, calculated using Python, and evaluated some correlation statistics. The value of the Pearson Correlation Coefficient is 0.65, with the R^2 statistic coming to 0.42. This heavily suggests some underlying associativity between them, and I would be confident to claim there is a correlation.</p>
 
             <h3> Accessing the Data</h3>
 
@@ -58,9 +58,11 @@
 
             <p>The population in the UK has various trends that span across each geographical region. There is evidence that young adults seem to be impacted disproportionately by quickly rising house prices. This is because in the areas where rent takes up the greatest portion of income, you can also find a larger population of young adults. </p>
             <p>There will be many factors that are at play here, potentially the future job prospects in these regions, so it would be immature to necessarily suggest a causal relationship from these findings. I would instead infer that there is significant associativity between these variables and are likely to be affected by similar factors.</p>
-            <p>If I were to carry this research further, I would look to uncover the perspective of the distribution of property assets throughout age groups. This is because the ownership statistics of property will likely expose further negative impacts on the younger generation.</p>
-
+            
             <h3> References</h3>
+            <p>Figure 1: Inflation: House Prices vs Wages 
+                | Source: <a href="https://landregistry.data.gov.uk/app/ukhpi/browse?from=2021-11-01&location=http%3A%2F%2Flandregistry.data.gov.uk%2Fid%2Fregion%2Funited-kingdom&to=2022-11-01&lang=en">Land Registry</a>  
+                | CSV file: <a href="https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKInflationData.csv">UKInflationData.csv</a> </p>
             <p>Figure 2: Great Britain Heat Map - Wages 
                 | Source: <a href="https://www.nomisweb.co.uk/query/construct/summary.asp?reset=yes&mode=construct&dataset=30&version=0&anal=1&initsel=">ONS (NOMIS)</a> 
                 | Google Colab: <a href="https://colab.research.google.com/drive/1_rsu7VMXWTBkoyMQjRZHkGLORoMD36oR#scrollTo=BPtalZIEAPoF">UKWeeklyWageCleaner.ipynb</a> 
@@ -69,9 +71,17 @@
                 | Source: <a href="https://www.ros.gov.uk/data-and-statistics/house-price-statistics/property-market-report-2021-22">ROS</a>&<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/medianhousepricefornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset09">ONS</a> 
                 | Google Colab: <a href="https://colab.research.google.com/drive/1RTFLwFeESJ0NzFN4XalSO3npvJniuOC1#scrollTo=dLV6F-zy8NYl">UKHousePriceCleaner.ipynb</a> 
                 | CSV file: <a href="https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKHousePricesClean2.csv">UKHousePricesClean2.csv</a></p>
-
-    
-
+            <p>Figure 4: House Price vs  Annual Income Ratio 
+                | Google Colab: <a href="https://colab.research.google.com/drive/1EeYBB9MSh0ZokuE5ozVGouJaJACHG5S-">MergeDataframe.ipynb</a>  
+                | CSV file: <a href="https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKWageHouseCombined.csv">UKWageHouseCombined.csv</a> </p>
+            <p>Figure 5: Population Distribution by Age
+                | Source: <a href="https://www.ons.gov.uk/datasets/TS007/editions/2021/versions/1#get-data">ONS</a> 
+                | Google Colab: <a href="https://colab.research.google.com/drive/1i3bB4GOo7sPsLYNyVWiaI969FVU3rSQj">UKPopulation.ipynb</a> 
+                | CSV file: <a href="https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKPopulationGrouped.csv">UKPopulationGrouped.csv</a></p>
+            <p>Figure 6: Distribution of Ages 25-39
+                | Source: <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/privaterentalmarketsummarystatisticsinengland/april2021tomarch2022#local-authority-analysis">ONS</a> 
+                | Google Colab: <a href="https://colab.research.google.com/drive/1Kak87iGoKCwET4IrQvdHRzpwEhYPzr48#scrollTo=UOPeDZc4Tccl">DataAnalysis.ipynb</a> 
+                | CSV file: <a href="https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKPopRent2.csv">UKPopRent2.csv</a></p>
     
         </div> 
     </body>
