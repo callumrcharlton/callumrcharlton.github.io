@@ -51,7 +51,11 @@
 
             <h3> Challenges Faced</h3>
 
-            <p>The biggest challenge I came across when cleaning the data was the names of the district authorities. This is because some of the </p>
+            <p>The biggest challenge I came across when cleaning the data was the names of the district authorities. This is because some of the location names from the geojson were grouped differently, causing a discrepancy with the data. To prevent wasting valid data I manually split the regions into a compatible format. This can partially be seen in the choropleth maps as there was also some missing data from the same locations previously causing issue.</p>
+            <p>There was also cleaning required for the population data as the source where it was obtained only produced data broken down into individual years instead of bands. This required me to use functions within pandas to group the data as required.</p>
+
+            <h3> Conclusions</h3>
+
 
             <h3> References</h3>
             <p>Figure 2: Great Britain Heat Map - Wages 

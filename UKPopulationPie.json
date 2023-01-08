@@ -20,7 +20,7 @@
     "encoding": {
       "theta": {"field": "population", "type": "quantitative", "stack": true},
       "color": {"field": "age group", "type": "nominal","title":"Age Group"},
-      "text": {"field": "percentage", "type": "quantitative","format": ".2%"},
+      "text": {"field": "percentage", "type": "quantitative","format": ".1%"},
       "tooltip":[{"field":"age group","type": "nominal","title":"Age Group"},{"field":"percentage","type": "quantitative","title":"Population Percentage","format":".2%"}]
     },
     "transform": [{"filter": "datum.location==LocalDistrict"},{"window": [{"op":"sum","field":"population","as":"totalpopulation"}],"frame": [null,null]},{"calculate": "datum.population/datum.totalpopulation","as": "percentage"}],

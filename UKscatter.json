@@ -1,0 +1,75 @@
+{ "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "title": {
+      "text": "Figure 6 - Distribution of Ages 25-39",
+      "subtitle":["Rent as a proportion of average income (x), Percentage of population aged 25-39 (y).","Size of points based on popluation", ""],
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"
+    },
+
+  "config": {
+    "background":"white",
+    "view": {
+      "stroke": "transparent"}},
+  
+    "data": {
+      "url": "https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKPopRent2.csv",
+      "format":{"type":"csv"}},
+  
+    "layer":[
+      {"mark": {
+        "type":"circle",
+        "color":"blue",
+        "opacity":0.4},
+        "encoding": {
+      "x": {
+        "field": "percentage", 
+        "type": "quantitative",
+        "scale": {"domain": [0.1, 0.4]},
+        "axis":{"grid": false},
+        "title":"Percentage of Population aged 25-39"},
+        
+  
+      "y": {
+        "field": "prop", 
+        "type": "quantitative",
+        "scale": {"domain": [0.1, 0.55]},
+        "axis":{"grid": false},
+        "title":"Rent as a Proportion of income "},
+  
+      "size": {
+        "field": "totalpop", 
+        "type": "quantitative",
+        "title":"Prison Rate",
+        "scale": { "range": [10, 200]},
+        "legend":null},
+
+      "tooltip":[
+        {"field":"location", "type": "ordinal", "title":"Local District"},
+        {"field":"percentage", "type": "quantitative", "title":"% Aged 24-39", "format":".2%"},
+        {"field":"prop", "type": "quantitative", "title":"Rent as % of income", "format":".2%"},
+        {"field":"totalpop", "type": "quantitative", "title":"Population", "format":","}]
+     }
+        },
+      {
+        "data": {
+          "values": [
+            {"y": "0.12934", "x": "0.1"},
+            {"y": "0.46177", "x": "0.4"}
+            ]
+        },
+        "mark": {"type": "line", "strokeDash": [3, 1]},
+        "encoding": {
+          "x": {"field": "x", "type": "quantitative"},
+          "y": {"field": "y", "type": "quantitative"}
+        }
+      }
+
+    ],
+    "height": 300,
+    "width": 300
+  
+    
+  }
