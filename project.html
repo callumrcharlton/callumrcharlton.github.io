@@ -45,26 +45,14 @@
             <div class="chart" id="Chart6"> </div>
             <p>After this data transformation, there is an evident positive relationship between the two variables. I have included a line of best fit, calculated using Python, and evaluated some correlation statistics. The value of the Pearson Correlation Coefficient is 0.65, with the R^2 statistic coming to 0.42. This heavily suggests some underlying associativity between them and I would be confident to claim there is a correlation.</p>
 
-            <h3> Accessing the Data</h3>
-
-            <p>For the data summarising wages and house prices, I obtained .csv files from the ONS websites and cleaned the data using code in Python. I was then able to merge data from several different sources and draw illustrations using relevant variables. The charts displaying data over several year had to be converted into long form before combining with other data.</p>
-
-            <h3> Challenges Faced</h3>
-
-            <p>The biggest challenge I came across when cleaning the data was the names of the district authorities. This is because some of the location names from the geojson were grouped differently, causing a discrepancy with the data. To prevent wasting valid data I manually split the regions into a compatible format. This can partially be seen in the choropleth maps as there was also some missing data from the same locations previously causing issue.</p>
-            <p>There was also cleaning required for the population data as the source where it was obtained only produced data broken down into individual years instead of bands. This required me to use functions within pandas to group the data as required.</p>
-
-            <h3> Conclusions</h3>
-
-
             <h3> References</h3>
             <p>Figure 2: Great Britain Heat Map - Wages 
-                | Source: <a href="https://www.nomisweb.co.uk/query/construct/summary.asp?reset=yes&mode=construct&dataset=30&version=0&anal=1&initsel=">ONS (NOMIS)</a> 
-                | Google Colab: <a href="https://colab.research.google.com/drive/1_rsu7VMXWTBkoyMQjRZHkGLORoMD36oR#scrollTo=BPtalZIEAPoF">UKWeeklyWageCleaner.ipynb</a> 
+                | Original data source: <a href="https://www.nomisweb.co.uk/query/construct/summary.asp?reset=yes&mode=construct&dataset=30&version=0&anal=1&initsel=">ONS (NOMIS)</a> 
+                | My Google Colab: <a href="https://colab.research.google.com/drive/1_rsu7VMXWTBkoyMQjRZHkGLORoMD36oR#scrollTo=BPtalZIEAPoF">UKWeeklyWageCleaner.ipynb</a> 
                 | CSV file: <a href="https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKWeeklyPayClean2.csv">UKWeeklyPayClean2.csv</a> </p>
             <p>Figure 3: Great Britain Heat Map - House Prices 
-                | Source: <a href="https://www.ros.gov.uk/data-and-statistics/house-price-statistics/property-market-report-2021-22">ROS</a>&<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/medianhousepricefornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset09">ONS</a> 
-                | Google Colab: <a href="https://colab.research.google.com/drive/1RTFLwFeESJ0NzFN4XalSO3npvJniuOC1#scrollTo=dLV6F-zy8NYl">UKHousePriceCleaner.ipynb</a> 
+                | Original data source: <a href="https://www.ros.gov.uk/data-and-statistics/house-price-statistics/property-market-report-2021-22">ROS</a> & <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/medianhousepricefornationalandsubnationalgeographiesquarterlyrollingyearhpssadataset09">ONS</a> 
+                | My Google Colab: <a href="https://colab.research.google.com/drive/1RTFLwFeESJ0NzFN4XalSO3npvJniuOC1#scrollTo=dLV6F-zy8NYl">UKHousePriceCleaner.ipynb</a> 
                 | CSV file: <a href="https://raw.githubusercontent.com/callumrcharlton/callumrcharlton.github.io/main/UKHousePricesClean2.csv">UKHousePricesClean2.csv</a></p>
 
     
